@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-_J7S7sWSgeRD6M6xX5wOug" name="r5b_-_describe_the_heursitic_evaluation_protocol,_AA2nEEZVEemUh_IZAUpcPQ" guid="-_J7S7sWSgeRD6M6xX5wOug" changeDate="2020-03-29T22:17:31.307-0300">
+  <mainDescription>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-f928eaf0-7fff-1d75-0b58-81094b231699&quot;>&lt;span>This task will be performed when the Process&#xD;
+    Executor needs to describe the Heuristic Evaluation Protocol.&lt;/span>&lt;/span>&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span>This protocol is part of the description of each of the Survey Methods presented&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+&lt;/p></keyConsiderations>
+  <sections xmi:id="_Rq8VkHIkEeqX7elkF4GZ8w" name="1. Describe all information about the Heuristic Evaluation" guid="_Rq8VkHIkEeqX7elkF4GZ8w"/>
+  <purpose>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-a76f2402-7fff-b8dd-9f1c-eea9782250d3&quot;>&lt;span>The Heuristic Evaluation Protocol must be&#xD;
+    described.&lt;/span>&lt;/span>&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-gkpc9LwxNdZ5CKkybWAQfA" name="r7a_-_report_the_quantitative_data,_IPfccEZVEemUh_IZAUpcPQ" guid="-gkpc9LwxNdZ5CKkybWAQfA" changeDate="2020-03-29T22:28:08.399-0300">
+  <mainDescription>&lt;p>&#xD;
+    &lt;span id=&quot;docs-internal-guid-fce48418-7fff-f5f3-0155-377528ae62df&quot;>&lt;span>This task will be performed when the Process&#xD;
+    Executor needs to report the quantitative data.&lt;/span>&lt;/span>&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span>The plan should identify which data elements are used to address which research question and how the data&#xD;
+    elements will be combined to answer the question b) describe any statistical forms or graphical forms to be used c)&#xD;
+    assess the threats to validity (construct, internal, external)&lt;/span>&#xD;
+&lt;/p></keyConsiderations>
+  <sections xmi:id="_JgZEEHImEeqX7elkF4GZ8w" name="1. Describe the details about quantitative data " guid="_JgZEEHImEeqX7elkF4GZ8w"/>
+  <purpose>&lt;p>&#xD;
+    &lt;span id=&quot;docs-internal-guid-a21b3ec0-7fff-114f-8ed1-bd7a7f858b85&quot;>&lt;span>The quantitative data should be reported&#xD;
+    through charts, spreadsheets or hypothesis testing.&lt;/span>&lt;/span>&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

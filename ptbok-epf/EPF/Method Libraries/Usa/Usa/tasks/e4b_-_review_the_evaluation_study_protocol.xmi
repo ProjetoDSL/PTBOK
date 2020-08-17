@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-TX9xnVfqKq_kRNd3rCX4Pg" name="e4b_-_review_the_evaluation_study_protocol,_WnPm0EBPEem9iaQSvThyxA" guid="-TX9xnVfqKq_kRNd3rCX4Pg" changeDate="2020-03-29T19:52:42.288-0300">
+  <mainDescription>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-25735fca-7fff-49c5-53cc-e1e8cb0934f5&quot;>&lt;span>This task will be performed when the Study&#xD;
+    Protocol has already been developed and needs to be revised.&lt;/span>&lt;/span>&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-f7ba4151-7fff-8ee8-e14f-bf48bf6a7428&quot;>&lt;span>Recommended that, in addition to the&#xD;
+    researcher who developed the protocol the evaluation of the Study Protocol, should be reviewed by one or more research&#xD;
+    who is aware of the subject matter, in addition to the researcher who developed the protocol.&lt;/span>&lt;/span>&#xD;
+&lt;/p></keyConsiderations>
+  <sections xmi:id="_D0M_UHIQEeqX7elkF4GZ8w" name="1. Review the Developed Evaluation Study Protocol" guid="_D0M_UHIQEeqX7elkF4GZ8w"/>
+  <purpose>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-8a1131a4-7fff-d95f-1560-b86ff8c43237&quot;>&lt;span>The Study Protocol needs to be revised to&#xD;
+    verify if needs changes to subsequently proceed with the conduct of evaluation.&lt;/span>&lt;/span>&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

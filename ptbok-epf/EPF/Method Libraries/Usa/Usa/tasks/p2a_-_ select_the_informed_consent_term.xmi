@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-VwMDyIf9OdqB_Qz_83I6vA" name="p2a_-_ select_the_informed_consent_term,_bjlVQD3vEem07NBMeZObjA" guid="-VwMDyIf9OdqB_Qz_83I6vA" changeDate="2020-03-29T17:20:49.726-0300">
+  <mainDescription>&lt;p>&#xD;
+    &lt;span id=&quot;docs-internal-guid-14d9c478-7fff-db39-004f-e64f64e71382&quot;>&lt;span>This task is related to the choice of the&#xD;
+    document to access data or to the participant’s consent to be part of the evaluation group.&lt;/span>&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p dir=&quot;ltr&quot;>&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span data-mce-mark=&quot;1&quot;>Select the Informed Consent Term for the participants to consent their participation in the&#xD;
+    research.&amp;nbsp;&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p dir=&quot;ltr&quot;>&#xD;
+&lt;/p>&#xD;
+&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span>If necessary,&amp;nbsp; select a Data Access Agreement to access a company’s database.&lt;/span>&#xD;
+&lt;/p></keyConsiderations>
+  <sections xmi:id="_EmXooHH7EeqX7elkF4GZ8w" name="1. Choose the Informed Consent Term" guid="_EmXooHH7EeqX7elkF4GZ8w"/>
+  <sections xmi:id="_UR2skH9NEeqCLqklk7niQg" name="2. Choose Data Access Agreement if necessary" guid="_UR2skH9NEeqCLqklk7niQg"/>
+  <purpose>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span>Usa-DSL follows best practices on ethical and legal issues to protect user data, dignity, anonymity and&#xD;
+    welfare.&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span>In addition, it includes some description that tells users that they can stop the evaluation at any time or if&#xD;
+    they are not comfortable with some aspects of the evaluation process.&lt;/span>&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

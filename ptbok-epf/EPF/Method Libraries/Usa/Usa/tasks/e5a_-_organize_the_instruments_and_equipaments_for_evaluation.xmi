@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-KTpOobV7nf-howzq9_TLIg" name="e5a_-_organize_the_instruments_and_equipaments_for_evaluation,_xIIrkEBPEem9iaQSvThyxA" guid="-KTpOobV7nf-howzq9_TLIg" changeDate="2020-04-15T20:40:39.680-0300">
+  <mainDescription>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-abbfaff1-7fff-c86e-1be1-e56703aad019&quot;>&lt;span>This task will be executed when the Process&#xD;
+    Executor needs to organize the instruments and equipment which will be used in the evaluation.&lt;/span>&lt;/span>&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>&lt;p>&#xD;
+    In this task the Process Executor was organized the questionnaires, presentations, use scenario, introduced term and&#xD;
+    emails.&#xD;
+&lt;/p></keyConsiderations>
+  <sections xmi:id="_maon0HIQEeqX7elkF4GZ8w" name="1. Organize all the instruments" guid="_maon0HIQEeqX7elkF4GZ8w"/>
+  <sections xmi:id="_mzWCwHIQEeqX7elkF4GZ8w" name="2. Check equipments will be used in the evaluation" guid="_mzWCwHIQEeqX7elkF4GZ8w"/>
+  <purpose>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-0536259d-7fff-4b5d-f879-79188f19836d&quot;>&lt;span>All instruments and equipment provided for in&#xD;
+    the study protocol must be previously organized by the Process Executor. At the time of the evaluation, everything that&#xD;
+    has been foreseen must be guaranteed that the validity of the study should not occur with threats.&lt;/span>&lt;/span>&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

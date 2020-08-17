@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="--urqpPubA7FH9WEsKzIa5A" name="r8e_-_report_the_opinion_questionnaire,_8fXn4EZVEemUh_IZAUpcPQ" guid="--urqpPubA7FH9WEsKzIa5A" changeDate="2020-03-29T22:41:54.461-0300">
+  <mainDescription>&lt;p>&#xD;
+    &lt;span id=&quot;docs-internal-guid-308c4e9c-7fff-8a0b-2d2a-32cbe283ff61&quot;>&lt;span>This task is performed when the Process&#xD;
+    Executor needs to report the Opinion Questionnaire.&lt;/span>&lt;/span>&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>&lt;p>&#xD;
+    &lt;span id=&quot;docs-internal-guid-4761c7ec-7fff-4136-97eb-63b21ac9e3a1&quot;>&lt;span>The Process Executor should present the&#xD;
+    Opinion Questionnaire with their appropriate amendments, presenting only the questions used in the study.&lt;/span>&lt;/span>&#xD;
+&lt;/p></keyConsiderations>
+  <sections xmi:id="_sSWxsHInEeqX7elkF4GZ8w" name="1. Present the Opinion questionnaire used in the evaluation" guid="_sSWxsHInEeqX7elkF4GZ8w"/>
+  <purpose>&lt;p>&#xD;
+    &lt;span id=&quot;docs-internal-guid-de455182-7fff-43a0-4d55-fff08cd1b087&quot;>&lt;span>The questionnaires used in the evaluation&#xD;
+    should be attached in the document used to present the study.&lt;/span>&lt;/span>&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

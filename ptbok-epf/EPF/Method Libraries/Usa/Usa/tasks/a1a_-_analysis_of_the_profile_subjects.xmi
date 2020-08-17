@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-qrHythe4IcgXcX6BeYWDpw" name="a1a_-_analysis_of_the_profile_subjects,_0d6AkJkPEemQRPuA_hcMlw" guid="-qrHythe4IcgXcX6BeYWDpw" changeDate="2020-04-15T21:20:49.422-0300">
+  <mainDescription>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-3cf01070-7fff-658e-38c5-97cfc7da8b91&quot;>&lt;span>This task will be performed when the Process&#xD;
+    Executor needs to classify the profile of participants.&lt;/span>&lt;/span>&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-4ad196d4-7fff-b9ef-440f-8c9d1339e9f0&quot;>&lt;span>The Process Executor must analyze the data&#xD;
+    related to the Profile Subjects in order to be able to make inferences about the results of the research.&lt;/span>&lt;/span>&#xD;
+&lt;/p></keyConsiderations>
+  <sections xmi:id="_MVMMIHIUEeqX7elkF4GZ8w" name="1. See the information raised" guid="_MVMMIHIUEeqX7elkF4GZ8w"/>
+  <sections xmi:id="_Mqg74HIUEeqX7elkF4GZ8w" name="2. Analyze the compiled data" guid="_Mqg74HIUEeqX7elkF4GZ8w"/>
+  <purpose>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span>The analysis of the profiles must be performed to classify the level of knowledge and experience&#xD;
+    participants.&amp;nbsp;&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span>These profiles can be classified into:&amp;nbsp;&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;br dir=&quot;ltr&quot; />&#xD;
+&lt;br />&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;span>&lt;strong>Beginner&lt;/strong> - one who does not have solid knowledge of the domain or about DSL.&lt;/span>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;br dir=&quot;ltr&quot; />&#xD;
+&lt;br />&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;span>&lt;strong>Intermediate&lt;/strong> - one who has some knowledge about the domain and / or about DSL&lt;/span>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;br dir=&quot;ltr&quot; />&#xD;
+&lt;br />&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;span>&lt;strong>Advanced&lt;/strong> - one who has solid knowledge of the domain and about DSL.&lt;/span>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></purpose>
+</org.eclipse.epf.uma:TaskDescription>

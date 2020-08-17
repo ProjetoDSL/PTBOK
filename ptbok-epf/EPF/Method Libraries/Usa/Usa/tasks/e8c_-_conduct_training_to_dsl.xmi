@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-czuetoFjbOHrQ8KlZR_Ayw" name="e8c_-_conduct_training_to_dsl,_N8GUQEBSEem9iaQSvThyxA" guid="-czuetoFjbOHrQ8KlZR_Ayw" changeDate="2020-03-29T20:07:17.179-0300">
+  <mainDescription>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-b94423ab-7fff-2777-fde4-f5a547077da7&quot;>&lt;span>This task will be performed when the Process&#xD;
+    Executor needs to level the knowledge of the participants about the DSL will be evaluated in the&#xD;
+    evaluation.&lt;/span>&lt;/span>&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-1ca88873-7fff-90cd-b7c1-42c93acab6e0&quot;>&lt;span>The Process Executor should present and&#xD;
+    introduce the material and DSL will be evaluated.&lt;/span>&lt;/span>&#xD;
+&lt;/p></keyConsiderations>
+  <sections xmi:id="_FjSscHISEeqX7elkF4GZ8w" name="1. Introduce DSL Guide" guid="_FjSscHISEeqX7elkF4GZ8w"/>
+  <sections xmi:id="_HZYEUHISEeqX7elkF4GZ8w" name="2. Introduce the Use Scenario" guid="_HZYEUHISEeqX7elkF4GZ8w"/>
+  <sections xmi:id="_FLIEEHISEeqX7elkF4GZ8w" name="3. Introduce the Language Presentation" guid="_FLIEEHISEeqX7elkF4GZ8w"/>
+  <purpose>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-8e8c9d69-7fff-cfbf-6fb2-747c67e713ee&quot;>&lt;span>Conduct training is the way to level the&#xD;
+    knowledge of the evaluation participants by providing materials for this.&lt;/span>&lt;/span>&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

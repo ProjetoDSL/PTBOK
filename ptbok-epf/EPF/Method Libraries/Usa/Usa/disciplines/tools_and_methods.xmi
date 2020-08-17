@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-jgzP_4qb1mhPtCo-rhxjeg" name="new_discipline,_WvvoEN9EEeqLEKK0pLdylg" guid="-jgzP_4qb1mhPtCo-rhxjeg" changeDate="2020-08-15T19:12:14.770-0300">
+  <mainDescription>Tools are extremely important for performance testing, since testing without tools to automate the process is impractical.&#xD;
+&lt;br />&#xD;
+Therefore, we have a specific domain that deals with the tools and methods used. &lt;br />&#xD;
+Tools are available on the market for virtually the entire performance testing life cycle. As for the methods, some&#xD;
+approaches to performance testing (load, stress, spike, etc.), as well as techniques (scripting, capture \&amp;amp; replay)&#xD;
+should be analyzed and chosen according to the test purpose and context.</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

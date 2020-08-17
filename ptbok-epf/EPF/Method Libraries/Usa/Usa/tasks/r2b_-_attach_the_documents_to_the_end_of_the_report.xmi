@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-3TNZPBPGELBMBzjXlHfLHQ" name="r2b_-_attach_the_documents_to_the_end_of_the_report,_JXElAEZUEemUh_IZAUpcPQ" guid="-3TNZPBPGELBMBzjXlHfLHQ" changeDate="2020-03-29T22:11:13.841-0300">
+  <mainDescription>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-a4292510-7fff-ca7a-c7ef-a870b0bde918&quot;>&lt;span>This task will be performed when the Process&#xD;
+    Executor needs to attach the documents to the end of the report.&lt;/span>&lt;/span>&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-2243938d-7fff-3799-90ca-10a5b518c58b&quot;>&lt;span>At the end of the report or on an online&#xD;
+    platform it is suggested to add all instruments used during the assessment.&lt;/span>&lt;/span>&#xD;
+&lt;/p></keyConsiderations>
+  <sections xmi:id="_ZMep0HIjEeqX7elkF4GZ8w" name="1. Attach Documentation in the final of the report" guid="_ZMep0HIjEeqX7elkF4GZ8w"/>
+  <sections xmi:id="_Zgnt0HIjEeqX7elkF4GZ8w" name="2. Up the documentation on a online platform" guid="_Zgnt0HIjEeqX7elkF4GZ8w"/>
+  <purpose>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-0468f961-7fff-7299-8e76-c8e195c6c277&quot;>&lt;span>After describing the documentation used in the&#xD;
+    evaluation needs to be compiled and attached at the end of the report.&lt;/span>&lt;/span>&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

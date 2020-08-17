@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-7m3Nqg3Xwaws1i7NWrx8FA" name="a9d_-_verify_the_tasks_incompleted,_WlBe8EZSEemUh_IZAUpcPQ" guid="-7m3Nqg3Xwaws1i7NWrx8FA" changeDate="2020-04-15T21:44:14.496-0300">
+  <mainDescription>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-9bd58389-7fff-46b8-e1d3-79859258995a&quot;>&lt;span&#xD;
+    id=&quot;docs-internal-guid-9bd58389-7fff-46b8-e1d3-79859258995a&quot;>&lt;span&#xD;
+    id=&quot;docs-internal-guid-b3a6e9f2-7fff-6188-4952-4d72a3e57fc4&quot;>&lt;span>The verification of tasks uncompleted should be done&#xD;
+    so the evaluation of those that did not reach the objectives of the task, or did not complete the intended task, will&#xD;
+    be discarded.&lt;/span>&lt;/span>&lt;br />&#xD;
+    &lt;/span>&lt;/span>&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-9bd58389-7fff-46b8-e1d3-79859258995a&quot;>&lt;span&#xD;
+    id=&quot;docs-internal-guid-9bd58389-7fff-46b8-e1d3-79859258995a&quot;>&lt;span&#xD;
+    id=&quot;docs-internal-guid-1082f4de-7fff-016e-fe6b-ef4e5e94723d&quot;>&lt;span>The Process Executors should also analyse the number&#xD;
+    of incomplete tasks and the reason for doing so in order to obtain relevant information about the DSL being&#xD;
+    used.&lt;/span>&lt;/span>&lt;br />&#xD;
+    &lt;/span>&lt;/span>&#xD;
+&lt;/p></keyConsiderations>
+  <sections xmi:id="_p9HAUHIhEeqX7elkF4GZ8w" name="1. Acess tasks completed by participants" guid="_p9HAUHIhEeqX7elkF4GZ8w"/>
+  <sections xmi:id="_qTp4EHIhEeqX7elkF4GZ8w" name="2. Analyze the tasks incompleted " guid="_qTp4EHIhEeqX7elkF4GZ8w"/>
+  <sections xmi:id="_sbegMHIhEeqX7elkF4GZ8w" name="3. Identify the reason for not completing the task" guid="_sbegMHIhEeqX7elkF4GZ8w"/>
+  <purpose>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-9bd58389-7fff-46b8-e1d3-79859258995a&quot;>&lt;span&#xD;
+    id=&quot;docs-internal-guid-9bd58389-7fff-46b8-e1d3-79859258995a&quot;>&lt;span&#xD;
+    id=&quot;docs-internal-guid-b3a6e9f2-7fff-6188-4952-4d72a3e57fc4&quot;>&lt;span>The verification of tasks incompleted should be done&#xD;
+    so the evaluation of those that did not reach the objectives of the task, or did not complete the intended task, will&#xD;
+    be discarded.&lt;/span>&lt;/span>&lt;br />&#xD;
+    &lt;/span>&lt;/span>&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

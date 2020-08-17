@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-d87N8Red_Ihmm4g8rCCsew" name="new_discipline,_Inf7AN9EEeqLEKK0pLdylg" guid="-d87N8Red_Ihmm4g8rCCsew">
+  <mainDescription>&lt;p>&#xD;
+    This domain has some characteristics similar to the requirements domain.&lt;br />&#xD;
+    However, the main difference is that the acceptance criteria have a greater focus on performance testing business&#xD;
+    rules, with an approach more focused on the results and metrics that must be collected, while the requirements domain&#xD;
+    looks at the application to be tested and lists the features to be tested.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The main activities in this domain involve identify the response time, throughput, and resource utilization goals and&#xD;
+    constraints.&lt;br />&#xD;
+    In general, response time is a user concern, throughput is a business concern, and resource utilization is a system&#xD;
+    concern.&lt;br />&#xD;
+    Additionally, identify project success criteria that may not be captured by those goals and constraints; for example,&#xD;
+    using performance tests to evaluate what combination of configuration settings will result in the most desirable&#xD;
+    performance characteristics.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

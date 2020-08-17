@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-WCHGzkAf-1_pIFhPW9enoQ" name="e1a_-_select_the_instruments_to_identify_profile,_3-o4MJkWEemQRPuA_hcMlw" guid="-WCHGzkAf-1_pIFhPW9enoQ" changeDate="2020-03-29T19:30:36.630-0300">
+  <mainDescription>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-84502e2d-7fff-4eb7-1ede-83bc26664fa8&quot;>&lt;span>This task will be executed when the Process&#xD;
+    Executor needs to select the instrument to identify the profiles of participants of evaluation.&lt;/span>&lt;/span>&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-525a9e00-7fff-9e03-29ce-aa79ccaf8e96&quot;>&lt;span>This task will be run on all the&#xD;
+    evaluation&lt;/span>&lt;/span>&#xD;
+&lt;/p></keyConsiderations>
+  <sections xmi:id="_-aG1gHIMEeqX7elkF4GZ8w" name="1. Select Profile Questionnaire " guid="_-aG1gHIMEeqX7elkF4GZ8w"/>
+  <purpose>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-5640c1f2-7fff-7c4f-5616-cb04f6f3bc69&quot;>&lt;span>The profiles of evaluators can be identified&#xD;
+    by a Profile Questionnaire.&lt;/span>&lt;/span>&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

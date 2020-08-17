@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-HrvzsrP2-6tc-HRmgds_fw" name="a7b_-_analyze_the_images_and_logs,_iiUCQEZQEemUh_IZAUpcPQ" guid="-HrvzsrP2-6tc-HRmgds_fw" changeDate="2020-04-15T21:30:39.960-0300">
+  <mainDescription>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-de87474c-7fff-c1ec-8320-54e8c0e82dc0&quot;>&lt;span>This task will be performed when the Process&#xD;
+    Executor needs analyze the images and logs that were generated in the evaluation.&lt;/span>&lt;/span>&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-5923723f-7fff-d596-8245-83a47f71fbf5&quot;>&lt;span>One or more Process Executors must analyze the&#xD;
+    images or the logs recorded during the evaluation.&lt;/span>&lt;/span>&#xD;
+&lt;/p></keyConsiderations>
+  <sections xmi:id="_ScTe4HIVEeqX7elkF4GZ8w" name="1. Analyze the images and logs" guid="_ScTe4HIVEeqX7elkF4GZ8w"/>
+  <purpose>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-387aee0c-7fff-36e4-1718-eb52e86652eb&quot;>&lt;span>During the evaluation certain models or codes&#xD;
+    will be generated, this material will be used for analysis later and inference of the results of the&#xD;
+    study.&lt;/span>&lt;/span>&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-uJ17us8Io_2KHwNlc1pU5Q" name="a11a_-_analyze_the_documentation_to_be_used_in_the_evaluation,_gcNmgEZSEemUh_IZAUpcPQ" guid="-uJ17us8Io_2KHwNlc1pU5Q" changeDate="2020-03-29T21:59:46.236-0300">
+  <mainDescription>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-9bd58389-7fff-46b8-e1d3-79859258995a&quot;>&lt;span&#xD;
+    id=&quot;docs-internal-guid-9bd58389-7fff-46b8-e1d3-79859258995a&quot;>&lt;span&#xD;
+    id=&quot;docs-internal-guid-cde1612a-7fff-7e4b-c621-a302893dcffd&quot;>&lt;span>This task will be performed when the Process&#xD;
+    Executor needs to analyze the consistency of the produced information and documentation to be used in the&#xD;
+    evaluation.&lt;/span>&lt;/span>&lt;/span>&lt;/span>&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-9bd58389-7fff-46b8-e1d3-79859258995a&quot;>&lt;span&#xD;
+    id=&quot;docs-internal-guid-9bd58389-7fff-46b8-e1d3-79859258995a&quot;>&lt;span&#xD;
+    id=&quot;docs-internal-guid-a028bf5c-7fff-cba4-1a54-c6706522c02c&quot;>&lt;span>The documentation of the evaluation should be&#xD;
+    precisely conferred by more than one Process Executor, as well as go through a pilot test to calibrate the instruments&#xD;
+    and the protocol.&lt;/span>&lt;/span>&lt;/span>&lt;/span>&#xD;
+&lt;/p></keyConsiderations>
+  <sections xmi:id="_3DRlUHIhEeqX7elkF4GZ8w" name="1. Access all documentation of evaluation" guid="_3DRlUHIhEeqX7elkF4GZ8w"/>
+  <sections xmi:id="_4B6-4HIhEeqX7elkF4GZ8w" name="2. Double-checked documentation by at least two researchers" guid="_4B6-4HIhEeqX7elkF4GZ8w"/>
+  <purpose>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-9bd58389-7fff-46b8-e1d3-79859258995a&quot;>&lt;span&#xD;
+    id=&quot;docs-internal-guid-9bd58389-7fff-46b8-e1d3-79859258995a&quot;>&lt;span&#xD;
+    id=&quot;docs-internal-guid-bb10f44b-7fff-3208-c97b-da9ba7cee28a&quot;>&lt;span>The documentation should be analyzed to ensure that&#xD;
+    there are no inconsistencies, must be analyzed by the researcher and checked by a second&#xD;
+    researcher.&lt;/span>&lt;/span>&lt;/span>&lt;/span>&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>
