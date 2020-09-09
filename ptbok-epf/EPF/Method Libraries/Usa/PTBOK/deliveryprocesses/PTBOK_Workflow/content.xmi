@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma:DeliveryProcessDescription xmi:id="-VOzBTo6eSPGsLfBMF9VtLg" name="PTBOK_Workflow,_0Cjqwd9YEeqLEKK0pLdylg" guid="-VOzBTo6eSPGsLfBMF9VtLg"/>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-BMZlxxeHun9ySvM-qFjPqA" name="Planning,_1EU-4N9aEeqLEKK0pLdylg" guid="-BMZlxxeHun9ySvM-qFjPqA">
+    <mainDescription>The planning phase is the first performance testing phase. &lt;br />&#xD;
+In this phase, some factors are mapped, such as the allocation of resources, be it infrastructure, data and also human&#xD;
+resources involved in the test. &lt;br />&#xD;
+The general scope of the performance test should be defined during the planning phase. &lt;br />&#xD;
+In addition, the identification and analysis of risks as well as information relevant to the test should also be mapped.&#xD;
+&lt;br />&#xD;
+In summary, the definition of the test occurs in the planning phase.</mainDescription>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-xo4qeM93riHwdeDzB3BgWQ" name="performance_analyst,_MBEK8N9cEeqLEKK0pLdylg" guid="-xo4qeM93riHwdeDzB3BgWQ">
+    <refinedDescription>Performance Analyst have participation in early and late performance testing phases. It is responsible by initial testing&#xD;
+planning and documentation, providing input to subsequent phases, design and configuration. This role is also present after&#xD;
+testing execution, on this account, it is employed in the analysis and reporting phases.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-oNphCChxHZ2Sy7jjnpeHcw" name="performance_analyst,_APLb0N9dEeqLEKK0pLdylg" guid="-oNphCChxHZ2Sy7jjnpeHcw">
+    <refinedDescription>Performance Analyst have participation in early and late performance testing phases. It is responsible by initial testing&#xD;
+planning and documentation, providing input to subsequent phases, design and configuration. This role is also present after&#xD;
+testing execution, on this account, it is employed in the analysis and reporting phases.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-3IaqPug0gwzTr0ewb9PqEQ" name="performance_analyst,_US2lgN9dEeqLEKK0pLdylg" guid="-3IaqPug0gwzTr0ewb9PqEQ">
+    <refinedDescription>Performance Analyst have participation in early and late performance testing phases. It is responsible by initial testing&#xD;
+planning and documentation, providing input to subsequent phases, design and configuration. This role is also present after&#xD;
+testing execution, on this account, it is employed in the analysis and reporting phases.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-nWXXIDVcEvHGiWBhEUtUqw" name="performance_architecht,_3FhTMN9dEeqLEKK0pLdylg" guid="-nWXXIDVcEvHGiWBhEUtUqw">
+    <refinedDescription>This role is involved within Design and Configuration Phases and it must make a connecting bridge between early phases and&#xD;
+testing execution.&lt;br />&#xD;
+A Performance Architect must have skills to make design and configuration activities.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="--GTXGlKJCNt5bnCaWwpVvA" name="performance_analyst,_If9Jwd9eEeqLEKK0pLdylg" guid="--GTXGlKJCNt5bnCaWwpVvA">
+    <refinedDescription>Performance Analyst have participation in early and late performance testing phases. It is responsible by initial testing&#xD;
+planning and documentation, providing input to subsequent phases, design and configuration. This role is also present after&#xD;
+testing execution, on this account, it is employed in the analysis and reporting phases.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-JCUYYLst9oi775A3Akdy6Q" name="performance_analyst,_WANpwN9eEeqLEKK0pLdylg" guid="-JCUYYLst9oi775A3Akdy6Q">
+    <refinedDescription>Performance Analyst have participation in early and late performance testing phases. It is responsible by initial testing&#xD;
+planning and documentation, providing input to subsequent phases, design and configuration. This role is also present after&#xD;
+testing execution, on this account, it is employed in the analysis and reporting phases.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-j9xbYup0kp-VfMMJtEIEfA" name="performance_analyst,_cz_qsN9eEeqLEKK0pLdylg" guid="-j9xbYup0kp-VfMMJtEIEfA">
+    <refinedDescription>Performance Analyst have participation in early and late performance testing phases. It is responsible by initial testing&#xD;
+planning and documentation, providing input to subsequent phases, design and configuration. This role is also present after&#xD;
+testing execution, on this account, it is employed in the analysis and reporting phases.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-3kVEboTKTpYjOhTXKgkH8g" name="performance_architecht,_iP6g0N9eEeqLEKK0pLdylg" guid="-3kVEboTKTpYjOhTXKgkH8g">
+    <refinedDescription>This role is involved within Design and Configuration Phases and it must make a connecting bridge between early phases and&#xD;
+testing execution.&lt;br />&#xD;
+A Performance Architect must have skills to make design and configuration activities.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-9B9m9Pcr2SrrCjJe_tKGAQ" name="performance_architecht,_ysC8Ed9eEeqLEKK0pLdylg" guid="-9B9m9Pcr2SrrCjJe_tKGAQ">
+    <refinedDescription>This role is involved within Design and Configuration Phases and it must make a connecting bridge between early phases and&#xD;
+testing execution.&lt;br />&#xD;
+A Performance Architect must have skills to make design and configuration activities.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-sR90atsrieofa-76MNvAqA" name="performance_architecht,_M9R0MN9fEeqLEKK0pLdylg" guid="-sR90atsrieofa-76MNvAqA">
+    <refinedDescription>This role is involved within Design and Configuration Phases and it must make a connecting bridge between early phases and&#xD;
+testing execution.&lt;br />&#xD;
+A Performance Architect must have skills to make design and configuration activities.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-3lKhfa0PkGaI9JmtxHWFtA" name="performance_architecht,_3QkasN9fEeqLEKK0pLdylg" guid="-3lKhfa0PkGaI9JmtxHWFtA">
+    <refinedDescription>This role is involved within Design and Configuration Phases and it must make a connecting bridge between early phases and&#xD;
+testing execution.&lt;br />&#xD;
+A Performance Architect must have skills to make design and configuration activities.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-R8JkmqhZ5y1QUKvh7DwFZg" name="performance_architecht,_FJLJQd9gEeqLEKK0pLdylg" guid="-R8JkmqhZ5y1QUKvh7DwFZg">
+    <refinedDescription>This role is involved within Design and Configuration Phases and it must make a connecting bridge between early phases and&#xD;
+testing execution.&lt;br />&#xD;
+A Performance Architect must have skills to make design and configuration activities.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-SZOPaoau49EDoOS6nnJuKA" name="performance_architecht,_RPUbsN9gEeqLEKK0pLdylg" guid="-SZOPaoau49EDoOS6nnJuKA">
+    <refinedDescription>This role is involved within Design and Configuration Phases and it must make a connecting bridge between early phases and&#xD;
+testing execution.&lt;br />&#xD;
+A Performance Architect must have skills to make design and configuration activities.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-k3ex5_0WRtAnVvkgl2tOWw" name="performance_analyst,_fa37cN9gEeqLEKK0pLdylg" guid="-k3ex5_0WRtAnVvkgl2tOWw">
+    <refinedDescription>Performance Analyst have participation in early and late performance testing phases. It is responsible by initial testing&#xD;
+planning and documentation, providing input to subsequent phases, design and configuration. This role is also present after&#xD;
+testing execution, on this account, it is employed in the analysis and reporting phases.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-vrSd-de6TcxhnbWH8RhgCw" name="performance_analyst,_v0wT8N9gEeqLEKK0pLdylg" guid="-vrSd-de6TcxhnbWH8RhgCw">
+    <refinedDescription>Performance Analyst have participation in early and late performance testing phases. It is responsible by initial testing&#xD;
+planning and documentation, providing input to subsequent phases, design and configuration. This role is also present after&#xD;
+testing execution, on this account, it is employed in the analysis and reporting phases.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-qZ3Iwwv5yiiRv7SLxfOeEg" name="performance_tester,__jW60N9gEeqLEKK0pLdylg" guid="-qZ3Iwwv5yiiRv7SLxfOeEg">
+    <refinedDescription>This role is directly related to testing execution phase. A Performance Tester is the one who should &quot;execute&quot; performance&#xD;
+testing, making use of available tools for performing this activity.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-nhCSAe3rkNSsvbKCM1OuqQ" name="performance_tester,_KYNkgN9hEeqLEKK0pLdylg" guid="-nhCSAe3rkNSsvbKCM1OuqQ">
+    <refinedDescription>This role is directly related to testing execution phase. A Performance Tester is the one who should &quot;execute&quot; performance&#xD;
+testing, making use of available tools for performing this activity.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-khm6IU4lVCJTIsaqTA_RKg" name="performance_tester,_avbDgN9hEeqLEKK0pLdylg" guid="-khm6IU4lVCJTIsaqTA_RKg">
+    <refinedDescription>This role is directly related to testing execution phase. A Performance Tester is the one who should &quot;execute&quot; performance&#xD;
+testing, making use of available tools for performing this activity.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-BfGrKuP3wAYXj-CjuRI_dQ" name="performance_tester,_lelU4N9hEeqLEKK0pLdylg" guid="-BfGrKuP3wAYXj-CjuRI_dQ">
+    <refinedDescription>This role is directly related to testing execution phase. A Performance Tester is the one who should &quot;execute&quot; performance&#xD;
+testing, making use of available tools for performing this activity.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-rEosAh2u24X4VQCKxZsvsg" name="performance_tester,_vWNhUN9hEeqLEKK0pLdylg" guid="-rEosAh2u24X4VQCKxZsvsg">
+    <refinedDescription>This role is directly related to testing execution phase. A Performance Tester is the one who should &quot;execute&quot; performance&#xD;
+testing, making use of available tools for performing this activity.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-PFIzs8vnquwJQSoCe1nOyw" name="performance_tester,_6eonQN9hEeqLEKK0pLdylg" guid="-PFIzs8vnquwJQSoCe1nOyw">
+    <refinedDescription>This role is directly related to testing execution phase. A Performance Tester is the one who should &quot;execute&quot; performance&#xD;
+testing, making use of available tools for performing this activity.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-fop8VZkCBFJjSewSWQK50g" name="performance_tester,_A4xZIN9iEeqLEKK0pLdylg" guid="-fop8VZkCBFJjSewSWQK50g">
+    <refinedDescription>This role is directly related to testing execution phase. A Performance Tester is the one who should &quot;execute&quot; performance&#xD;
+testing, making use of available tools for performing this activity.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-WVbPIMcX1mw777q7nMSihQ" name="performance_tester,_IG2JYN9iEeqLEKK0pLdylg" guid="-WVbPIMcX1mw777q7nMSihQ">
+    <refinedDescription>This role is directly related to testing execution phase. A Performance Tester is the one who should &quot;execute&quot; performance&#xD;
+testing, making use of available tools for performing this activity.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-FT6yxRIH5RPXIoQshqDl0g" name="performance_analyst,_SsUTQN9iEeqLEKK0pLdylg" guid="-FT6yxRIH5RPXIoQshqDl0g">
+    <refinedDescription>Performance Analyst have participation in early and late performance testing phases. It is responsible by initial testing&#xD;
+planning and documentation, providing input to subsequent phases, design and configuration. This role is also present after&#xD;
+testing execution, on this account, it is employed in the analysis and reporting phases.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-Fwy9IyWrPG-Iwg4L_xQAug" name="performance_tester,_07i8sN9iEeqLEKK0pLdylg" guid="-Fwy9IyWrPG-Iwg4L_xQAug">
+    <refinedDescription>This role is directly related to testing execution phase. A Performance Tester is the one who should &quot;execute&quot; performance&#xD;
+testing, making use of available tools for performing this activity.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-3ENBawJxUNl_JG9iw19S-A" name="performance_analyst,_7OorYN9iEeqLEKK0pLdylg" guid="-3ENBawJxUNl_JG9iw19S-A">
+    <refinedDescription>Performance Analyst have participation in early and late performance testing phases. It is responsible by initial testing&#xD;
+planning and documentation, providing input to subsequent phases, design and configuration. This role is also present after&#xD;
+testing execution, on this account, it is employed in the analysis and reporting phases.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-T5YXCw7MD5AzjCmRoj5A0A" name="performance_analyst,_JUWo4N9jEeqLEKK0pLdylg" guid="-T5YXCw7MD5AzjCmRoj5A0A">
+    <refinedDescription>Performance Analyst have participation in early and late performance testing phases. It is responsible by initial testing&#xD;
+planning and documentation, providing input to subsequent phases, design and configuration. This role is also present after&#xD;
+testing execution, on this account, it is employed in the analysis and reporting phases.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+</xmi:XMI>

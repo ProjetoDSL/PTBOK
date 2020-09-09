@@ -7,11 +7,8 @@
   <methodElementProperty xmi:id="_luoE0UciEemzv-iwDDdmtg" name="update_on_click" value="false"/>
   <methodPluginSelection href="uma://_EJQ_4D3vEem07NBMeZObjA#_EJQ_4D3vEem07NBMeZObjA"/>
   <methodPackageSelection xsi:type="org.eclipse.epf.uma:ProcessPackage" href="uma://_EJQ_4D3vEem07NBMeZObjA#_EJQ_7j3vEem07NBMeZObjA"/>
-  <methodPackageSelection xsi:type="org.eclipse.epf.uma:ProcessComponent" href="uma://_uFqh8EZWEemUh_IZAUpcPQ#_uFqh8EZWEemUh_IZAUpcPQ"/>
   <methodPackageSelection xsi:type="org.eclipse.epf.uma:ProcessPackage" href="uma://_EJQ_4D3vEem07NBMeZObjA#_EJQ_7T3vEem07NBMeZObjA"/>
   <methodPackageSelection xsi:type="org.eclipse.epf.uma:ContentPackage" href="uma://_EJQ_4D3vEem07NBMeZObjA#_R_a3YD3vEem07NBMeZObjA"/>
-  <methodPackageSelection xsi:type="org.eclipse.epf.uma:ContentPackage" href="uma://_EJQ_4D3vEem07NBMeZObjA#_tT8bEEp9EemHNIr5HrcLHA"/>
-  <methodPackageSelection xsi:type="org.eclipse.epf.uma:ContentPackage" href="uma://_EJQ_4D3vEem07NBMeZObjA#_VxV_4FcUEemaJeNERE1yTw"/>
   <methodPackageSelection xsi:type="org.eclipse.epf.uma:ContentPackage" href="uma://_EJQ_4D3vEem07NBMeZObjA#_EJQ_7D3vEem07NBMeZObjA"/>
   <methodPackageSelection xsi:type="org.eclipse.epf.uma:ContentPackage" href="uma://_EJQ_4D3vEem07NBMeZObjA#_EJQ_4T3vEem07NBMeZObjA"/>
   <methodPackageSelection xsi:type="org.eclipse.epf.uma:ContentPackage" href="uma://_EJQ_4D3vEem07NBMeZObjA#_EJQ_5T3vEem07NBMeZObjA"/>
@@ -24,27 +21,11 @@
   <methodPackageSelection xsi:type="org.eclipse.epf.uma:ContentPackage" href="uma://_EJQ_4D3vEem07NBMeZObjA#_EJQ_6D3vEem07NBMeZObjA"/>
   <methodPackageSelection xsi:type="org.eclipse.epf.uma:ContentPackage" href="uma://_EJQ_4D3vEem07NBMeZObjA#_EJQ_6j3vEem07NBMeZObjA"/>
   <methodPackageSelection xsi:type="org.eclipse.epf.uma:ProcessComponent" href="uma://_0CjqwN9YEeqLEKK0pLdylg#_0CjqwN9YEeqLEKK0pLdylg"/>
-  <processViews xsi:type="org.eclipse.epf.uma:CustomCategory" href="uma://_EJQ_4D3vEem07NBMeZObjA#_hZWDoEm0EemSM7ZgC4tU6Q"/>
   <defaultView xsi:type="org.eclipse.epf.uma:CustomCategory" href="uma://_EJQ_4D3vEem07NBMeZObjA#_hZWDoEm0EemSM7ZgC4tU6Q"/>
-  <addedCategory xsi:type="org.eclipse.epf.uma:Discipline" href="uma://_EJQ_4D3vEem07NBMeZObjA#_u3aDQEBIEem9iaQSvThyxA"/>
-  <addedCategory xsi:type="org.eclipse.epf.uma:Discipline" href="uma://_EJQ_4D3vEem07NBMeZObjA#_rlDXIEBHEem9iaQSvThyxA"/>
-  <addedCategory xsi:type="org.eclipse.epf.uma:Discipline" href="uma://_EJQ_4D3vEem07NBMeZObjA#_UKlYIEBEEem9iaQSvThyxA"/>
-  <addedCategory xsi:type="org.eclipse.epf.uma:Discipline" href="uma://_EJQ_4D3vEem07NBMeZObjA#_IhK0QD3vEem07NBMeZObjA"/>
-  <addedCategory xsi:type="org.eclipse.epf.uma:Discipline" href="uma://_EJQ_4D3vEem07NBMeZObjA#_Otz8sD3vEem07NBMeZObjA"/>
-  <addedCategory xsi:type="org.eclipse.epf.uma:Discipline" href="uma://_EJQ_4D3vEem07NBMeZObjA#_3KcF4EBHEem9iaQSvThyxA"/>
-  <addedCategory xsi:type="org.eclipse.epf.uma:Discipline" href="uma://_EJQ_4D3vEem07NBMeZObjA#_LTEBAEBIEem9iaQSvThyxA"/>
-  <addedCategory xsi:type="org.eclipse.epf.uma:Discipline" href="uma://_EJQ_4D3vEem07NBMeZObjA#_EdYioEBIEem9iaQSvThyxA"/>
-  <addedCategory xsi:type="org.eclipse.epf.uma:Discipline" href="uma://_EJQ_4D3vEem07NBMeZObjA#_czkDUEBIEem9iaQSvThyxA"/>
-  <addedCategory xsi:type="org.eclipse.epf.uma:Discipline" href="uma://_EJQ_4D3vEem07NBMeZObjA#_1dEIoEBIEem9iaQSvThyxA"/>
-  <addedCategory xsi:type="org.eclipse.epf.uma:Discipline" href="uma://_EJQ_4D3vEem07NBMeZObjA#_nsIIUEBIEem9iaQSvThyxA"/>
-  <addedCategory xsi:type="org.eclipse.epf.uma:RoleSet" href="uma://_EJQ_4D3vEem07NBMeZObjA#_M21TkHzSEem7gbsEJBq4BQ"/>
-  <addedCategory xsi:type="org.eclipse.epf.uma:RoleSet" href="uma://_EJQ_4D3vEem07NBMeZObjA#_a-ZBAHwKEemow5h2Pq1a2g"/>
-  <addedCategory xsi:type="org.eclipse.epf.uma:RoleSet" href="uma://_EJQ_4D3vEem07NBMeZObjA#__jOFUHwJEemow5h2Pq1a2g"/>
   <addedCategory xsi:type="org.eclipse.epf.uma:CustomCategory" href="uma://_EJQ_4D3vEem07NBMeZObjA#_LJvM0EqDEemHNIr5HrcLHA"/>
   <addedCategory xsi:type="org.eclipse.epf.uma:CustomCategory" href="uma://_EJQ_4D3vEem07NBMeZObjA#_BjRH8O69EemR0K2er3Z5oQ"/>
   <addedCategory xsi:type="org.eclipse.epf.uma:CustomCategory" href="uma://_EJQ_4D3vEem07NBMeZObjA#_JgyHAHm4EeqzVu_WcjYBCg"/>
   <addedCategory xsi:type="org.eclipse.epf.uma:CustomCategory" href="uma://_EJQ_4D3vEem07NBMeZObjA#_B9XxMHm-EeqzVu_WcjYBCg"/>
-  <addedCategory xsi:type="org.eclipse.epf.uma:DisciplineGrouping" href="uma://_EJQ_4D3vEem07NBMeZObjA#_Ky-eMEp5EemHNIr5HrcLHA"/>
   <addedCategory xsi:type="org.eclipse.epf.uma:CustomCategory" href="uma://_EJQ_4D3vEem07NBMeZObjA#_L4IWIEp-EemHNIr5HrcLHA"/>
   <addedCategory xsi:type="org.eclipse.epf.uma:CustomCategory" href="uma://_EJQ_4D3vEem07NBMeZObjA#_mvfI0IUcEeq2CYVNNkAusQ"/>
   <addedCategory xsi:type="org.eclipse.epf.uma:CustomCategory" href="uma://_EJQ_4D3vEem07NBMeZObjA#_l9K-QIUgEeq2CYVNNkAusQ"/>

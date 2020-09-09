@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-UG4vCE0P3VyP2JmtREHhUg" name="new_custom_category,_LBrXEN9HEeqLEKK0pLdylg" guid="-UG4vCE0P3VyP2JmtREHhUg">
+  <mainDescription>The Test stage occurs from the outputs of the previous stage (pre-test) and consists of two (2) phases, Execution and&#xD;
+Monitoring. &lt;br />&#xD;
+The execution phase brings together the activities related to the workload application according to the planned scenarios.&#xD;
+&lt;br />&#xD;
+The Monitoring phase, in turn, is responsible for verifying the application's behavior as a result of the applied workload.</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>
