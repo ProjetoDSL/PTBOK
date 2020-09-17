@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ABumSdYmRn-JBo2wnnA--g" name="ptbok_p1.3_specify_performance_requirements,_pFArAN9LEeqLEKK0pLdylg" guid="-ABumSdYmRn-JBo2wnnA--g">
+  <sections xmi:id="_zUf3kPiWEeq-GNGrt9WlHQ" name="Consolidate Performance Testing Requirements Specification" guid="_zUf3kPiWEeq-GNGrt9WlHQ"/>
+  <sections xmi:id="_7iw5gPiWEeq-GNGrt9WlHQ" name="Update Performance Testing Requirements Specification" guid="_7iw5gPiWEeq-GNGrt9WlHQ">
+    <sectionDescription>&lt;p>&#xD;
+    Add to &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../PTBOK/workproducts/performance_testing_requirements_specification_E7B83B2E.html&quot;&#xD;
+    guid=&quot;_qxbZcPLnEeqG-7knepYd9A&quot;>Performance Testing Requirements Specification&lt;/a>&amp;nbsp;the following info:&#xD;
+&lt;/p>&#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        Feasibility info;&#xD;
+    &lt;/li>&#xD;
+&lt;/ol></sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:TaskDescription>

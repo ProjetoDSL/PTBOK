@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-lA99PwCSB3tNboqZECWjhA" name="ptbok_a7.2_analyze_results,_v_TRsN9NEeqLEKK0pLdylg" guid="-lA99PwCSB3tNboqZECWjhA">
+  <sections xmi:id="_l7zoEPiqEeq-GNGrt9WlHQ" name="Make inputs comparative" guid="_l7zoEPiqEeq-GNGrt9WlHQ"/>
+  <sections xmi:id="_mIFwkPiqEeq-GNGrt9WlHQ" name="Update Performance Testing Report" guid="_mIFwkPiqEeq-GNGrt9WlHQ">
+    <sectionDescription>&lt;p>&#xD;
+    Add to &lt;a class=&quot;elementLink&quot; href=&quot;./../../PTBOK/workproducts/performance_testing_report_6C2ADA41.html&quot;&#xD;
+    guid=&quot;_8UDisPLnEeqG-7knepYd9A&quot;>Performance Testing Report&lt;/a>&amp;nbsp;the following info:&#xD;
+&lt;/p>&#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        Analysis info;&#xD;
+    &lt;/li>&#xD;
+&lt;/ol></sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:TaskDescription>

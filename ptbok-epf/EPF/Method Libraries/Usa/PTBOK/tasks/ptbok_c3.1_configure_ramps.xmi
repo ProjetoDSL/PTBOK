@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-jPOaKf-DfpVga5B1y7pPrA" name="ptbok_c3.1_configure_ramps,_rYrkgN9QEeqLEKK0pLdylg" guid="-jPOaKf-DfpVga5B1y7pPrA">
+  <sections xmi:id="_SHm3EPilEeq-GNGrt9WlHQ" name="Select ramp type" guid="_SHm3EPilEeq-GNGrt9WlHQ"/>
+  <sections xmi:id="_UAnAEPilEeq-GNGrt9WlHQ" name="Configure the Ramp Up" guid="_UAnAEPilEeq-GNGrt9WlHQ"/>
+  <sections xmi:id="_VEllkPilEeq-GNGrt9WlHQ" name="Configure the Steady State" guid="_VEllkPilEeq-GNGrt9WlHQ"/>
+  <sections xmi:id="_YIW4kPilEeq-GNGrt9WlHQ" name="Configure the Ramp Down" guid="_YIW4kPilEeq-GNGrt9WlHQ"/>
+  <sections xmi:id="_Z7QZkPilEeq-GNGrt9WlHQ" name="Update Performance Testing Plan" guid="_Z7QZkPilEeq-GNGrt9WlHQ">
+    <sectionDescription>&lt;p>&#xD;
+    Add to &lt;a class=&quot;elementLink&quot; href=&quot;./../../PTBOK/workproducts/performance_testing_plan_39B50284.html&quot;&#xD;
+    guid=&quot;_ucpuAPLnEeqG-7knepYd9A&quot;>Performance Testing Plan&lt;/a>&amp;nbsp;the following info:&#xD;
+&lt;/p>&#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        Ramps info&#xD;
+    &lt;/li>&#xD;
+&lt;/ol></sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:TaskDescription>
