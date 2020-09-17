@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-a2Z7e6L7hxZJ5HyLuWupDg" name="new_toolmentor,_fnq0gPh-EeqmAdqfLYd_Fg" guid="-a2Z7e6L7hxZJ5HyLuWupDg" changeDate="2020-09-16T22:13:59.328-0300">
+  <mainDescription>&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    Developer(s): Junzan Zhou, Bo Zhou, Shanping Li.&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    System Requirements: N/A.&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    Operating Systems: N/A&lt;/span>.&#xD;
+&lt;/p>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    Functionalities: CLTF can effectively evaluate service performance against performance requirements. The measured&#xD;
+    response time, throughput and error rate can continuously protect services from poor performance. This tool helps&#xD;
+    reveal a large amount of critical performance issues, including memory leak, concurrent errors, and server hung and so&#xD;
+    on.&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    Scripting Method: Model-Based.&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    Language/Model: Sequencial Action Model (SAM).&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    License Type: N/A.&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    Links: &lt;a href=&quot;https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;amp;arnumber=6903204&quot;&#xD;
+    target=&quot;_blank&quot;>https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;amp;arnumber=6903204&lt;/a>&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img style=&quot;HEIGHT: 360px; WIDTH: 781px&quot; alt=&quot;&quot; src=&quot;resources/CLTF.png&quot; width=&quot;600&quot; height=&quot;360&quot; />&lt;br&#xD;
+    style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot; />&#xD;
+    &lt;br />&#xD;
+    &lt;br class=&quot;Apple-interchange-newline&quot; />&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

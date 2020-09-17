@@ -44,6 +44,27 @@
     <resourceDescriptors xmi:id="_ZSRSYt9IEeqLEKK0pLdylg" id="-hk-kWfbKjrcpKCjsFBJvpw" uri="customcategories/reporting.xmi"/>
     <resourceDescriptors xmi:id="_0DgF8N9YEeqLEKK0pLdylg" id="_0CjqwN9YEeqLEKK0pLdylg" uri="deliveryprocesses/PTBOK_Workflow/model.xmi"/>
     <resourceDescriptors xmi:id="_dj4dQPLrEeqG-7knepYd9A" id="-W4hUpwW0iSQuQMYT_Sy_Tw" uri="tasks/ptbok_a1.1_validate_requirements.xmi"/>
+    <resourceDescriptors xmi:id="_L4gs0Ph_EeqmAdqfLYd_Fg" id="-ivV7h5Y520tS-qSuYKUEUw" uri="guidances/toolmentors/abbot.xmi"/>
+    <resourceDescriptors xmi:id="_UOR9kPiCEeqmAdqfLYd_Fg" id="-JRwKXD3V5iC8rLCE8ctBlA" uri="guidances/toolmentors/clif_load_injection_framework.xmi"/>
+    <resourceDescriptors xmi:id="_5I-uwPiCEeqmAdqfLYd_Fg" id="-a2Z7e6L7hxZJ5HyLuWupDg" uri="guidances/toolmentors/cloud_load_testing_framework_cltf.xmi"/>
+    <resourceDescriptors xmi:id="_VZvOoPiDEeqmAdqfLYd_Fg" id="-JwNn4Dua6vZKFIv-FYi11A" uri="guidances/toolmentors/cloud_test.xmi"/>
+    <resourceDescriptors xmi:id="_gkBOYPiGEeqmAdqfLYd_Fg" id="-RE_aFdF6JL6yLUZB_-u_Fg" uri="guidances/toolmentors/framework_cpts.xmi"/>
+    <resourceDescriptors xmi:id="_gkH8EPiGEeqmAdqfLYd_Fg" id="-Tj1Gq7Pz43ANdNhhdC-Ujw" uri="guidances/toolmentors/loadstorm.xmi"/>
+    <resourceDescriptors xmi:id="_uuoS8PiGEeqmAdqfLYd_Fg" id="-8Sr8dv2chLqqu5uSgoHkQA" uri="guidances/toolmentors/ibm_rpt.xmi"/>
+    <resourceDescriptors xmi:id="__peDcPiGEeqmAdqfLYd_Fg" id="-B5_kiAvrYOuJTIlG1aN0ig" uri="guidances/toolmentors/jacareto.xmi"/>
+    <resourceDescriptors xmi:id="_UnXZsPiHEeqmAdqfLYd_Fg" id="-OCaxzZGlb2xFtVOlU487xA" uri="guidances/toolmentors/jfcunit.xmi"/>
+    <resourceDescriptors xmi:id="_gRjv8PiHEeqmAdqfLYd_Fg" id="-wvD05UzLKWGKhdAjHv-U7g" uri="guidances/toolmentors/jmeter.xmi"/>
+    <resourceDescriptors xmi:id="_O3URMPiIEeqmAdqfLYd_Fg" id="-A7ZFbuK3lvQlnnzQA7R2dQ" uri="guidances/toolmentors/marathon.xmi"/>
+    <resourceDescriptors xmi:id="_pBaKEPiJEeqmAdqfLYd_Fg" id="-rXSMPsjCMU8c9z0Xv-fexQ" uri="guidances/toolmentors/neoload.xmi"/>
+    <resourceDescriptors xmi:id="_yuRQ8PiJEeqmAdqfLYd_Fg" id="-vV5e2uoKlgpPAtLf5k890g" uri="guidances/toolmentors/opensta.xmi"/>
+    <resourceDescriptors xmi:id="_Tng-4PiKEeqmAdqfLYd_Fg" id="-S_MVKTAFjJd7jhhEuNFk0w" uri="guidances/toolmentors/qaload.xmi"/>
+    <resourceDescriptors xmi:id="_dh0E0PiKEeqmAdqfLYd_Fg" id="-cexRFwtLbru4_s9Fh6bLvA" uri="guidances/toolmentors/silk_performer.xmi"/>
+    <resourceDescriptors xmi:id="_EvgzYPiLEeqmAdqfLYd_Fg" id="-Xd9-RWhFMT109KQhCqNqVA" uri="guidances/toolmentors/the_grinder.xmi"/>
+    <resourceDescriptors xmi:id="_N4hmUPiLEeqmAdqfLYd_Fg" id="-8hVal4YEHqS01fZ_bAlAKA" uri="guidances/toolmentors/tsung.xmi"/>
+    <resourceDescriptors xmi:id="_HPCUYPiMEeqmAdqfLYd_Fg" id="-YyTP9p5dKYCpTrcMbXHiGA" uri="guidances/toolmentors/visual_studio.xmi"/>
+    <resourceDescriptors xmi:id="_a7FoQPiMEeqmAdqfLYd_Fg" id="-7laHPWVHZoYe-Zq6SoSukw" uri="guidances/toolmentors/webload.xmi"/>
+    <resourceDescriptors xmi:id="_5ad70PiMEeqmAdqfLYd_Fg" id="-V00qdSRiwtpYH0UecBsitQ" uri="guidances/toolmentors/wsclt.xmi"/>
+    <resourceDescriptors xmi:id="_3nuEcPiPEeqmAdqfLYd_Fg" id="-U9j4rQpgc9Fn5oQnWQFalw" uri="guidances/toolmentors/load_runner.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_EJQ_4D3vEem07NBMeZObjA" name="PTBOK" guid="_EJQ_4D3vEem07NBMeZObjA">
     <ownedRules xmi:id="_treisLlJEemt5oQZSu_gkA" name="wpState" guid="_treisLlJEemt5oQZSu_gkA" body="Template"/>
@@ -288,6 +309,7 @@
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_g2deoODfEeqeB-p3eaxTZQ" name="jmeter" guid="_g2deoODfEeqeB-p3eaxTZQ" presentationName="JMeter">
             <methodElementProperty xmi:id="_kCk1UODfEeqeB-p3eaxTZQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-wvD05UzLKWGKhdAjHv-U7g" href="uma://-wvD05UzLKWGKhdAjHv-U7g#-wvD05UzLKWGKhdAjHv-U7g"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_qxbZcPLnEeqG-7knepYd9A" name="performance_testing_requirements_specification" guid="_qxbZcPLnEeqG-7knepYd9A" presentationName="Performance Testing Requirements Specification">
             <methodElementProperty xmi:id="_xIJD4PLnEeqG-7knepYd9A" name="me_edited" value="true"/>
@@ -312,6 +334,86 @@
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_X8ihoPLoEeqG-7knepYd9A" name="test_data" guid="_X8ihoPLoEeqG-7knepYd9A" presentationName="Test Data">
             <methodElementProperty xmi:id="_Y85LYPLoEeqG-7knepYd9A" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_6FwSUPh9EeqmAdqfLYd_Fg" name="abbot" guid="_6FwSUPh9EeqmAdqfLYd_Fg" presentationName="Abbot">
+            <methodElementProperty xmi:id="_L4ZYEPh_EeqmAdqfLYd_Fg" name="me_edited" value="true"/>
+            <presentation xmi:id="-ivV7h5Y520tS-qSuYKUEUw" href="uma://-ivV7h5Y520tS-qSuYKUEUw#-ivV7h5Y520tS-qSuYKUEUw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_A7Jc0Ph-EeqmAdqfLYd_Fg" name="cloud_test" guid="_A7Jc0Ph-EeqmAdqfLYd_Fg" presentationName="Cloud Test">
+            <methodElementProperty xmi:id="_T-vNEPh_EeqmAdqfLYd_Fg" name="me_edited" value="true"/>
+            <presentation xmi:id="-JwNn4Dua6vZKFIv-FYi11A" href="uma://-JwNn4Dua6vZKFIv-FYi11A#-JwNn4Dua6vZKFIv-FYi11A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_CTnEkPh-EeqmAdqfLYd_Fg" name="ibm_rpt" guid="_CTnEkPh-EeqmAdqfLYd_Fg" presentationName="IBM Rational Performance Tester (RPT)">
+            <methodElementProperty xmi:id="_T-lcEPh_EeqmAdqfLYd_Fg" name="me_edited" value="true"/>
+            <presentation xmi:id="-8Sr8dv2chLqqu5uSgoHkQA" href="uma://-8Sr8dv2chLqqu5uSgoHkQA#-8Sr8dv2chLqqu5uSgoHkQA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_SI1Q0Ph-EeqmAdqfLYd_Fg" name="webload" guid="_SI1Q0Ph-EeqmAdqfLYd_Fg" presentationName="WebLOAD">
+            <methodElementProperty xmi:id="_T-CCcPh_EeqmAdqfLYd_Fg" name="me_edited" value="true"/>
+            <presentation xmi:id="-7laHPWVHZoYe-Zq6SoSukw" href="uma://-7laHPWVHZoYe-Zq6SoSukw#-7laHPWVHZoYe-Zq6SoSukw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_UXtjMPh-EeqmAdqfLYd_Fg" name="neoload" guid="_UXtjMPh-EeqmAdqfLYd_Fg" presentationName="NeoLoad">
+            <methodElementProperty xmi:id="_T90AAPh_EeqmAdqfLYd_Fg" name="me_edited" value="true"/>
+            <presentation xmi:id="-rXSMPsjCMU8c9z0Xv-fexQ" href="uma://-rXSMPsjCMU8c9z0Xv-fexQ#-rXSMPsjCMU8c9z0Xv-fexQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_WLKd0Ph-EeqmAdqfLYd_Fg" name="silk_performer" guid="_WLKd0Ph-EeqmAdqfLYd_Fg" presentationName="Silk Performer">
+            <methodElementProperty xmi:id="_T9pn8Ph_EeqmAdqfLYd_Fg" name="me_edited" value="true"/>
+            <presentation xmi:id="-cexRFwtLbru4_s9Fh6bLvA" href="uma://-cexRFwtLbru4_s9Fh6bLvA#-cexRFwtLbru4_s9Fh6bLvA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_ZZaigPh-EeqmAdqfLYd_Fg" name="framework_cpts" guid="_ZZaigPh-EeqmAdqfLYd_Fg" presentationName="Framework CPTS">
+            <methodElementProperty xmi:id="_T9DLAPh_EeqmAdqfLYd_Fg" name="me_edited" value="true"/>
+            <presentation xmi:id="-RE_aFdF6JL6yLUZB_-u_Fg" href="uma://-RE_aFdF6JL6yLUZB_-u_Fg#-RE_aFdF6JL6yLUZB_-u_Fg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_cmx2YPh-EeqmAdqfLYd_Fg" name="clif_load_injection_framework" guid="_cmx2YPh-EeqmAdqfLYd_Fg" presentationName="CLIF load injection framework">
+            <methodElementProperty xmi:id="_T84y8Ph_EeqmAdqfLYd_Fg" name="me_edited" value="true"/>
+            <presentation xmi:id="-JRwKXD3V5iC8rLCE8ctBlA" href="uma://-JRwKXD3V5iC8rLCE8ctBlA#-JRwKXD3V5iC8rLCE8ctBlA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_fnq0gPh-EeqmAdqfLYd_Fg" name="cloud_load_testing_framework_cltf" guid="_fnq0gPh-EeqmAdqfLYd_Fg" presentationName="Cloud Load Testing Framework (CLTF)">
+            <methodElementProperty xmi:id="_T8ua4Ph_EeqmAdqfLYd_Fg" name="me_edited" value="true"/>
+            <presentation xmi:id="-a2Z7e6L7hxZJ5HyLuWupDg" href="uma://-a2Z7e6L7hxZJ5HyLuWupDg#-a2Z7e6L7hxZJ5HyLuWupDg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_hZYpwPh-EeqmAdqfLYd_Fg" name="jacareto" guid="_hZYpwPh-EeqmAdqfLYd_Fg" presentationName="Jacareto">
+            <methodElementProperty xmi:id="_T8DsgPh_EeqmAdqfLYd_Fg" name="me_edited" value="true"/>
+            <presentation xmi:id="-B5_kiAvrYOuJTIlG1aN0ig" href="uma://-B5_kiAvrYOuJTIlG1aN0ig#-B5_kiAvrYOuJTIlG1aN0ig"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_jByK8Ph-EeqmAdqfLYd_Fg" name="jfcunit" guid="_jByK8Ph-EeqmAdqfLYd_Fg" presentationName="JFCUnit">
+            <methodElementProperty xmi:id="_T757gPh_EeqmAdqfLYd_Fg" name="me_edited" value="true"/>
+            <presentation xmi:id="-OCaxzZGlb2xFtVOlU487xA" href="uma://-OCaxzZGlb2xFtVOlU487xA#-OCaxzZGlb2xFtVOlU487xA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_kq_kcPh-EeqmAdqfLYd_Fg" name="loadstorm" guid="_kq_kcPh-EeqmAdqfLYd_Fg" presentationName="LoadStorm">
+            <methodElementProperty xmi:id="_T7EOAPh_EeqmAdqfLYd_Fg" name="me_edited" value="true"/>
+            <presentation xmi:id="-Tj1Gq7Pz43ANdNhhdC-Ujw" href="uma://-Tj1Gq7Pz43ANdNhhdC-Ujw#-Tj1Gq7Pz43ANdNhhdC-Ujw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_mpcOIPh-EeqmAdqfLYd_Fg" name="marathon" guid="_mpcOIPh-EeqmAdqfLYd_Fg" presentationName="Marathon">
+            <methodElementProperty xmi:id="_T6518Ph_EeqmAdqfLYd_Fg" name="me_edited" value="true"/>
+            <presentation xmi:id="-A7ZFbuK3lvQlnnzQA7R2dQ" href="uma://-A7ZFbuK3lvQlnnzQA7R2dQ#-A7ZFbuK3lvQlnnzQA7R2dQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_n__xYPh-EeqmAdqfLYd_Fg" name="the_grinder" guid="_n__xYPh-EeqmAdqfLYd_Fg" presentationName="The Grinder">
+            <methodElementProperty xmi:id="_T6vd4Ph_EeqmAdqfLYd_Fg" name="me_edited" value="true"/>
+            <presentation xmi:id="-Xd9-RWhFMT109KQhCqNqVA" href="uma://-Xd9-RWhFMT109KQhCqNqVA#-Xd9-RWhFMT109KQhCqNqVA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_pZy14Ph-EeqmAdqfLYd_Fg" name="visual_studio" guid="_pZy14Ph-EeqmAdqfLYd_Fg" presentationName="Visual Studio">
+            <methodElementProperty xmi:id="_T5_3APh_EeqmAdqfLYd_Fg" name="me_edited" value="true"/>
+            <presentation xmi:id="-YyTP9p5dKYCpTrcMbXHiGA" href="uma://-YyTP9p5dKYCpTrcMbXHiGA#-YyTP9p5dKYCpTrcMbXHiGA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_rPXQYPh-EeqmAdqfLYd_Fg" name="wsclt" guid="_rPXQYPh-EeqmAdqfLYd_Fg" presentationName="WSCLT">
+            <methodElementProperty xmi:id="_T51e8Ph_EeqmAdqfLYd_Fg" name="me_edited" value="true"/>
+            <presentation xmi:id="-V00qdSRiwtpYH0UecBsitQ" href="uma://-V00qdSRiwtpYH0UecBsitQ#-V00qdSRiwtpYH0UecBsitQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_skqPYPh-EeqmAdqfLYd_Fg" name="qaload" guid="_skqPYPh-EeqmAdqfLYd_Fg" presentationName="QALoad">
+            <methodElementProperty xmi:id="_T5qf0Ph_EeqmAdqfLYd_Fg" name="me_edited" value="true"/>
+            <presentation xmi:id="-S_MVKTAFjJd7jhhEuNFk0w" href="uma://-S_MVKTAFjJd7jhhEuNFk0w#-S_MVKTAFjJd7jhhEuNFk0w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_t9BwgPh-EeqmAdqfLYd_Fg" name="tsung" guid="_t9BwgPh-EeqmAdqfLYd_Fg" presentationName="Tsung">
+            <methodElementProperty xmi:id="_T5eSkPh_EeqmAdqfLYd_Fg" name="me_edited" value="true"/>
+            <presentation xmi:id="-8hVal4YEHqS01fZ_bAlAKA" href="uma://-8hVal4YEHqS01fZ_bAlAKA#-8hVal4YEHqS01fZ_bAlAKA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_vLQeMPh-EeqmAdqfLYd_Fg" name="opensta" guid="_vLQeMPh-EeqmAdqfLYd_Fg" presentationName="OpenSTA">
+            <methodElementProperty xmi:id="_T5SsYPh_EeqmAdqfLYd_Fg" name="me_edited" value="true"/>
+            <presentation xmi:id="-vV5e2uoKlgpPAtLf5k890g" href="uma://-vV5e2uoKlgpPAtLf5k890g#-vV5e2uoKlgpPAtLf5k890g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_h6dGwPiPEeqmAdqfLYd_Fg" name="load_runner" guid="_h6dGwPiPEeqmAdqfLYd_Fg" presentationName="Load Runner">
+            <methodElementProperty xmi:id="_3nmIoPiPEeqmAdqfLYd_Fg" name="me_edited" value="true"/>
+            <presentation xmi:id="-U9j4rQpgc9Fn5oQnWQFalw" href="uma://-U9j4rQpgc9Fn5oQnWQFalw#-U9j4rQpgc9Fn5oQnWQFalw"/>
           </contentElements>
         </childPackages>
       </childPackages>
