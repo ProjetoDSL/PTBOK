@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ySG9CPZXFqLs5sXZYABSzw" name="new_role,_hzIF8N6UEeq0GuRSVkmB_Q" guid="-ySG9CPZXFqLs5sXZYABSzw">
-  <mainDescription>Performance Analyst have participation in early and late performance testing phases. It is responsible by initial testing&#xD;
-planning and documentation, providing input to subsequent phases, design and configuration. This role is also present after&#xD;
-testing execution, on this account, it is employed in the analysis and reporting phases.</mainDescription>
-</org.eclipse.epf.uma:RoleDescription>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-UMJhviCzkPcSSZ7Q7h8TCA" name="new_custom_category,_N_rZQN9HEeqLEKK0pLdylg" guid="-UMJhviCzkPcSSZ7Q7h8TCA">
-  <mainDescription>Post-Test stage is the last performance testing stage. &lt;br />&#xD;
-Analyzing and Reporting phases compose this stage, these phases are executed from the Test stage outputs.&lt;br />&#xD;
-The first phase of this stage (Analyzing) has as main objective to perform an analysis on the data generated for the&#xD;
-defined metrics such as, throughput, latency, memory consumption, processing etc. &lt;br />&#xD;
-From this analysis, it is possible to present the final data related to the test, by means of reports in the Reporting&#xD;
-phase.</mainDescription>
-</org.eclipse.epf.uma:ContentDescription>

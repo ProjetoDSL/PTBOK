@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-WjKrZoqCSWP8w3EFHsGBWQ" name="new_discipline,_EAWJsN9EEeqLEKK0pLdylg" guid="-WjKrZoqCSWP8w3EFHsGBWQ">
-  <mainDescription>In the performance testing context, the environment domain covers everything related to the infrastructure used for the&#xD;
-test, be it hardware or software. &lt;br />&#xD;
-For this, some key activities related to this domain must be carried out as prepare the test environment, tools and&#xD;
-resources needed to execute each strategy as resources and components become available for testing, ensuring that the test&#xD;
-environment is instrumented for monitoring resources as needed.</mainDescription>
-</org.eclipse.epf.uma:ContentDescription>

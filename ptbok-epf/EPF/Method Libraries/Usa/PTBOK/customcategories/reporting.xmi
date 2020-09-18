@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-hk-kWfbKjrcpKCjsFBJvpw" name="new_custom_category,_YfkDEN9IEeqLEKK0pLdylg" guid="-hk-kWfbKjrcpKCjsFBJvpw">
-  <mainDescription>The test reports are generated in the Reporting phase, with the objective of providing an understanding of the possible&#xD;
-bottlenecks detected in the test and also offering the test results in a legible and organized manner.&lt;br />&#xD;
-The reporting phase is decisive for an understanding of the application's behavior after the test execution. &lt;br />&#xD;
-The monitored metrics must be detailed through robust documentation that allows the Performance Engineer to explain to&#xD;
-stakeholders the test results as well as the possible insights generated from performance testing.</mainDescription>
-</org.eclipse.epf.uma:ContentDescription>

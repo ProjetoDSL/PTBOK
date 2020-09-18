@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-0do-0BEjHhYS7KPQbJ_olA" name="new_role,_GjH4cN6UEeq0GuRSVkmB_Q" guid="-0do-0BEjHhYS7KPQbJ_olA" changeDate="2020-08-14T22:12:22.675-0300">
-  <mainDescription>This role is involved within Design and Configuration Phases and it must make a connecting bridge between early phases and&#xD;
-testing execution.&lt;br />&#xD;
-A Performance Architect must have skills to make design and configuration activities.</mainDescription>
-</org.eclipse.epf.uma:RoleDescription>
