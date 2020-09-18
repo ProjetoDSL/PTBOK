@@ -159,15 +159,10 @@
           <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_sobwsN6WEeq0GuRSVkmB_Q" name="ptbok_views" guid="_sobwsN6WEeq0GuRSVkmB_Q" presentationName="PTBOK Views" categorizedElements="_HeQHIN6YEeq0GuRSVkmB_Q _GNmpgN6WEeq0GuRSVkmB_Q _3OF30N9GEeqLEKK0pLdylg _bXRFcN9HEeqLEKK0pLdylg _bFzFoPibEeq-GNGrt9WlHQ _keyOQPibEeq-GNGrt9WlHQ _4NBTcPibEeq-GNGrt9WlHQ _UW9c0PigEeq-GNGrt9WlHQ">
             <methodElementProperty xmi:id="_u0zhoN6WEeq0GuRSVkmB_Q" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_HeQHIN6YEeq0GuRSVkmB_Q" name="ptbok_overview" guid="_HeQHIN6YEeq0GuRSVkmB_Q" presentationName="PTBOK Overview" categorizedElements="_zrm0UN6dEeq0GuRSVkmB_Q">
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_HeQHIN6YEeq0GuRSVkmB_Q" name="ptbok_overview" guid="_HeQHIN6YEeq0GuRSVkmB_Q" presentationName="PTBOK Overview">
             <methodElementProperty xmi:id="_VwNw4N6YEeq0GuRSVkmB_Q" name="me_edited" value="true"/>
             <methodElementProperty xmi:id="_pyKKUN6aEeq0GuRSVkmB_Q" name="PUBLISH_CATEGORY" value="true"/>
             <presentation xmi:id="-HQvLXSwWe9yb6lUHX6PszA" href="uma://-HQvLXSwWe9yb6lUHX6PszA#-HQvLXSwWe9yb6lUHX6PszA"/>
-          </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_zrm0UN6dEeq0GuRSVkmB_Q" name="ptbok_specification" guid="_zrm0UN6dEeq0GuRSVkmB_Q" presentationName="PTBOK Specification">
-            <methodElementProperty xmi:id="_3V24gN6dEeq0GuRSVkmB_Q" name="PUBLISH_CATEGORY" value="true"/>
-            <methodElementProperty xmi:id="_KfrCAN6eEeq0GuRSVkmB_Q" name="include" value="Guidance"/>
-            <methodElementProperty xmi:id="_N93AIN6eEeq0GuRSVkmB_Q" name="me_edited" value="true"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_3OF30N9GEeqLEKK0pLdylg" name="stages" guid="_3OF30N9GEeqLEKK0pLdylg" presentationName="Stages" categorizedElements="_-xJZkN9GEeqLEKK0pLdylg _LBrXEN9HEeqLEKK0pLdylg _N_rZQN9HEeqLEKK0pLdylg">
             <methodElementProperty xmi:id="_9-qMsN9GEeqLEKK0pLdylg" name="me_edited" value="true"/>
