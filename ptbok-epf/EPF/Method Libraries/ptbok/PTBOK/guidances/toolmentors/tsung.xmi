@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-8hVal4YEHqS01fZ_bAlAKA" name="new_toolmentor,_t9BwgPh-EeqmAdqfLYd_Fg" guid="-8hVal4YEHqS01fZ_bAlAKA" changeDate="2020-09-16T23:17:19.208-0300">
+  <mainDescription>&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    Developer(s): Nicolas Niclausse.&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    System Requirements: N/A.&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    Operating Systems: Linux, FreeBSD, Solaris, Mac OS.&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    Functionalities: Multi-protocols using a plugin system: HTTP, WebDAV, SOAP, PostgreSQL, MySQL, LDAP , XMPP/Jabber,&#xD;
+    BOSH, MQTT and AMQP are currently supported. Several IP addresses can be used on a single machine using the underlying&#xD;
+    OS IP Aliasing. In order to generate a realistic traffic, user think-times and the arrival rate can be randomize using&#xD;
+    a probability distribution.&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    Scripting Method: Capture \&amp;amp; Replay and Scripting.&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    Language/Model: XML.&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    License Type: Open-Source, General Public License version 2.&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    Links: &lt;a href=&quot;http://tsung.erlang-projects.org/&quot; target=&quot;_blank&quot;>http://tsung.erlang-projects.org/&lt;/a>&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;img style=&quot;HEIGHT: 442px; WIDTH: 408px&quot; alt=&quot;&quot; src=&quot;resources/Tsung.png&quot; width=&quot;600&quot; height=&quot;600&quot; />&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

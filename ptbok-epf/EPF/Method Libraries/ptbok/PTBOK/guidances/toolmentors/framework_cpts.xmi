@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-RE_aFdF6JL6yLUZB_-u_Fg" name="new_toolmentor,_ZZaigPh-EeqmAdqfLYd_Fg" guid="-RE_aFdF6JL6yLUZB_-u_Fg" changeDate="2020-09-16T23:27:46.203-0300">
+  <mainDescription>&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    Developer(s): Li Zhang,Yinghui Chen, Fan Tang, Xiong Ao.&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    System Requirements: N/A.&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    Operating Systems: N/A.&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    Functionalities: Test real-time monitoring center through which users can monitor performance tests running, easy to&#xD;
+    know the test progress. Test results processing module: It is used to achieve parallel processing of massive&#xD;
+    performance data. Test running manager: Responsible for controlling test and summarizing results at run time.&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    Scripting Method: Script.&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    Language/Model: N/A.&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    License Type: Comercial.&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    Links: &lt;a href=&quot;https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;amp;arnumber=6158278&quot;&#xD;
+    target=&quot;_blank&quot;>https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;amp;arnumber=6158278&lt;/a>&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img style=&quot;HEIGHT: 605px; WIDTH: 488px&quot; alt=&quot;&quot; src=&quot;resources/FrameworkCPTS.png&quot; width=&quot;600&quot; height=&quot;600&quot; />&lt;br&#xD;
+    style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot; />&#xD;
+    &lt;br />&#xD;
+    &lt;br class=&quot;Apple-interchange-newline&quot; />&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

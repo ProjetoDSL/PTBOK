@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-7aps6s6aqR24irlUYFRy0Q" name="ptbok_p6.2_choose_method,_EyEEEN9QEeqLEKK0pLdylg" guid="-7aps6s6aqR24irlUYFRy0Q">
+  <sections xmi:id="_9-_HgPiaEeq-GNGrt9WlHQ" name="Analyze method indication" guid="_9-_HgPiaEeq-GNGrt9WlHQ">
+    <sectionDescription>From Requirements and Design</sectionDescription>
+  </sections>
+  <sections xmi:id="_GuE-kPibEeq-GNGrt9WlHQ" name="Update Performance Testing Plan" guid="_GuE-kPibEeq-GNGrt9WlHQ"/>
+</org.eclipse.epf.uma:TaskDescription>

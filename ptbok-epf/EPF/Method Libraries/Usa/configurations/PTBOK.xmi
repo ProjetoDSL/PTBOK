@@ -21,11 +21,11 @@
   <methodPackageSelection xsi:type="org.eclipse.epf.uma:ContentPackage" href="uma://_EJQ_4D3vEem07NBMeZObjA#_EJQ_6D3vEem07NBMeZObjA"/>
   <methodPackageSelection xsi:type="org.eclipse.epf.uma:ContentPackage" href="uma://_EJQ_4D3vEem07NBMeZObjA#_EJQ_6j3vEem07NBMeZObjA"/>
   <methodPackageSelection xsi:type="org.eclipse.epf.uma:ProcessComponent" href="uma://_0CjqwN9YEeqLEKK0pLdylg#_0CjqwN9YEeqLEKK0pLdylg"/>
+  <processViews xsi:type="org.eclipse.epf.uma:CustomCategory" href="uma://_EJQ_4D3vEem07NBMeZObjA#_sobwsN6WEeq0GuRSVkmB_Q"/>
   <defaultView xsi:type="org.eclipse.epf.uma:CustomCategory" href="uma://_EJQ_4D3vEem07NBMeZObjA#_hZWDoEm0EemSM7ZgC4tU6Q"/>
   <addedCategory xsi:type="org.eclipse.epf.uma:CustomCategory" href="uma://_EJQ_4D3vEem07NBMeZObjA#_LJvM0EqDEemHNIr5HrcLHA"/>
   <addedCategory xsi:type="org.eclipse.epf.uma:CustomCategory" href="uma://_EJQ_4D3vEem07NBMeZObjA#_BjRH8O69EemR0K2er3Z5oQ"/>
   <addedCategory xsi:type="org.eclipse.epf.uma:CustomCategory" href="uma://_EJQ_4D3vEem07NBMeZObjA#_JgyHAHm4EeqzVu_WcjYBCg"/>
-  <addedCategory xsi:type="org.eclipse.epf.uma:CustomCategory" href="uma://_EJQ_4D3vEem07NBMeZObjA#_B9XxMHm-EeqzVu_WcjYBCg"/>
   <addedCategory xsi:type="org.eclipse.epf.uma:CustomCategory" href="uma://_EJQ_4D3vEem07NBMeZObjA#_L4IWIEp-EemHNIr5HrcLHA"/>
   <addedCategory xsi:type="org.eclipse.epf.uma:CustomCategory" href="uma://_EJQ_4D3vEem07NBMeZObjA#_mvfI0IUcEeq2CYVNNkAusQ"/>
   <addedCategory xsi:type="org.eclipse.epf.uma:CustomCategory" href="uma://_EJQ_4D3vEem07NBMeZObjA#_l9K-QIUgEeq2CYVNNkAusQ"/>

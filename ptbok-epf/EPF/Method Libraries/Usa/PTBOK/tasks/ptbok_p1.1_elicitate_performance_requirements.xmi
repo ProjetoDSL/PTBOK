@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-OOXEV3gzrjQo25oRC9ivEw" name="ptbok_p1.1_elicitate_performance_requirements,_UcyUsN9JEeqLEKK0pLdylg" guid="-OOXEV3gzrjQo25oRC9ivEw">
+  <sections xmi:id="_0dE_kPMMEeqZzI6ukK367A" name="Gather performance testing info" guid="_0dE_kPMMEeqZzI6ukK367A"/>
+  <sections xmi:id="_20cfkPMMEeqZzI6ukK367A" name="Compile performance testing info" guid="_20cfkPMMEeqZzI6ukK367A"/>
+  <sections xmi:id="_4wJXQPMMEeqZzI6ukK367A" name="Update Performance Testing Requirements Specification" guid="_4wJXQPMMEeqZzI6ukK367A">
+    <sectionDescription>&lt;p>&#xD;
+    Add to &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../PTBOK/workproducts/performance_testing_requirements_specification_E7B83B2E.html&quot;&#xD;
+    guid=&quot;_qxbZcPLnEeqG-7knepYd9A&quot;>Performance Testing Requirements Specification&lt;/a>&amp;nbsp;the following info:&#xD;
+&lt;/p>&#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        SUT description;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Environment description;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Contractual obligations;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Client expectations;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Risks to be mitigated;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Business requirements;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Available application features and/or components;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Application usage scenarios.&#xD;
+    &lt;/li>&#xD;
+&lt;/ol></sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-EnESlroi9R6lFHtGhhSjHg" name="ptbok_p3.3_determine_distribution_of_user_activities,_K5BioN9NEeqLEKK0pLdylg" guid="-EnESlroi9R6lFHtGhhSjHg">
+  <sections xmi:id="_PnF4kPiZEeq-GNGrt9WlHQ" name="Relate scenarios to user profiles" guid="_PnF4kPiZEeq-GNGrt9WlHQ"/>
+  <sections xmi:id="_SEBOAPiZEeq-GNGrt9WlHQ" name="Update Performance Testing Plan" guid="_SEBOAPiZEeq-GNGrt9WlHQ">
+    <sectionDescription>&lt;p>&#xD;
+    Add to &lt;a class=&quot;elementLink&quot; href=&quot;./../../PTBOK/workproducts/performance_testing_plan_39B50284.html&quot;&#xD;
+    guid=&quot;_ucpuAPLnEeqG-7knepYd9A&quot;>Performance Testing Plan&lt;/a>&amp;nbsp;the following info:&#xD;
+&lt;/p>&#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        Relation User Profiles x Scenarios;&#xD;
+    &lt;/li>&#xD;
+&lt;/ol></sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:TaskDescription>

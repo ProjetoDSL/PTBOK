@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-MsN_tfJht6YY94GB-z5ITA" name="ptbok_p2.1_plan_test_design,_pn0VwN9OEeqLEKK0pLdylg" guid="-MsN_tfJht6YY94GB-z5ITA">
+  <sections xmi:id="_lAMPAPiXEeq-GNGrt9WlHQ" name="Extract Design inputs" guid="_lAMPAPiXEeq-GNGrt9WlHQ">
+    <sectionDescription>&lt;ol>&#xD;
+    &lt;li>&#xD;
+        Objectives;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        SUT;&#xD;
+    &lt;/li>&#xD;
+&lt;/ol></sectionDescription>
+  </sections>
+  <sections xmi:id="_sGh_kPiXEeq-GNGrt9WlHQ" name="Create Performance Testing Plan" guid="_sGh_kPiXEeq-GNGrt9WlHQ"/>
+</org.eclipse.epf.uma:TaskDescription>

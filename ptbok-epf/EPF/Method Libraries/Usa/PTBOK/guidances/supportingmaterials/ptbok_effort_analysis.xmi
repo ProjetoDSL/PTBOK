@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-0ocQ2jTlW_I5QMPKmaDpog" name="new_supporting_material,_tC9wsPMHEeqZzI6ukK367A" guid="-0ocQ2jTlW_I5QMPKmaDpog">
+  <mainDescription>&lt;br />&#xD;
+&lt;p>&#xD;
+    EXPLICAR A FIGURA AQUI&#xD;
+&lt;/p>&#xD;
+&lt;br />&#xD;
+&lt;br />&#xD;
+&lt;p>&#xD;
+    &lt;img style=&quot;HEIGHT: 600px; WIDTH: 901px&quot; alt=&quot;rup-effort&quot; src=&quot;resources/rup.png&quot; width=&quot;600&quot; height=&quot;600&quot; />&#xD;
+&lt;/p>&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

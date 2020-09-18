@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-HQvLXSwWe9yb6lUHX6PszA" name="new_custom_category,_HeQHIN6YEeq0GuRSVkmB_Q" guid="-HQvLXSwWe9yb6lUHX6PszA" changeDate="2020-08-14T22:45:33.502-0300">
   <mainDescription>&lt;p>&#xD;
+    COLOCAR OS LINKS DOS ESTÁGIOS, FASES, TASKS, ROLES, ETC&#xD;
+&lt;/p>&#xD;
+&lt;br />&#xD;
+&lt;p>&#xD;
     Before that we conceptualize the PTBOK components, we present the hierarchical level that we established between the&#xD;
     &quot;executable&quot; components in a Performance Testing.&lt;br />&#xD;
     A stage is at the highest abstraction level of the process and is composed of phases, which in turn are composed of&#xD;
@@ -9,10 +13,12 @@
     A task is performed by a Role who is the actor responsible for performing the task in question and these Roles may be&#xD;
     defined in a Role Set, which aggregates a set of Roles with similar functions.&#xD;
 &lt;/p>&#xD;
+&lt;br />&#xD;
+&lt;br />&#xD;
 &lt;p>&#xD;
-    COLOCAR OS LINKS DOS ESTÁGIOS, FASES, TASKS, ROLES, ETC.&#xD;
+    COLOCAR UMA FIGURA (LOGO) DO PTBOK (SE HOUVER)&#xD;
 &lt;/p>&#xD;
 &lt;br />&#xD;
-&lt;img style=&quot;HEIGHT: 600px; WIDTH: 953px&quot; alt=&quot;ptbok_overview&quot; src=&quot;resources/b3d6ff4b-1401-47ef-b3ee-98f7f248edac.jpg&quot;&#xD;
-width=&quot;600&quot; height=&quot;600&quot; />&lt;br /></mainDescription>
+&lt;br />&#xD;
+&lt;br /></mainDescription>
 </org.eclipse.epf.uma:ContentDescription>

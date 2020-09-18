@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-rJ0rmc6vOsAyuC3g7B_vKQ" name="new_custom_category,_EjR60N9IEeqLEKK0pLdylg" guid="-rJ0rmc6vOsAyuC3g7B_vKQ">
+  <mainDescription>&lt;p>&#xD;
+    Defined metrics as throughput, response time, hits per second must be monitored during test execution as well as&#xD;
+    bottlenecks identification.&lt;br />&#xD;
+    This monitoring allows performance testing roles to obtain outputs for subsequent phases, analysis and reporting in&#xD;
+    post-test stage.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The monitoring phase has a strong connection with the execution phase, in some cases they get confused, because some&#xD;
+    tools execute and do the monitoring simultaneously.&lt;br />&#xD;
+    However, we find it interesting to have this separation due to the degree of importance that both phases have in the&#xD;
+    performance test.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

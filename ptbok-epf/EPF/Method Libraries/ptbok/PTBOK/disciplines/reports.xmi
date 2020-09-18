@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-tTCe-UmUzozhqZqq-1fDqg" name="new_discipline,_jGPqsN9EEeqLEKK0pLdylg" guid="-tTCe-UmUzozhqZqq-1fDqg">
+  <mainDescription>The main objective of the reports is to consolidate and share the results obtained in the test, so they are of considerable&#xD;
+importance to be mapped in that specific domain. &lt;br />&#xD;
+Reports must be detailed enough to support the performance engineer in making the decision, which may include adaptations&#xD;
+and repetitions in the test. &lt;br />&#xD;
+A test that does not have reports with relevant information that indicate the application state according to the workload&#xD;
+performed, tends to have its usefulness compromised.</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-yZg-5iveltQKBZuVp8BzZA" name="new_role_set,_JLZs0N6VEeq0GuRSVkmB_Q" guid="-yZg-5iveltQKBZuVp8BzZA" changeDate="2020-08-14T22:18:39.239-0300">
+  <mainDescription>This Role Set gather the necessary skills and competencies to perform throughout the performance testing life cycle.&lt;br />&#xD;
+In view of the diversity of tasks and contexts in which the Performance Engineer may act, it was specialized in 3 different&#xD;
+roles: Performance Analyst, Performance Architect and Performance Tester.&lt;br />&#xD;
+However, these specializations are not mandatory, and it is the and it is the responsibility of the organization to map&#xD;
+needs for this Performance Engineer decomposition.&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

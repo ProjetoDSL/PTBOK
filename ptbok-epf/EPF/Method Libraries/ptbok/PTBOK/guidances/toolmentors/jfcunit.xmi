@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-OCaxzZGlb2xFtVOlU487xA" name="new_toolmentor,_jByK8Ph-EeqmAdqfLYd_Fg" guid="-OCaxzZGlb2xFtVOlU487xA" authors="Matt Caswell, Kevin L Wilson, Vijay Aravamudhan" changeDate="2020-09-16T22:44:38.230-0300">
+  <mainDescription>&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    Developer(s): Matt Caswell, Kevin L Wilson, Vijay Aravamudhan.&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    System Requirements: jUnit 3.7 or higher, Jakarta RegExp 1.2 or higher.&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    Operating Systems: UNIX, Windows, Eclipse (plugin), JBuilder (plugin).&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    Functionalities: JfcUnit enables developers to write test cases for Java Swing based applications. It provides support&#xD;
+    for: Obtaining handles on Windows/Dialogs opened by the Java code, locating components within a component hierarchy&#xD;
+    that occur within the containers found above, raising events on the found components, e.g. clicking a button, typing&#xD;
+    text in a TextComponent and handling testing of components in a thread safe manner.&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    Scripting Method: Capture \&amp;amp; Replay and Scripting.&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    Language/Model: Java, XML.&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    License Type: Open-Source.&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    Links: &lt;a href=&quot;http://jfcunit.sourceforge.net/&quot; target=&quot;_blank&quot;>http://jfcunit.sourceforge.net/&lt;/a>&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    &lt;img style=&quot;HEIGHT: 471px; WIDTH: 488px&quot; alt=&quot;&quot; src=&quot;resources/JFCUnit.png&quot; width=&quot;600&quot; height=&quot;600&quot; />&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;br style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot; />&#xD;
+&lt;br />&#xD;
+&lt;br class=&quot;Apple-interchange-newline&quot; /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

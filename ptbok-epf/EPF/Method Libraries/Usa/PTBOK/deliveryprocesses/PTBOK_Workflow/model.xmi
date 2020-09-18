@@ -418,10 +418,7 @@
       </childPackages>
       <processElements xsi:type="org.eclipse.epf.uma:Phase" xmi:id="_CMcyEd9jEeqLEKK0pLdylg" name="Reporting" guid="_CMcyEd9jEeqLEKK0pLdylg" presentationName="Reporting" superActivities="_0Cjqwd9YEeqLEKK0pLdylg" breakdownElements="_D4Qzod9jEeqLEKK0pLdylg"/>
     </childPackages>
-    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_2x3IoPLrEeqG-7knepYd9A" name="TESTE" guid="_2x3IoPLrEeqG-7knepYd9A">
-      <processElements xsi:type="org.eclipse.epf.uma:Phase" xmi:id="_2x3IofLrEeqG-7knepYd9A" name="TESTE" guid="_2x3IofLrEeqG-7knepYd9A" presentationName="TESTE" superActivities="_0Cjqwd9YEeqLEKK0pLdylg"/>
-    </childPackages>
-    <process xsi:type="org.eclipse.epf.uma:DeliveryProcess" xmi:id="_0Cjqwd9YEeqLEKK0pLdylg" name="PTBOK_Workflow" guid="_0Cjqwd9YEeqLEKK0pLdylg" presentationName="PTBOK_Workflow" breakdownElements="_1EU-4N9aEeqLEKK0pLdylg _ll8zEN9fEeqLEKK0pLdylg _2AkV8d9gEeqLEKK0pLdylg _VpWhkd9hEeqLEKK0pLdylg _05Y2AN9hEeqLEKK0pLdylg _McjlYN9iEeqLEKK0pLdylg _CMcyEd9jEeqLEKK0pLdylg _2x3IofLrEeqG-7knepYd9A">
+    <process xsi:type="org.eclipse.epf.uma:DeliveryProcess" xmi:id="_0Cjqwd9YEeqLEKK0pLdylg" name="PTBOK_Workflow" guid="_0Cjqwd9YEeqLEKK0pLdylg" presentationName="PTBOK_Workflow" breakdownElements="_1EU-4N9aEeqLEKK0pLdylg _ll8zEN9fEeqLEKK0pLdylg _2AkV8d9gEeqLEKK0pLdylg _VpWhkd9hEeqLEKK0pLdylg _05Y2AN9hEeqLEKK0pLdylg _McjlYN9iEeqLEKK0pLdylg _CMcyEd9jEeqLEKK0pLdylg">
       <presentation xmi:id="-VOzBTo6eSPGsLfBMF9VtLg" href="uma://-VOzBTo6eSPGsLfBMF9VtLg#-VOzBTo6eSPGsLfBMF9VtLg"/>
       <defaultContext href="uma://_BdZ2kD3vEem07NBMeZObjA#_8VocEEZgEemUh_IZAUpcPQ"/>
       <validContext href="uma://_BdZ2kD3vEem07NBMeZObjA#_8VocEEZgEemUh_IZAUpcPQ"/>
