@@ -93,6 +93,13 @@
     <resourceDescriptors xmi:id="_UKGoIPlGEeqs7dCaAbkb9w" id="-OOXEV3gzrjQo25oRC9ivEw" uri="tasks/ptbok_p1.1_elicitate_performance_requirements.xmi"/>
     <resourceDescriptors xmi:id="_E2nrcPlQEeqYIum-itjD2A" id="-o7_bSixa-pZACTdwghnRug" uri="workproducts/framework.xmi"/>
     <resourceDescriptors xmi:id="_BzUdEPlREeqYIum-itjD2A" id="-2FSkCxyWePZ0uIiCgqaV9A" uri="workproducts/effort_analysis.xmi"/>
+    <resourceDescriptors xmi:id="_sIUFoPtzEeq4T7j4lDbP7A" id="-kPdRshZo5r9iyNK-CkYXtA" uri="guidances/toolmentors/advanced_hostmonitor.xmi"/>
+    <resourceDescriptors xmi:id="_aDjDMPt0EeqJb9sxWY-ZGw" id="-fPi5z_EV-rSq8RQXqPxygw" uri="guidances/toolmentors/bbmonitor.xmi"/>
+    <resourceDescriptors xmi:id="_aXYlMPt0EeqJb9sxWY-ZGw" id="-o15wGU-37G4aMNu1awGlhg" uri="guidances/toolmentors/axence_nvision.xmi"/>
+    <resourceDescriptors xmi:id="_oG_v0Pt0EeqJb9sxWY-ZGw" id="-rMncdXT13oHre0S594YICQ" uri="guidances/toolmentors/google_cloud_monitoring.xmi"/>
+    <resourceDescriptors xmi:id="_qxbVwPt0EeqJb9sxWY-ZGw" id="-d0kzK56OfRMqR3pqIG74dA" uri="guidances/toolmentors/pidstat.xmi"/>
+    <resourceDescriptors xmi:id="_wSDFsPt0EeqJb9sxWY-ZGw" id="-WgPOsmp55Mr34X8zB038Cw" uri="guidances/toolmentors/smokeping.xmi"/>
+    <resourceDescriptors xmi:id="_wypRUPt0EeqJb9sxWY-ZGw" id="-hCQWFkOrG3to81fUsUTZcA" uri="guidances/toolmentors/psutil.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_EJQ_4D3vEem07NBMeZObjA" name="PTBOK" guid="_EJQ_4D3vEem07NBMeZObjA">
     <ownedRules xmi:id="_treisLlJEemt5oQZSu_gkA" name="wpState" guid="_treisLlJEemt5oQZSu_gkA" body="Template"/>
@@ -143,7 +150,14 @@
           </contentElements>
         </childPackages>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_EJQ_5j3vEem07NBMeZObjA" name="WP Types" guid="_EJQ_5j3vEem07NBMeZObjA"/>
-        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_EJQ_5z3vEem07NBMeZObjA" name="Tools" guid="_EJQ_5z3vEem07NBMeZObjA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_EJQ_5z3vEem07NBMeZObjA" name="Tools" guid="_EJQ_5z3vEem07NBMeZObjA">
+          <contentElements xsi:type="org.eclipse.epf.uma:Tool" xmi:id="_Zj3BEPt1EeqRr41wSJStbg" name="performance_tools" guid="_Zj3BEPt1EeqRr41wSJStbg" presentationName="Performance Tools" toolMentors="_6FwSUPh9EeqmAdqfLYd_Fg _cmx2YPh-EeqmAdqfLYd_Fg _fnq0gPh-EeqmAdqfLYd_Fg _A7Jc0Ph-EeqmAdqfLYd_Fg _ZZaigPh-EeqmAdqfLYd_Fg _CTnEkPh-EeqmAdqfLYd_Fg _hZYpwPh-EeqmAdqfLYd_Fg _jByK8Ph-EeqmAdqfLYd_Fg _g2deoODfEeqeB-p3eaxTZQ _h6dGwPiPEeqmAdqfLYd_Fg _kq_kcPh-EeqmAdqfLYd_Fg _mpcOIPh-EeqmAdqfLYd_Fg _UXtjMPh-EeqmAdqfLYd_Fg _vLQeMPh-EeqmAdqfLYd_Fg _skqPYPh-EeqmAdqfLYd_Fg _WLKd0Ph-EeqmAdqfLYd_Fg _n__xYPh-EeqmAdqfLYd_Fg _t9BwgPh-EeqmAdqfLYd_Fg _pZy14Ph-EeqmAdqfLYd_Fg _SI1Q0Ph-EeqmAdqfLYd_Fg _rPXQYPh-EeqmAdqfLYd_Fg">
+            <methodElementProperty xmi:id="_eI1BEPt1EeqRr41wSJStbg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Tool" xmi:id="_egGRkPt1EeqRr41wSJStbg" name="monitor_tools" guid="_egGRkPt1EeqRr41wSJStbg" presentationName="Monitor Tools" toolMentors="_TAgTsPtzEeq4T7j4lDbP7A _PU5vMPt0EeqJb9sxWY-ZGw _X8kIkPt0EeqJb9sxWY-ZGw _nL_gIPt0EeqJb9sxWY-ZGw _o77zwPt0EeqJb9sxWY-ZGw _rgVqMPt0EeqJb9sxWY-ZGw _vTGxMPt0EeqJb9sxWY-ZGw">
+            <methodElementProperty xmi:id="_hw-McPt1EeqRr41wSJStbg" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_EJQ_6D3vEem07NBMeZObjA" name="StandardCategories" guid="_EJQ_6D3vEem07NBMeZObjA"/>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_EJQ_6T3vEem07NBMeZObjA" name="CustomCategories" guid="_EJQ_6T3vEem07NBMeZObjA">
           <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_EJQ_6j3vEem07NBMeZObjA" name="Hidden" guid="_EJQ_6j3vEem07NBMeZObjA">
@@ -598,6 +612,34 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_HnMVoPlQEeqYIum-itjD2A" name="effort_analysis" guid="_HnMVoPlQEeqYIum-itjD2A" presentationName="Effort Analysis">
             <methodElementProperty xmi:id="_BzHowPlREeqYIum-itjD2A" name="me_edited" value="true"/>
             <presentation xmi:id="-2FSkCxyWePZ0uIiCgqaV9A" href="uma://-2FSkCxyWePZ0uIiCgqaV9A#-2FSkCxyWePZ0uIiCgqaV9A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_TAgTsPtzEeq4T7j4lDbP7A" name="advanced_hostmonitor" guid="_TAgTsPtzEeq4T7j4lDbP7A" presentationName="Advanced HostMonitor">
+            <methodElementProperty xmi:id="_rdKP0PtzEeq4T7j4lDbP7A" name="me_edited" value="true"/>
+            <presentation xmi:id="-kPdRshZo5r9iyNK-CkYXtA" href="uma://-kPdRshZo5r9iyNK-CkYXtA#-kPdRshZo5r9iyNK-CkYXtA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_PU5vMPt0EeqJb9sxWY-ZGw" name="axence_nvision" guid="_PU5vMPt0EeqJb9sxWY-ZGw" presentationName="Axence NVision">
+            <methodElementProperty xmi:id="_TaedcPt0EeqJb9sxWY-ZGw" name="me_edited" value="true"/>
+            <presentation xmi:id="-o15wGU-37G4aMNu1awGlhg" href="uma://-o15wGU-37G4aMNu1awGlhg#-o15wGU-37G4aMNu1awGlhg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_X8kIkPt0EeqJb9sxWY-ZGw" name="bbmonitor" guid="_X8kIkPt0EeqJb9sxWY-ZGw" presentationName="BBMonitor">
+            <methodElementProperty xmi:id="_ZWB14Pt0EeqJb9sxWY-ZGw" name="me_edited" value="true"/>
+            <presentation xmi:id="-fPi5z_EV-rSq8RQXqPxygw" href="uma://-fPi5z_EV-rSq8RQXqPxygw#-fPi5z_EV-rSq8RQXqPxygw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_nL_gIPt0EeqJb9sxWY-ZGw" name="google_cloud_monitoring" guid="_nL_gIPt0EeqJb9sxWY-ZGw" presentationName="Google Cloud Monitoring">
+            <methodElementProperty xmi:id="_oG8FcPt0EeqJb9sxWY-ZGw" name="me_edited" value="true"/>
+            <presentation xmi:id="-rMncdXT13oHre0S594YICQ" href="uma://-rMncdXT13oHre0S594YICQ#-rMncdXT13oHre0S594YICQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_o77zwPt0EeqJb9sxWY-ZGw" name="pidstat" guid="_o77zwPt0EeqJb9sxWY-ZGw" presentationName="pidStat">
+            <methodElementProperty xmi:id="_qxWdQPt0EeqJb9sxWY-ZGw" name="me_edited" value="true"/>
+            <presentation xmi:id="-d0kzK56OfRMqR3pqIG74dA" href="uma://-d0kzK56OfRMqR3pqIG74dA#-d0kzK56OfRMqR3pqIG74dA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_rgVqMPt0EeqJb9sxWY-ZGw" name="psutil" guid="_rgVqMPt0EeqJb9sxWY-ZGw" presentationName="psutil">
+            <methodElementProperty xmi:id="_tFN9UPt0EeqJb9sxWY-ZGw" name="me_edited" value="true"/>
+            <presentation xmi:id="-hCQWFkOrG3to81fUsUTZcA" href="uma://-hCQWFkOrG3to81fUsUTZcA#-hCQWFkOrG3to81fUsUTZcA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_vTGxMPt0EeqJb9sxWY-ZGw" name="smokeping" guid="_vTGxMPt0EeqJb9sxWY-ZGw" presentationName="SmokePing">
+            <methodElementProperty xmi:id="_v9BQ4Pt0EeqJb9sxWY-ZGw" name="me_edited" value="true"/>
+            <presentation xmi:id="-WgPOsmp55Mr34X8zB038Cw" href="uma://-WgPOsmp55Mr34X8zB038Cw#-WgPOsmp55Mr34X8zB038Cw"/>
           </contentElements>
         </childPackages>
       </childPackages>
