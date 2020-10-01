@@ -108,6 +108,8 @@
     <resourceDescriptors xmi:id="_kw7WkAOxEeuvwMLO7Qv67Q" id="-ShivY0aJuGDfabRcyJTbeQ" uri="workproducts/script.xmi"/>
     <resourceDescriptors xmi:id="_kxAPEAOxEeuvwMLO7Qv67Q" id="-7yLNWKzhl0XzBrTIyGpvhA" uri="workproducts/scenario.xmi"/>
     <resourceDescriptors xmi:id="_kxFuoAOxEeuvwMLO7Qv67Q" id="-JGhkk2lKe40eEmKOTnhkog" uri="workproducts/test_data.xmi"/>
+    <resourceDescriptors xmi:id="_Smm3YAQCEeueucs0fBORPA" id="-XTnjnSuEzc1hZUUP551_zA" uri="guidances/guidelines/application_metrics.xmi"/>
+    <resourceDescriptors xmi:id="_BLqOAAQDEeueucs0fBORPA" id="-4g1cENKD9zg7JhnA1Ri11Q" uri="guidances/guidelines/vv_techniques.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_EJQ_4D3vEem07NBMeZObjA" name="PTBOK" guid="_EJQ_4D3vEem07NBMeZObjA">
     <ownedRules xmi:id="_treisLlJEemt5oQZSu_gkA" name="wpState" guid="_treisLlJEemt5oQZSu_gkA" body="Template"/>
@@ -554,7 +556,7 @@
           <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_qRCWMPiaEeq-GNGrt9WlHQ" name="_tools_list" guid="_qRCWMPiaEeq-GNGrt9WlHQ" presentationName="Tools List">
             <methodElementProperty xmi:id="_wca6YPiaEeq-GNGrt9WlHQ" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_x0PzgPibEeq-GNGrt9WlHQ" name="approaches_list" guid="_x0PzgPibEeq-GNGrt9WlHQ" presentationName="Approaches List">
+          <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_x0PzgPibEeq-GNGrt9WlHQ" name="approaches_list" guid="_x0PzgPibEeq-GNGrt9WlHQ" presentationName="Approaches List" briefDescription="The list of approaches that are going to be used in the test. Defined in the Planning phase.">
             <methodElementProperty xmi:id="_yrrx0PibEeq-GNGrt9WlHQ" name="me_edited" value="true"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_twX48PicEeq-GNGrt9WlHQ" name="random" guid="_twX48PicEeq-GNGrt9WlHQ" presentationName="Random">
@@ -593,8 +595,9 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_xzpH0PihEeq-GNGrt9WlHQ" name="sut_metrics" guid="_xzpH0PihEeq-GNGrt9WlHQ" presentationName="SUT Metrics" briefDescription="- System Resources&#xD;&#xA;          - Memory&#xD;&#xA;          - Processor&#xD;&#xA;          - Disk &#xD;&#xA;          - Network&#xD;&#xA;- Runtime Technology&#xD;&#xA;- Database&#xD;&#xA;- Web Server&#xD;&#xA;- Virtualization Technology">
             <methodElementProperty xmi:id="_yjxkQPihEeq-GNGrt9WlHQ" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_0NWKIPihEeq-GNGrt9WlHQ" name="application_metrics" guid="_0NWKIPihEeq-GNGrt9WlHQ" presentationName="Application Metrics" briefDescription="- Web Resources&#xD;&#xA;          - Throughput&#xD;&#xA;          - Hits per second&#xD;&#xA;          - Responses per second&#xD;&#xA;- Transaction&#xD;&#xA;          - Transaction Response Time&#xD;&#xA;          - Transaction Per Second&#xD;&#xA;          - Transaction Success Rate">
+          <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_0NWKIPihEeq-GNGrt9WlHQ" name="application_metrics" guid="_0NWKIPihEeq-GNGrt9WlHQ" presentationName="Application Metrics" briefDescription="The defined metrics during the Design phase that are monitored in the test.">
             <methodElementProperty xmi:id="_1DtKYPihEeq-GNGrt9WlHQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-XTnjnSuEzc1hZUUP551_zA" href="uma://-XTnjnSuEzc1hZUUP551_zA#-XTnjnSuEzc1hZUUP551_zA"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="__O650PikEeq-GNGrt9WlHQ" name="sla_definition" guid="__O650PikEeq-GNGrt9WlHQ" presentationName="SLA Definition">
             <methodElementProperty xmi:id="_ANk6cPilEeq-GNGrt9WlHQ" name="me_edited" value="true"/>
@@ -611,14 +614,15 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_LP5i8PimEeq-GNGrt9WlHQ" name="selected_method" guid="_LP5i8PimEeq-GNGrt9WlHQ" presentationName="Selected Method">
             <methodElementProperty xmi:id="_MV13UPimEeq-GNGrt9WlHQ" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_NKdyMPimEeq-GNGrt9WlHQ" name="selected_tool" guid="_NKdyMPimEeq-GNGrt9WlHQ" presentationName="Selected Tool">
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_NKdyMPimEeq-GNGrt9WlHQ" name="selected_tool" guid="_NKdyMPimEeq-GNGrt9WlHQ" presentationName="Selected Tool" briefDescription="This concept is the idea of the tool the tester has picked to help in the process.">
             <methodElementProperty xmi:id="_N5314PimEeq-GNGrt9WlHQ" name="me_edited" value="true"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_2bKTQPimEeq-GNGrt9WlHQ" name="environment_tool" guid="_2bKTQPimEeq-GNGrt9WlHQ" presentationName="environment_tool">
             <methodElementProperty xmi:id="_3QIMYPimEeq-GNGrt9WlHQ" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_hKxXcPipEeq-GNGrt9WlHQ" name="vv_techniques" guid="_hKxXcPipEeq-GNGrt9WlHQ" presentationName="V&amp;V Techniques">
+          <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_hKxXcPipEeq-GNGrt9WlHQ" name="vv_techniques" guid="_hKxXcPipEeq-GNGrt9WlHQ" presentationName="V&amp;V Techniques" briefDescription="Verification and Validation techniques used during the Analysis phase. The tester is free to choose which ones fit their situation the best.">
             <methodElementProperty xmi:id="_ikPEwPipEeq-GNGrt9WlHQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-4g1cENKD9zg7JhnA1Ri11Q" href="uma://-4g1cENKD9zg7JhnA1Ri11Q#-4g1cENKD9zg7JhnA1Ri11Q"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="__NyCoPiqEeq-GNGrt9WlHQ" name="statistical_principles" guid="__NyCoPiqEeq-GNGrt9WlHQ" presentationName="Statistical Principles">
             <methodElementProperty xmi:id="_AS6esPirEeq-GNGrt9WlHQ" name="me_edited" value="true"/>
