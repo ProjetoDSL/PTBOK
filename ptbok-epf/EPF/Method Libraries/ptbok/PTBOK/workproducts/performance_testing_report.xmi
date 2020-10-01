@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:DeliverableDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Iw1eAXE5pEQwdL7KGBjTog" name="performance_testing_report,_8UDisPLnEeqG-7knepYd9A" guid="-Iw1eAXE5pEQwdL7KGBjTog" changeDate="2020-10-01T03:44:30.903-0300">
+  <mainDescription>Test execution should produce data to be reported. &lt;br />&#xD;
+A technical report must contains test results, organized in a way that allows their interpretation by stakeholders.&lt;br />&#xD;
+Six key components, which are not mandatory, of a technical report: a results graph, a table with single-instance&#xD;
+measurements, a workload model, test environment, general observations and a references section.</mainDescription>
+</org.eclipse.epf.uma:DeliverableDescription>

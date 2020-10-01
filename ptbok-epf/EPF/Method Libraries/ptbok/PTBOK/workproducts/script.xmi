@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ShivY0aJuGDfabRcyJTbeQ" name="script,_MARj8PLoEeqG-7knepYd9A" guid="-ShivY0aJuGDfabRcyJTbeQ" changeDate="2020-10-01T03:43:39.238-0300">
+  <mainDescription>A script is the main input artifact for running the test. &lt;br />&#xD;
+Through it test execution flow is defined, since a script is represented by a set of instructions and may be obtained in an&#xD;
+automatic or manual manner. &lt;br />&#xD;
+In the former, scripts are generated through tools that use a capture and replay mechanisms.&lt;br />&#xD;
+On the latter one, in manual form scripts are generated through a programming language code.</mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

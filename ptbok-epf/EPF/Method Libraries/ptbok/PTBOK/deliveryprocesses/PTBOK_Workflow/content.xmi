@@ -136,4 +136,358 @@ testing execution, on this account, it is employed in the analysis and reporting
 planning and documentation, providing input to subsequent phases, design and configuration. This role is also present after&#xD;
 testing execution, on this account, it is employed in the analysis and reporting phases.</refinedDescription>
   </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-bMy7Pr_-dWe9lC9CYZIocA" name="performance_testing_requirements_specification,_GWfX8AOyEeuvwMLO7Qv67Q" guid="-bMy7Pr_-dWe9lC9CYZIocA">
+    <refinedDescription>This artifact gathers the main information related to the test requirements. &lt;br />&#xD;
+It is an incremental document, just like the Performance Test Plan, that is, it is incremented with information according&#xD;
+to the activities that make use of this document. &lt;br />&#xD;
+Performance Analyst is responsible for preparing this document. However, due to the large amount of activities that make&#xD;
+use of it, some other roles such as Performance Architect and Performance Tester may also make use of the document's&#xD;
+information, and also update it with information.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-ov0qZJZEeS04g6G8WIoFMA" name="performance_testing_requirements_specification,_GWxEwQOyEeuvwMLO7Qv67Q" guid="-ov0qZJZEeS04g6G8WIoFMA">
+    <refinedDescription>This artifact gathers the main information related to the test requirements. &lt;br />&#xD;
+It is an incremental document, just like the Performance Test Plan, that is, it is incremented with information according&#xD;
+to the activities that make use of this document. &lt;br />&#xD;
+Performance Analyst is responsible for preparing this document. However, due to the large amount of activities that make&#xD;
+use of it, some other roles such as Performance Architect and Performance Tester may also make use of the document's&#xD;
+information, and also update it with information.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-d2CxeRKiP-q5GNkIiFEFcg" name="performance_testing_requirements_specification,_GW1WMQOyEeuvwMLO7Qv67Q" guid="-d2CxeRKiP-q5GNkIiFEFcg">
+    <refinedDescription>This artifact gathers the main information related to the test requirements. &lt;br />&#xD;
+It is an incremental document, just like the Performance Test Plan, that is, it is incremented with information according&#xD;
+to the activities that make use of this document. &lt;br />&#xD;
+Performance Analyst is responsible for preparing this document. However, due to the large amount of activities that make&#xD;
+use of it, some other roles such as Performance Architect and Performance Tester may also make use of the document's&#xD;
+information, and also update it with information.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-KsAGDvdQslfVTqRH5iVjFw" name="performance_testing_requirements_specification,_GW5noQOyEeuvwMLO7Qv67Q" guid="-KsAGDvdQslfVTqRH5iVjFw">
+    <refinedDescription>This artifact gathers the main information related to the test requirements. &lt;br />&#xD;
+It is an incremental document, just like the Performance Test Plan, that is, it is incremented with information according&#xD;
+to the activities that make use of this document. &lt;br />&#xD;
+Performance Analyst is responsible for preparing this document. However, due to the large amount of activities that make&#xD;
+use of it, some other roles such as Performance Architect and Performance Tester may also make use of the document's&#xD;
+information, and also update it with information.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-WwBf-Xlq6B8oQqPynjbEFg" name="performance_testing_plan,_GW6OsQOyEeuvwMLO7Qv67Q" guid="-WwBf-Xlq6B8oQqPynjbEFg">
+    <refinedDescription>A Performance Testing Plan is a document elaborate by Performance Analyst as means to, provide support and guiding the team&#xD;
+in the whole test activities. &lt;br />&#xD;
+In this document general testing features, such as testing type, scope, approach and the steps to achieve performance&#xD;
+testing goals are explained.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-vYck178t0TJfaUCVNW8s2w" name="performance_testing_plan,_GW_HMQOyEeuvwMLO7Qv67Q" guid="-vYck178t0TJfaUCVNW8s2w">
+    <refinedDescription>A Performance Testing Plan is a document elaborate by Performance Analyst as means to, provide support and guiding the team&#xD;
+in the whole test activities. &lt;br />&#xD;
+In this document general testing features, such as testing type, scope, approach and the steps to achieve performance&#xD;
+testing goals are explained.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-uXUcsfphZ17cxkzN_ei5eg" name="performance_testing_plan,_GXEmwQOyEeuvwMLO7Qv67Q" guid="-uXUcsfphZ17cxkzN_ei5eg">
+    <refinedDescription>A Performance Testing Plan is a document elaborate by Performance Analyst as means to, provide support and guiding the team&#xD;
+in the whole test activities. &lt;br />&#xD;
+In this document general testing features, such as testing type, scope, approach and the steps to achieve performance&#xD;
+testing goals are explained.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-Xd7kc6RYQa4-NuqMMK54Fw" name="performance_testing_plan,_GXKGUQOyEeuvwMLO7Qv67Q" guid="-Xd7kc6RYQa4-NuqMMK54Fw">
+    <refinedDescription>A Performance Testing Plan is a document elaborate by Performance Analyst as means to, provide support and guiding the team&#xD;
+in the whole test activities. &lt;br />&#xD;
+In this document general testing features, such as testing type, scope, approach and the steps to achieve performance&#xD;
+testing goals are explained.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-WCk7P5BrD0ZvhtQRmjKuVg" name="performance_testing_plan,_GXOXwQOyEeuvwMLO7Qv67Q" guid="-WCk7P5BrD0ZvhtQRmjKuVg">
+    <refinedDescription>A Performance Testing Plan is a document elaborate by Performance Analyst as means to, provide support and guiding the team&#xD;
+in the whole test activities. &lt;br />&#xD;
+In this document general testing features, such as testing type, scope, approach and the steps to achieve performance&#xD;
+testing goals are explained.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-chFMN3Cit5RAh9WTnua6Pw" name="performance_testing_requirements_specification,_GXSCIQOyEeuvwMLO7Qv67Q" guid="-chFMN3Cit5RAh9WTnua6Pw">
+    <refinedDescription>This artifact gathers the main information related to the test requirements. &lt;br />&#xD;
+It is an incremental document, just like the Performance Test Plan, that is, it is incremented with information according&#xD;
+to the activities that make use of this document. &lt;br />&#xD;
+Performance Analyst is responsible for preparing this document. However, due to the large amount of activities that make&#xD;
+use of it, some other roles such as Performance Architect and Performance Tester may also make use of the document's&#xD;
+information, and also update it with information.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-uwn0FIvD3uZKgIqlvl9ttQ" name="performance_testing_plan,_GXSCJAOyEeuvwMLO7Qv67Q" guid="-uwn0FIvD3uZKgIqlvl9ttQ">
+    <refinedDescription>A Performance Testing Plan is a document elaborate by Performance Analyst as means to, provide support and guiding the team&#xD;
+in the whole test activities. &lt;br />&#xD;
+In this document general testing features, such as testing type, scope, approach and the steps to achieve performance&#xD;
+testing goals are explained.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-Sd2Qf14DxaHeUOME_GuWsg" name="performance_testing_plan,_GXW6oQOyEeuvwMLO7Qv67Q" guid="-Sd2Qf14DxaHeUOME_GuWsg">
+    <refinedDescription>A Performance Testing Plan is a document elaborate by Performance Analyst as means to, provide support and guiding the team&#xD;
+in the whole test activities. &lt;br />&#xD;
+In this document general testing features, such as testing type, scope, approach and the steps to achieve performance&#xD;
+testing goals are explained.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-kVRjne73N2LchM98x3CUmg" name="performance_testing_requirements_specification,_GXXhsQOyEeuvwMLO7Qv67Q" guid="-kVRjne73N2LchM98x3CUmg">
+    <refinedDescription>This artifact gathers the main information related to the test requirements. &lt;br />&#xD;
+It is an incremental document, just like the Performance Test Plan, that is, it is incremented with information according&#xD;
+to the activities that make use of this document. &lt;br />&#xD;
+Performance Analyst is responsible for preparing this document. However, due to the large amount of activities that make&#xD;
+use of it, some other roles such as Performance Architect and Performance Tester may also make use of the document's&#xD;
+information, and also update it with information.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-H1B4C4__zgb3Sx5k3RqD7Q" name="performance_testing_plan,_GXcaMQOyEeuvwMLO7Qv67Q" guid="-H1B4C4__zgb3Sx5k3RqD7Q">
+    <refinedDescription>A Performance Testing Plan is a document elaborate by Performance Analyst as means to, provide support and guiding the team&#xD;
+in the whole test activities. &lt;br />&#xD;
+In this document general testing features, such as testing type, scope, approach and the steps to achieve performance&#xD;
+testing goals are explained.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-bPLiQl4ayVeE14X8tpNhuQ" name="performance_testing_requirements_specification,_GXcaNAOyEeuvwMLO7Qv67Q" guid="-bPLiQl4ayVeE14X8tpNhuQ">
+    <refinedDescription>This artifact gathers the main information related to the test requirements. &lt;br />&#xD;
+It is an incremental document, just like the Performance Test Plan, that is, it is incremented with information according&#xD;
+to the activities that make use of this document. &lt;br />&#xD;
+Performance Analyst is responsible for preparing this document. However, due to the large amount of activities that make&#xD;
+use of it, some other roles such as Performance Architect and Performance Tester may also make use of the document's&#xD;
+information, and also update it with information.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="--VAZew9knOcN7bxMdSgmxQ" name="performance_testing_plan,_GXhSsQOyEeuvwMLO7Qv67Q" guid="--VAZew9knOcN7bxMdSgmxQ">
+    <refinedDescription>A Performance Testing Plan is a document elaborate by Performance Analyst as means to, provide support and guiding the team&#xD;
+in the whole test activities. &lt;br />&#xD;
+In this document general testing features, such as testing type, scope, approach and the steps to achieve performance&#xD;
+testing goals are explained.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-cov_O_zlwRBk7oG6L4qIaQ" name="performance_testing_requirements_specification,_GXhStAOyEeuvwMLO7Qv67Q" guid="-cov_O_zlwRBk7oG6L4qIaQ">
+    <refinedDescription>This artifact gathers the main information related to the test requirements. &lt;br />&#xD;
+It is an incremental document, just like the Performance Test Plan, that is, it is incremented with information according&#xD;
+to the activities that make use of this document. &lt;br />&#xD;
+Performance Analyst is responsible for preparing this document. However, due to the large amount of activities that make&#xD;
+use of it, some other roles such as Performance Architect and Performance Tester may also make use of the document's&#xD;
+information, and also update it with information.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-craXIfaMKOPAWV7SiosRxg" name="model,_GXh5wQOyEeuvwMLO7Qv67Q" guid="-craXIfaMKOPAWV7SiosRxg">
+    <refinedDescription>This artifact is used as input in technique known as Model-Based Testing. &lt;br />&#xD;
+A model is an abstraction of software behavior that enables reuse and facilitates the understanding of the flow of&#xD;
+activities performed by the test.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-qsNGuAqT1L15XvFid-wKig" name="scenario,_GXh5xAOyEeuvwMLO7Qv67Q" guid="-qsNGuAqT1L15XvFid-wKig">
+    <refinedDescription>In a performance testing, the SUT must deal with different conditions of use, to those conditions mapped with its&#xD;
+particularities we define as test scenarios.&lt;br />&#xD;
+A scenario maps a given application context, within a determinate workload for a user profile, it should be modeled on&#xD;
+basis in usage patterns and log files. &lt;br />&#xD;
+In other words, a scenario must reflect real or expected system usage to be useful for performance testing.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-5EHlx26BH4eXszCl80Aw8Q" name="script,_GXh5xwOyEeuvwMLO7Qv67Q" guid="-5EHlx26BH4eXszCl80Aw8Q">
+    <refinedDescription>A script is the main input artifact for running the test. &lt;br />&#xD;
+Through it test execution flow is defined, since a script is represented by a set of instructions and may be obtained in an&#xD;
+automatic or manual manner. &lt;br />&#xD;
+In the former, scripts are generated through tools that use a capture and replay mechanisms.&lt;br />&#xD;
+On the latter one, in manual form scripts are generated through a programming language code.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-6VLVyL-LOJSg6hJxQY9BJw" name="test_data,_GXh5ygOyEeuvwMLO7Qv67Q" guid="-6VLVyL-LOJSg6hJxQY9BJw">
+    <refinedDescription>Test data consists of the test inputs. &lt;br />&#xD;
+As in the performance test one of the main objectives is the detection of bottlenecks in the application, the test data&#xD;
+should be as close as possible to the application's production environment&lt;br />&#xD;
+Therefore, the results obtained with test data application are as reliable as possible.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-lOI8zEpq5ci1ffTQDrTheg" name="performance_testing_plan,_GXsR0QOyEeuvwMLO7Qv67Q" guid="-lOI8zEpq5ci1ffTQDrTheg">
+    <refinedDescription>A Performance Testing Plan is a document elaborate by Performance Analyst as means to, provide support and guiding the team&#xD;
+in the whole test activities. &lt;br />&#xD;
+In this document general testing features, such as testing type, scope, approach and the steps to achieve performance&#xD;
+testing goals are explained.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-QxE8j2-W5KvexhRUZJ7QZw" name="performance_testing_plan,_GXxKUQOyEeuvwMLO7Qv67Q" guid="-QxE8j2-W5KvexhRUZJ7QZw">
+    <refinedDescription>A Performance Testing Plan is a document elaborate by Performance Analyst as means to, provide support and guiding the team&#xD;
+in the whole test activities. &lt;br />&#xD;
+In this document general testing features, such as testing type, scope, approach and the steps to achieve performance&#xD;
+testing goals are explained.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-zYppgAnirTjoUAqDFvBA3g" name="performance_testing_plan,_GX1bwQOyEeuvwMLO7Qv67Q" guid="-zYppgAnirTjoUAqDFvBA3g">
+    <refinedDescription>A Performance Testing Plan is a document elaborate by Performance Analyst as means to, provide support and guiding the team&#xD;
+in the whole test activities. &lt;br />&#xD;
+In this document general testing features, such as testing type, scope, approach and the steps to achieve performance&#xD;
+testing goals are explained.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-vo-EXTAYFbu7m1I8z3LbWg" name="performance_testing_requirements_specification,_GX2C1AOyEeuvwMLO7Qv67Q" guid="-vo-EXTAYFbu7m1I8z3LbWg">
+    <refinedDescription>This artifact gathers the main information related to the test requirements. &lt;br />&#xD;
+It is an incremental document, just like the Performance Test Plan, that is, it is incremented with information according&#xD;
+to the activities that make use of this document. &lt;br />&#xD;
+Performance Analyst is responsible for preparing this document. However, due to the large amount of activities that make&#xD;
+use of it, some other roles such as Performance Architect and Performance Tester may also make use of the document's&#xD;
+information, and also update it with information.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-qen6LadfANZUg7Q02xgHiQ" name="performance_testing_plan,_GX67UQOyEeuvwMLO7Qv67Q" guid="-qen6LadfANZUg7Q02xgHiQ">
+    <refinedDescription>A Performance Testing Plan is a document elaborate by Performance Analyst as means to, provide support and guiding the team&#xD;
+in the whole test activities. &lt;br />&#xD;
+In this document general testing features, such as testing type, scope, approach and the steps to achieve performance&#xD;
+testing goals are explained.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-cSt7nEf9gY5Z5BSVHDHRDQ" name="performance_testing_plan,_GX_z0QOyEeuvwMLO7Qv67Q" guid="-cSt7nEf9gY5Z5BSVHDHRDQ">
+    <refinedDescription>A Performance Testing Plan is a document elaborate by Performance Analyst as means to, provide support and guiding the team&#xD;
+in the whole test activities. &lt;br />&#xD;
+In this document general testing features, such as testing type, scope, approach and the steps to achieve performance&#xD;
+testing goals are explained.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-huJQky1mMzP6vuW5ZYkPXQ" name="performance_testing_plan,_GYIWsQOyEeuvwMLO7Qv67Q" guid="-huJQky1mMzP6vuW5ZYkPXQ">
+    <refinedDescription>A Performance Testing Plan is a document elaborate by Performance Analyst as means to, provide support and guiding the team&#xD;
+in the whole test activities. &lt;br />&#xD;
+In this document general testing features, such as testing type, scope, approach and the steps to achieve performance&#xD;
+testing goals are explained.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-m6dL_2-AFNQhtaT1o1UdRg" name="performance_testing_plan,_GYNPMQOyEeuvwMLO7Qv67Q" guid="-m6dL_2-AFNQhtaT1o1UdRg">
+    <refinedDescription>A Performance Testing Plan is a document elaborate by Performance Analyst as means to, provide support and guiding the team&#xD;
+in the whole test activities. &lt;br />&#xD;
+In this document general testing features, such as testing type, scope, approach and the steps to achieve performance&#xD;
+testing goals are explained.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-NDcVXugOtZRaQ8Rznvp7Kw" name="performance_testing_plan,_GYQSgQOyEeuvwMLO7Qv67Q" guid="-NDcVXugOtZRaQ8Rznvp7Kw">
+    <refinedDescription>A Performance Testing Plan is a document elaborate by Performance Analyst as means to, provide support and guiding the team&#xD;
+in the whole test activities. &lt;br />&#xD;
+In this document general testing features, such as testing type, scope, approach and the steps to achieve performance&#xD;
+testing goals are explained.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-8bjPs6p7EMeYqqXXGhgjxg" name="performance_testing_requirements_specification,_GYQShAOyEeuvwMLO7Qv67Q" guid="-8bjPs6p7EMeYqqXXGhgjxg">
+    <refinedDescription>This artifact gathers the main information related to the test requirements. &lt;br />&#xD;
+It is an incremental document, just like the Performance Test Plan, that is, it is incremented with information according&#xD;
+to the activities that make use of this document. &lt;br />&#xD;
+Performance Analyst is responsible for preparing this document. However, due to the large amount of activities that make&#xD;
+use of it, some other roles such as Performance Architect and Performance Tester may also make use of the document's&#xD;
+information, and also update it with information.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-8FvVqm6wzGpquJKKLjb5MQ" name="performance_testing_report,_GYQ5kQOyEeuvwMLO7Qv67Q" guid="-8FvVqm6wzGpquJKKLjb5MQ">
+    <refinedDescription>Test execution should produce data to be reported. &lt;br />&#xD;
+A technical report must contains test results, organized in a way that allows their interpretation by stakeholders.&lt;br />&#xD;
+Six key components, which are not mandatory, of a technical report: a results graph, a table with single-instance&#xD;
+measurements, a workload model, test environment, general observations and a references section.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-oebWB1kaS0RrOa5_GKKOmQ" name="performance_testing_plan,_GYWZIQOyEeuvwMLO7Qv67Q" guid="-oebWB1kaS0RrOa5_GKKOmQ">
+    <refinedDescription>A Performance Testing Plan is a document elaborate by Performance Analyst as means to, provide support and guiding the team&#xD;
+in the whole test activities. &lt;br />&#xD;
+In this document general testing features, such as testing type, scope, approach and the steps to achieve performance&#xD;
+testing goals are explained.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-UGzmQvaY3SSW32PgjCwbRw" name="performance_testing_report,_GYWZJAOyEeuvwMLO7Qv67Q" guid="-UGzmQvaY3SSW32PgjCwbRw">
+    <refinedDescription>Test execution should produce data to be reported. &lt;br />&#xD;
+A technical report must contains test results, organized in a way that allows their interpretation by stakeholders.&lt;br />&#xD;
+Six key components, which are not mandatory, of a technical report: a results graph, a table with single-instance&#xD;
+measurements, a workload model, test environment, general observations and a references section.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-BQw-OAgChc1MbQqPs547-w" name="performance_testing_plan,_GYbRoQOyEeuvwMLO7Qv67Q" guid="-BQw-OAgChc1MbQqPs547-w">
+    <refinedDescription>A Performance Testing Plan is a document elaborate by Performance Analyst as means to, provide support and guiding the team&#xD;
+in the whole test activities. &lt;br />&#xD;
+In this document general testing features, such as testing type, scope, approach and the steps to achieve performance&#xD;
+testing goals are explained.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-2Lj7rSRiVrkCAz79fvqZRA" name="performance_testing_report,_GYbRpAOyEeuvwMLO7Qv67Q" guid="-2Lj7rSRiVrkCAz79fvqZRA">
+    <refinedDescription>Test execution should produce data to be reported. &lt;br />&#xD;
+A technical report must contains test results, organized in a way that allows their interpretation by stakeholders.&lt;br />&#xD;
+Six key components, which are not mandatory, of a technical report: a results graph, a table with single-instance&#xD;
+measurements, a workload model, test environment, general observations and a references section.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-X7mUx2yqqFEoNfNV9FSSrg" name="performance_testing_plan,_GYgKIQOyEeuvwMLO7Qv67Q" guid="-X7mUx2yqqFEoNfNV9FSSrg">
+    <refinedDescription>A Performance Testing Plan is a document elaborate by Performance Analyst as means to, provide support and guiding the team&#xD;
+in the whole test activities. &lt;br />&#xD;
+In this document general testing features, such as testing type, scope, approach and the steps to achieve performance&#xD;
+testing goals are explained.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-faHXPaE6pED5ed6ApgPKow" name="performance_testing_report,_GYgxMQOyEeuvwMLO7Qv67Q" guid="-faHXPaE6pED5ed6ApgPKow">
+    <refinedDescription>Test execution should produce data to be reported. &lt;br />&#xD;
+A technical report must contains test results, organized in a way that allows their interpretation by stakeholders.&lt;br />&#xD;
+Six key components, which are not mandatory, of a technical report: a results graph, a table with single-instance&#xD;
+measurements, a workload model, test environment, general observations and a references section.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-fxiJnHdn3En2cy0qaa5udg" name="performance_testing_plan,_GYlpsAOyEeuvwMLO7Qv67Q" guid="-fxiJnHdn3En2cy0qaa5udg">
+    <refinedDescription>A Performance Testing Plan is a document elaborate by Performance Analyst as means to, provide support and guiding the team&#xD;
+in the whole test activities. &lt;br />&#xD;
+In this document general testing features, such as testing type, scope, approach and the steps to achieve performance&#xD;
+testing goals are explained.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-NyAl5m2hSI6cTlj-2yJiLQ" name="performance_testing_report,_GYlpswOyEeuvwMLO7Qv67Q" guid="-NyAl5m2hSI6cTlj-2yJiLQ">
+    <refinedDescription>Test execution should produce data to be reported. &lt;br />&#xD;
+A technical report must contains test results, organized in a way that allows their interpretation by stakeholders.&lt;br />&#xD;
+Six key components, which are not mandatory, of a technical report: a results graph, a table with single-instance&#xD;
+measurements, a workload model, test environment, general observations and a references section.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-4LY_MYL2hO9V7rDn3Ki-iQ" name="performance_testing_requirements_specification,_GYlptgOyEeuvwMLO7Qv67Q" guid="-4LY_MYL2hO9V7rDn3Ki-iQ">
+    <refinedDescription>This artifact gathers the main information related to the test requirements. &lt;br />&#xD;
+It is an incremental document, just like the Performance Test Plan, that is, it is incremented with information according&#xD;
+to the activities that make use of this document. &lt;br />&#xD;
+Performance Analyst is responsible for preparing this document. However, due to the large amount of activities that make&#xD;
+use of it, some other roles such as Performance Architect and Performance Tester may also make use of the document's&#xD;
+information, and also update it with information.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-spJNdN3FYQotgcymO2fxIQ" name="performance_analyst,_GYrJQQOyEeuvwMLO7Qv67Q" guid="-spJNdN3FYQotgcymO2fxIQ">
+    <refinedDescription>Performance Analyst have participation in early and late performance testing phases. It is responsible by initial testing&#xD;
+planning and documentation, providing input to subsequent phases, design and configuration. This role is also present after&#xD;
+testing execution, on this account, it is employed in the analysis and reporting phases.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-Bz8tqSlv4LSLev4HrP_ZRg" name="performance_testing_plan,_GYrJRAOyEeuvwMLO7Qv67Q" guid="-Bz8tqSlv4LSLev4HrP_ZRg">
+    <refinedDescription>A Performance Testing Plan is a document elaborate by Performance Analyst as means to, provide support and guiding the team&#xD;
+in the whole test activities. &lt;br />&#xD;
+In this document general testing features, such as testing type, scope, approach and the steps to achieve performance&#xD;
+testing goals are explained.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-D4zngXpM18Nm7KfE20stmQ" name="performance_testing_report,_GYrJRwOyEeuvwMLO7Qv67Q" guid="-D4zngXpM18Nm7KfE20stmQ">
+    <refinedDescription>Test execution should produce data to be reported. &lt;br />&#xD;
+A technical report must contains test results, organized in a way that allows their interpretation by stakeholders.&lt;br />&#xD;
+Six key components, which are not mandatory, of a technical report: a results graph, a table with single-instance&#xD;
+measurements, a workload model, test environment, general observations and a references section.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-DUNOugqhmkD7HKLJ-63CtQ" name="performance_testing_requirements_specification,_GYrwUQOyEeuvwMLO7Qv67Q" guid="-DUNOugqhmkD7HKLJ-63CtQ">
+    <refinedDescription>This artifact gathers the main information related to the test requirements. &lt;br />&#xD;
+It is an incremental document, just like the Performance Test Plan, that is, it is incremented with information according&#xD;
+to the activities that make use of this document. &lt;br />&#xD;
+Performance Analyst is responsible for preparing this document. However, due to the large amount of activities that make&#xD;
+use of it, some other roles such as Performance Architect and Performance Tester may also make use of the document's&#xD;
+information, and also update it with information.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-i59wf9oikIXSlEpYRFgxmg" name="performance_testing_plan,_GYxP4QOyEeuvwMLO7Qv67Q" guid="-i59wf9oikIXSlEpYRFgxmg">
+    <refinedDescription>A Performance Testing Plan is a document elaborate by Performance Analyst as means to, provide support and guiding the team&#xD;
+in the whole test activities. &lt;br />&#xD;
+In this document general testing features, such as testing type, scope, approach and the steps to achieve performance&#xD;
+testing goals are explained.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-haARmEnoWSlgBGW75YBaaw" name="performance_testing_report,_GYxP5AOyEeuvwMLO7Qv67Q" guid="-haARmEnoWSlgBGW75YBaaw">
+    <refinedDescription>Test execution should produce data to be reported. &lt;br />&#xD;
+A technical report must contains test results, organized in a way that allows their interpretation by stakeholders.&lt;br />&#xD;
+Six key components, which are not mandatory, of a technical report: a results graph, a table with single-instance&#xD;
+measurements, a workload model, test environment, general observations and a references section.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-duKY5y6UUxIPBwT9k_94Kg" name="performance_testing_requirements_specification,_GYxP5wOyEeuvwMLO7Qv67Q" guid="-duKY5y6UUxIPBwT9k_94Kg">
+    <refinedDescription>This artifact gathers the main information related to the test requirements. &lt;br />&#xD;
+It is an incremental document, just like the Performance Test Plan, that is, it is incremented with information according&#xD;
+to the activities that make use of this document. &lt;br />&#xD;
+Performance Analyst is responsible for preparing this document. However, due to the large amount of activities that make&#xD;
+use of it, some other roles such as Performance Architect and Performance Tester may also make use of the document's&#xD;
+information, and also update it with information.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-FrbRoDIv0nKedPKVQuzwWQ" name="performance_testing_plan,_GY2vcQOyEeuvwMLO7Qv67Q" guid="-FrbRoDIv0nKedPKVQuzwWQ">
+    <refinedDescription>A Performance Testing Plan is a document elaborate by Performance Analyst as means to, provide support and guiding the team&#xD;
+in the whole test activities. &lt;br />&#xD;
+In this document general testing features, such as testing type, scope, approach and the steps to achieve performance&#xD;
+testing goals are explained.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-AzgMz_GQ5fVZd-nqkjBmBw" name="performance_testing_report,_GY2vdAOyEeuvwMLO7Qv67Q" guid="-AzgMz_GQ5fVZd-nqkjBmBw">
+    <refinedDescription>Test execution should produce data to be reported. &lt;br />&#xD;
+A technical report must contains test results, organized in a way that allows their interpretation by stakeholders.&lt;br />&#xD;
+Six key components, which are not mandatory, of a technical report: a results graph, a table with single-instance&#xD;
+measurements, a workload model, test environment, general observations and a references section.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-XpknMAML56ZiJ5RbMYL5dQ" name="performance_testing_requirements_specification,_GY3WgQOyEeuvwMLO7Qv67Q" guid="-XpknMAML56ZiJ5RbMYL5dQ">
+    <refinedDescription>This artifact gathers the main information related to the test requirements. &lt;br />&#xD;
+It is an incremental document, just like the Performance Test Plan, that is, it is incremented with information according&#xD;
+to the activities that make use of this document. &lt;br />&#xD;
+Performance Analyst is responsible for preparing this document. However, due to the large amount of activities that make&#xD;
+use of it, some other roles such as Performance Architect and Performance Tester may also make use of the document's&#xD;
+information, and also update it with information.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-15Gkk1cATQOw-ZdNCi_tpw" name="performance_testing_plan,_GY8PAQOyEeuvwMLO7Qv67Q" guid="-15Gkk1cATQOw-ZdNCi_tpw">
+    <refinedDescription>A Performance Testing Plan is a document elaborate by Performance Analyst as means to, provide support and guiding the team&#xD;
+in the whole test activities. &lt;br />&#xD;
+In this document general testing features, such as testing type, scope, approach and the steps to achieve performance&#xD;
+testing goals are explained.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-wY2hghfewCmoOglayyGoeA" name="performance_testing_report,_GY82EQOyEeuvwMLO7Qv67Q" guid="-wY2hghfewCmoOglayyGoeA">
+    <refinedDescription>Test execution should produce data to be reported. &lt;br />&#xD;
+A technical report must contains test results, organized in a way that allows their interpretation by stakeholders.&lt;br />&#xD;
+Six key components, which are not mandatory, of a technical report: a results graph, a table with single-instance&#xD;
+measurements, a workload model, test environment, general observations and a references section.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-C6Q5IemZOha_qF3a-2i_aw" name="performance_testing_requirements_specification,_GY82FAOyEeuvwMLO7Qv67Q" guid="-C6Q5IemZOha_qF3a-2i_aw">
+    <refinedDescription>This artifact gathers the main information related to the test requirements. &lt;br />&#xD;
+It is an incremental document, just like the Performance Test Plan, that is, it is incremented with information according&#xD;
+to the activities that make use of this document. &lt;br />&#xD;
+Performance Analyst is responsible for preparing this document. However, due to the large amount of activities that make&#xD;
+use of it, some other roles such as Performance Architect and Performance Tester may also make use of the document's&#xD;
+information, and also update it with information.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
 </xmi:XMI>

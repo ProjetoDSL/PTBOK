@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-d_Y6EvFEONTID5EnnGxYwg" name="performance_testing_plan,_ucpuAPLnEeqG-7knepYd9A" guid="-d_Y6EvFEONTID5EnnGxYwg" changeDate="2020-10-01T03:43:05.437-0300">
+  <mainDescription>A Performance Testing Plan is a document elaborate by Performance Analyst as means to, provide support and guiding the team&#xD;
+in the whole test activities. &lt;br />&#xD;
+In this document general testing features, such as testing type, scope, approach and the steps to achieve performance&#xD;
+testing goals are explained.</mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-7yLNWKzhl0XzBrTIyGpvhA" name="scenario,_OLYJkPLoEeqG-7knepYd9A" guid="-7yLNWKzhl0XzBrTIyGpvhA" changeDate="2020-10-01T03:44:04.964-0300">
+  <mainDescription>In a performance testing, the SUT must deal with different conditions of use, to those conditions mapped with its&#xD;
+particularities we define as test scenarios.&lt;br />&#xD;
+A scenario maps a given application context, within a determinate workload for a user profile, it should be modeled on&#xD;
+basis in usage patterns and log files. &lt;br />&#xD;
+In other words, a scenario must reflect real or expected system usage to be useful for performance testing.</mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

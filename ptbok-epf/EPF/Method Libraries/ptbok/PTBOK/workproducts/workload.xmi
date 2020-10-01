@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-E65alSW8nQIGyOGoQ09fzg" name="workload,_BRRDkPLoEeqG-7knepYd9A" guid="-E65alSW8nQIGyOGoQ09fzg" changeDate="2020-10-01T03:43:51.203-0300">
+  <mainDescription>This artifact is responsible for modifying SUT situation through its different configurations. &lt;br />&#xD;
+A workload may vary based on the test approach and it includes a number of users, concurrent active users, data volumes,&#xD;
+and transaction volumes, along with the transaction mix. &lt;br />&#xD;
+For performance modeling, a workload is associated with an individual scenario.</mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

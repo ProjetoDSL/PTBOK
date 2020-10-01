@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-hDBj_fdXBlk341NhnYvrEA" name="performance_testing_requirements_specification,_qxbZcPLnEeqG-7knepYd9A" guid="-hDBj_fdXBlk341NhnYvrEA" changeDate="2020-10-01T03:42:44.014-0300">
+  <mainDescription>This artifact gathers the main information related to the test requirements. &lt;br />&#xD;
+It is an incremental document, just like the Performance Test Plan, that is, it is incremented with information according&#xD;
+to the activities that make use of this document. &lt;br />&#xD;
+Performance Analyst is responsible for preparing this document. However, due to the large amount of activities that make&#xD;
+use of it, some other roles such as Performance Architect and Performance Tester may also make use of the document's&#xD;
+information, and also update it with information.</mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

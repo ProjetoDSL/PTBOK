@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-JGhkk2lKe40eEmKOTnhkog" name="test_data,_X8ihoPLoEeqG-7knepYd9A" guid="-JGhkk2lKe40eEmKOTnhkog" changeDate="2020-10-01T03:44:16.832-0300">
+  <mainDescription>Test data consists of the test inputs. &lt;br />&#xD;
+As in the performance test one of the main objectives is the detection of bottlenecks in the application, the test data&#xD;
+should be as close as possible to the application's production environment&lt;br />&#xD;
+Therefore, the results obtained with test data application are as reliable as possible.</mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

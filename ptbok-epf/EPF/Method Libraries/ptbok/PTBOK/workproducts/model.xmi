@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-sMO-RgoSb19mztlkDsUl7w" name="model,_EU2JUPLoEeqG-7knepYd9A" guid="-sMO-RgoSb19mztlkDsUl7w" changeDate="2020-10-01T03:43:17.941-0300">
+  <mainDescription>This artifact is used as input in technique known as Model-Based Testing. &lt;br />&#xD;
+A model is an abstraction of software behavior that enables reuse and facilitates the understanding of the flow of&#xD;
+activities performed by the test.</mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>
