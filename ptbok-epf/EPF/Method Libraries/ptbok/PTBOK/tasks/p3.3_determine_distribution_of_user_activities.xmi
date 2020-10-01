@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-EnESlroi9R6lFHtGhhSjHg" name="ptbok_p3.3_determine_distribution_of_user_activities,_K5BioN9NEeqLEKK0pLdylg" guid="-EnESlroi9R6lFHtGhhSjHg">
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-EnESlroi9R6lFHtGhhSjHg" name="ptbok_p3.3_determine_distribution_of_user_activities,_K5BioN9NEeqLEKK0pLdylg" guid="-EnESlroi9R6lFHtGhhSjHg" changeDate="2020-10-01T16:41:48.296-0300">
+  <mainDescription>After obtaining the main user profiles and key scenarios, it is necessary to make a relationship between them. For this,&#xD;
+profiles are allocated to the scenarios, and the Performance Testing Plan is implemented with this information.</mainDescription>
   <sections xmi:id="_PnF4kPiZEeq-GNGrt9WlHQ" name="Relate scenarios to user profiles" guid="_PnF4kPiZEeq-GNGrt9WlHQ"/>
   <sections xmi:id="_SEBOAPiZEeq-GNGrt9WlHQ" name="Update Performance Testing Plan" guid="_SEBOAPiZEeq-GNGrt9WlHQ">
     <sectionDescription>&lt;p>&#xD;

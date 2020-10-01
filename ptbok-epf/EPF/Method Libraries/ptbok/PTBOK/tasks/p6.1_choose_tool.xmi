@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-umsNxa7K0lskmqUPB7oOIQ" name="ptbok_p6.1_choose_tool,_3I7U4N9PEeqLEKK0pLdylg" guid="-umsNxa7K0lskmqUPB7oOIQ">
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-umsNxa7K0lskmqUPB7oOIQ" name="ptbok_p6.1_choose_tool,_3I7U4N9PEeqLEKK0pLdylg" guid="-umsNxa7K0lskmqUPB7oOIQ" changeDate="2020-10-01T16:42:36.211-0300">
+  <mainDescription>During planning, we can choose tools to support the test. &lt;br />&#xD;
+For that, we have to analyze the list of tools and choose the most appropriate for the context. &lt;br />&#xD;
+After that, it is important to register in the Performance Testing Plan the justification and what requirements will be&#xD;
+covered with the use of the tool.</mainDescription>
   <sections xmi:id="_E2OhkPiaEeq-GNGrt9WlHQ" name="Review available tools" guid="_E2OhkPiaEeq-GNGrt9WlHQ"/>
   <sections xmi:id="_Ie7GkPiaEeq-GNGrt9WlHQ" name="Update Performance Testing Plan" guid="_Ie7GkPiaEeq-GNGrt9WlHQ">
     <sectionDescription>&lt;p>&#xD;

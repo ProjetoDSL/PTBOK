@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-MsN_tfJht6YY94GB-z5ITA" name="ptbok_p2.1_plan_test_design,_pn0VwN9OEeqLEKK0pLdylg" guid="-MsN_tfJht6YY94GB-z5ITA">
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-MsN_tfJht6YY94GB-z5ITA" name="ptbok_p2.1_plan_test_design,_pn0VwN9OEeqLEKK0pLdylg" guid="-MsN_tfJht6YY94GB-z5ITA" changeDate="2020-10-01T16:40:20.473-0300">
+  <mainDescription>This activity is the first project activity in the process. &lt;br />&#xD;
+The main project inputs are the test objectives and the SUT information, which may be founded in the Performance Testing&#xD;
+Requirements Specification. &lt;br />&#xD;
+After extracting this information, there are already subsidies for the creation of Performance Testing Design.&lt;br />&#xD;
+This initial document may contain some preliminary design information, evolved from the test specifications, such as the&#xD;
+intended approach, resource allocation, strategies, etc. &lt;br />&#xD;
+However, the test project is still immature at this stage, so there is no need for a detailed project detail at this&#xD;
+moment.</mainDescription>
   <sections xmi:id="_lAMPAPiXEeq-GNGrt9WlHQ" name="Extract Design inputs" guid="_lAMPAPiXEeq-GNGrt9WlHQ">
     <sectionDescription>&lt;ol>&#xD;
     &lt;li>&#xD;
