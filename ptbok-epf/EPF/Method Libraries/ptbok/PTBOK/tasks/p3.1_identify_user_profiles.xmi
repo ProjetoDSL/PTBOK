@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-OXlfIil9QRbO8GEx_s15jg" name="ptbok_p3.1_identify_user_profiles,_nT3BAN9MEeqLEKK0pLdylg" guid="-OXlfIil9QRbO8GEx_s15jg" changeDate="2020-10-01T16:41:20.228-0300">
-  <mainDescription>An application may contain different user profiles, which have distinct characteristics that need to be detailed for the&#xD;
-test to run more closely to the actual application usage environment. &lt;br />&#xD;
-Therefore, this activity aims to map these profiles.</mainDescription>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-OXlfIil9QRbO8GEx_s15jg" name="ptbok_p3.1_identify_user_profiles,_nT3BAN9MEeqLEKK0pLdylg" guid="-OXlfIil9QRbO8GEx_s15jg" changeDate="2020-10-08T11:32:43.271-0300">
+  <mainDescription>&lt;img style=&quot;HEIGHT: 230px; WIDTH: 600px&quot; alt=&quot;&quot; src=&quot;resources/activity-artifacts-p3.1.png&quot; width=&quot;600&quot; height=&quot;300&quot; /> &#xD;
+&lt;p>&#xD;
+    An application may contain different user profiles, which have distinct characteristics that need to be detailed for&#xD;
+    the test to run more closely to the actual application usage environment.&lt;br />&#xD;
+    Therefore, this activity aims to map these profiles.&#xD;
+&lt;/p></mainDescription>
   <sections xmi:id="_-rMNkPiXEeq-GNGrt9WlHQ" name="Extract User Profiles" guid="_-rMNkPiXEeq-GNGrt9WlHQ"/>
   <sections xmi:id="__p-KAPiXEeq-GNGrt9WlHQ" name="Update Performance Testing Plan" guid="__p-KAPiXEeq-GNGrt9WlHQ">
     <sectionDescription>&lt;p>&#xD;

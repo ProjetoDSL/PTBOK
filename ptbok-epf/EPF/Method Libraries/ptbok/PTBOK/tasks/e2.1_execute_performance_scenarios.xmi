@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-rdBwlCk8KnyKjzb6fClD8A" name="ptbok_e2.1_execute_test_scenarios,_S2oyEN9QEeqLEKK0pLdylg" guid="-rdBwlCk8KnyKjzb6fClD8A">
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-rdBwlCk8KnyKjzb6fClD8A" name="ptbok_e2.1_execute_test_scenarios,_S2oyEN9QEeqLEKK0pLdylg" guid="-rdBwlCk8KnyKjzb6fClD8A" changeDate="2020-10-08T12:00:38.076-0300">
+  <mainDescription>&lt;img style=&quot;HEIGHT: 230px; WIDTH: 600px&quot; alt=&quot;&quot; src=&quot;resources/activity-artifacts-e2.1 (1).png&quot; width=&quot;600&quot; height=&quot;300&quot; /></mainDescription>
   <sections xmi:id="_P090IPinEeq-GNGrt9WlHQ" name="Select the scenario" guid="_P090IPinEeq-GNGrt9WlHQ"/>
   <sections xmi:id="_QizxkPinEeq-GNGrt9WlHQ" name="Execute the scenario" guid="_QizxkPinEeq-GNGrt9WlHQ"/>
   <sections xmi:id="_ROS-kPinEeq-GNGrt9WlHQ" name="Update Performance Testing Plan" guid="_ROS-kPinEeq-GNGrt9WlHQ">

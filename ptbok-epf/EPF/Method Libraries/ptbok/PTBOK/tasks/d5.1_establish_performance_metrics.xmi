@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-3HCJIX2VCtJhrRDmP1ghqA" name="ptbok_d5.1_establish_performance_metrics,_TDOj8N9NEeqLEKK0pLdylg" guid="-3HCJIX2VCtJhrRDmP1ghqA">
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-3HCJIX2VCtJhrRDmP1ghqA" name="ptbok_d5.1_establish_performance_metrics,_TDOj8N9NEeqLEKK0pLdylg" guid="-3HCJIX2VCtJhrRDmP1ghqA" changeDate="2020-10-08T11:48:28.344-0300">
+  <mainDescription>&lt;img style=&quot;HEIGHT: 230px; WIDTH: 600px&quot; alt=&quot;&quot; src=&quot;resources/activity-artifacts-d5.1.png&quot; width=&quot;600&quot; height=&quot;300&quot; /></mainDescription>
   <sections xmi:id="_9X5DkPigEeq-GNGrt9WlHQ" name="Gather metrics info" guid="_9X5DkPigEeq-GNGrt9WlHQ"/>
   <sections xmi:id="_-DEukPigEeq-GNGrt9WlHQ" name="Create Baseline Performance Metrics" guid="_-DEukPigEeq-GNGrt9WlHQ"/>
   <sections xmi:id="_AV2pgPihEeq-GNGrt9WlHQ" name="Update Performance Testing Plan" guid="_AV2pgPihEeq-GNGrt9WlHQ">

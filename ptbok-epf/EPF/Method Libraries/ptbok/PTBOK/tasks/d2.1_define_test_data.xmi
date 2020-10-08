@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-HGvrcKwvylk7bfPR4-YKWQ" name="ptbok_d2.1_define_test_data,_CsbpwN9PEeqLEKK0pLdylg" guid="-HGvrcKwvylk7bfPR4-YKWQ" changeDate="2020-10-01T16:40:34.065-0300">
-  <mainDescription>As the first design activity, occurs the test data definition. &lt;br />&#xD;
-For this, the type of approach is selected, for example, random or database-based, for data acquisition. After that, we&#xD;
-perform the test data definition and the execution plan inclusion in Performance Testing Design.&lt;br />&#xD;
-This activity chooses the main test inputs. &lt;br />&#xD;
-Therefore, they should reflect inputs as close as possible to the application production environment.</mainDescription>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-HGvrcKwvylk7bfPR4-YKWQ" name="ptbok_d2.1_define_test_data,_CsbpwN9PEeqLEKK0pLdylg" guid="-HGvrcKwvylk7bfPR4-YKWQ" changeDate="2020-10-08T11:52:13.097-0300">
+  <mainDescription>&lt;p>&#xD;
+    &lt;img style=&quot;HEIGHT: 230px; WIDTH: 600px&quot; alt=&quot;&quot; src=&quot;resources/activity-artifacts-d2.1.png&quot; width=&quot;600&quot; height=&quot;300&quot; />&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    As the first design activity, occurs the test data definition.&lt;br />&#xD;
+    For this, the type of approach is selected, for example, random or database-based, for data acquisition. After that, we&#xD;
+    perform the test data definition and the execution plan inclusion in Performance Testing Design.&lt;br />&#xD;
+    This activity chooses the main test inputs.&lt;br />&#xD;
+    Therefore, they should reflect inputs as close as possible to the application production environment.&#xD;
+&lt;/p></mainDescription>
   <sections xmi:id="_ZFEukPicEeq-GNGrt9WlHQ" name="Select Test Data Approach" guid="_ZFEukPicEeq-GNGrt9WlHQ"/>
   <sections xmi:id="_aCupoPicEeq-GNGrt9WlHQ" name="Define Test Data" guid="_aCupoPicEeq-GNGrt9WlHQ"/>
   <sections xmi:id="_bbl6APicEeq-GNGrt9WlHQ" name="Define Task Execution Plan" guid="_bbl6APicEeq-GNGrt9WlHQ"/>

@@ -1,14 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-7aps6s6aqR24irlUYFRy0Q" name="ptbok_p6.2_choose_method,_EyEEEN9QEeqLEKK0pLdylg" guid="-7aps6s6aqR24irlUYFRy0Q" changeDate="2020-10-01T16:42:48.082-0300">
-  <mainDescription>Choosing the appropriate method for the test is an important task, as the method must meet what is expected for the test.&#xD;
-&lt;br />&#xD;
-For this, we extract the necessary information from the specification document and then update the Performance Testing&#xD;
-Design. &lt;br />&#xD;
-The list of approaches assists in the definition and choice of the method, as it brings the characteristics of each of the&#xD;
-methods and approaches used in the performance test. &lt;br />&#xD;
-This choice involves both issues of approaches (load, stress, spike, volume) as well as questions specific to the method&#xD;
-such as MBT, CR, among others.&lt;br />&#xD;
-This activity ends the test planning activities.</mainDescription>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-7aps6s6aqR24irlUYFRy0Q" name="ptbok_p6.2_choose_method,_EyEEEN9QEeqLEKK0pLdylg" guid="-7aps6s6aqR24irlUYFRy0Q" changeDate="2020-10-08T11:45:58.031-0300">
+  <mainDescription>&lt;p>&#xD;
+    &lt;img style=&quot;HEIGHT: 230px; WIDTH: 600px&quot; alt=&quot;&quot; src=&quot;resources/activity-artifacts-p6.2.png&quot; width=&quot;600&quot; height=&quot;300&quot; />&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Choosing the appropriate method for the test is an important task, as the method must meet what is expected for the&#xD;
+    test.&lt;br />&#xD;
+    For this, we extract the necessary information from the specification document and then update the Performance Testing&#xD;
+    Design.&lt;br />&#xD;
+    The list of approaches assists in the definition and choice of the method, as it brings the characteristics of each of&#xD;
+    the methods and approaches used in the performance test.&lt;br />&#xD;
+    This choice involves both issues of approaches (load, stress, spike, volume) as well as questions specific to the&#xD;
+    method such as MBT, CR, among others.&lt;br />&#xD;
+    This activity ends the test planning activities.&#xD;
+&lt;/p></mainDescription>
   <sections xmi:id="_9-_HgPiaEeq-GNGrt9WlHQ" name="Analyze method indication" guid="_9-_HgPiaEeq-GNGrt9WlHQ">
     <sectionDescription>From Requirements and Design</sectionDescription>
   </sections>

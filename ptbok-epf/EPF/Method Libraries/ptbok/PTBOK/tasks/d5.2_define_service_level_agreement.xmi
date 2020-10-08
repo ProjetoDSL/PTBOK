@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-F6QNi2teQJcjTS233t_Flw" name="ptbok_d5.2_define_service_level_agreement,_i2N7kN9NEeqLEKK0pLdylg" guid="-F6QNi2teQJcjTS233t_Flw">
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-F6QNi2teQJcjTS233t_Flw" name="ptbok_d5.2_define_service_level_agreement,_i2N7kN9NEeqLEKK0pLdylg" guid="-F6QNi2teQJcjTS233t_Flw" changeDate="2020-10-08T11:49:49.341-0300">
+  <mainDescription>&lt;img style=&quot;HEIGHT: 230px; WIDTH: 600px&quot; alt=&quot;&quot; src=&quot;resources/activity-artifacts-d5.1 (1).png&quot; width=&quot;600&quot; height=&quot;300&quot; /></mainDescription>
   <sections xmi:id="_suMJkPikEeq-GNGrt9WlHQ" name="Gather SLA info" guid="_suMJkPikEeq-GNGrt9WlHQ"/>
   <sections xmi:id="_up3MEPikEeq-GNGrt9WlHQ" name="Elaborate SLA" guid="_up3MEPikEeq-GNGrt9WlHQ"/>
   <sections xmi:id="_wLhMEPikEeq-GNGrt9WlHQ" name="Update Performance Testing Requirements Specification" guid="_wLhMEPikEeq-GNGrt9WlHQ">

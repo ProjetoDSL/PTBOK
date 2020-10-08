@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-n1Q3t-pQsNlO5yMNOJEoqg" name="ptbok_a5.1_validate_service_level_agreement,_sUm2sN9PEeqLEKK0pLdylg" guid="-n1Q3t-pQsNlO5yMNOJEoqg" changeDate="2020-10-01T14:10:17.283-0300">
-  <mainDescription>&lt;img style=&quot;HEIGHT: 248px; WIDTH: 655px&quot; alt=&quot;&quot; src=&quot;resources/activity-artifacts-a5.1.png&quot; width=&quot;600&quot; height=&quot;260&quot; /></mainDescription>
+  <mainDescription>&lt;img style=&quot;HEIGHT: 230px; WIDTH: 600px&quot; alt=&quot;&quot; src=&quot;resources/activity-artifacts-a5.1 (1).png&quot; width=&quot;600&quot; height=&quot;300&quot; /></mainDescription>
   <sections xmi:id="_xZ2OIPipEeq-GNGrt9WlHQ" name="Make SLA x Collected Metrics comparative" guid="_xZ2OIPipEeq-GNGrt9WlHQ"/>
   <sections xmi:id="_yFU0EPipEeq-GNGrt9WlHQ" name="Update Performance Testing Report" guid="_yFU0EPipEeq-GNGrt9WlHQ">
     <sectionDescription>&lt;p>&#xD;

@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-kZzaSb_ndEBV4gXpPPhePg" name="ptbok_d3.1_plan_and_design_workload,_UsyQ0N9PEeqLEKK0pLdylg" guid="-kZzaSb_ndEBV4gXpPPhePg" changeDate="2020-10-01T16:42:03.410-0300">
-  <mainDescription>We must map the way the workload behaves according to the approach used (load, stress, volume, etc.) to define the workload&#xD;
-project, as each of these approaches has particularities that influence this behavior. Thus, in this activity, the Design&#xD;
-Workload is defined and elaborated, which we must attach to the Performance Testing Design.</mainDescription>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-kZzaSb_ndEBV4gXpPPhePg" name="ptbok_d3.1_plan_and_design_workload,_UsyQ0N9PEeqLEKK0pLdylg" guid="-kZzaSb_ndEBV4gXpPPhePg" changeDate="2020-10-08T11:55:41.179-0300">
+  <mainDescription>&lt;p>&#xD;
+    &lt;img style=&quot;HEIGHT: 230px; WIDTH: 600px&quot; alt=&quot;&quot; src=&quot;resources/activity-artifacts-d3.1.png&quot; width=&quot;600&quot; height=&quot;300&quot; />&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    We must map the way the workload behaves according to the approach used (load, stress, volume, etc.) to define the&#xD;
+    workload project, as each of these approaches has particularities that influence this behavior. Thus, in this activity,&#xD;
+    the Design Workload is defined and elaborated, which we must attach to the Performance Testing Design.&#xD;
+&lt;/p></mainDescription>
   <sections xmi:id="_Gj5yEPifEeq-GNGrt9WlHQ" name="Define workload approach" guid="_Gj5yEPifEeq-GNGrt9WlHQ"/>
   <sections xmi:id="_IB6BIPifEeq-GNGrt9WlHQ" name="Elaborate Design Workload" guid="_IB6BIPifEeq-GNGrt9WlHQ"/>
   <sections xmi:id="_JlYmEPifEeq-GNGrt9WlHQ" name="Update Performance Testing Plan" guid="_JlYmEPifEeq-GNGrt9WlHQ">

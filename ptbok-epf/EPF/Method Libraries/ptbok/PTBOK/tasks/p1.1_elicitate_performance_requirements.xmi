@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-OOXEV3gzrjQo25oRC9ivEw" name="ptbok_p1.1_elicitate_performance_requirements,_UcyUsN9JEeqLEKK0pLdylg" guid="-OOXEV3gzrjQo25oRC9ivEw" changeDate="2020-10-01T16:39:21.282-0300">
-  <mainDescription>Different sources may provide information related to the test, for example, the application development and maintenance&#xD;
-team and stakeholders. Therefore, it is necessary to collect, compile, and save this information in the requirements&#xD;
-specification document. Requirements elicitation techniques may support this activity. The information gathered in this&#xD;
-activity is as follows: SUT description; environment description; contractual obligations; client expectations; risks to be&#xD;
-mitigated; business requirements; available application features and components; application usage scenarios</mainDescription>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-OOXEV3gzrjQo25oRC9ivEw" name="ptbok_p1.1_elicitate_performance_requirements,_UcyUsN9JEeqLEKK0pLdylg" guid="-OOXEV3gzrjQo25oRC9ivEw" changeDate="2020-10-08T11:25:13.442-0300">
+  <mainDescription>&lt;img style=&quot;HEIGHT: 235px; WIDTH: 600px&quot; alt=&quot;&quot; src=&quot;resources/activity-artifacts-p1.1.png&quot; width=&quot;600&quot; height=&quot;428&quot; /> &#xD;
+&lt;p>&#xD;
+    Different sources may provide information related to the test, for example, the application development and maintenance&#xD;
+    team and stakeholders. Therefore, it is necessary to collect, compile, and save this information in the requirements&#xD;
+    specification document. Requirements elicitation techniques may support this activity. The information gathered in this&#xD;
+    activity is as follows: SUT description; environment description; contractual obligations; client expectations; risks&#xD;
+    to be mitigated; business requirements; available application features and components; application usage scenarios&#xD;
+&lt;/p></mainDescription>
   <sections xmi:id="_HBE8YPlGEeqs7dCaAbkb9w" name="Gather performance testing info (SUT, env, business, risks)" guid="_HBE8YPlGEeqs7dCaAbkb9w"/>
   <sections xmi:id="_KrIMQPlGEeqs7dCaAbkb9w" name="Compile performance testing info" guid="_KrIMQPlGEeqs7dCaAbkb9w"/>
   <sections xmi:id="_NEug4PlGEeqs7dCaAbkb9w" name="Update Performance Testing Requirements Specification" guid="_NEug4PlGEeqs7dCaAbkb9w"/>

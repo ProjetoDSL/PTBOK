@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-DHYjtpoOnxJP19Jtthhkmg" name="ptbok_m5.1_monitor_the_performance_metrics,_lUGkMN9WEeqLEKK0pLdylg" guid="-DHYjtpoOnxJP19Jtthhkmg">
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-DHYjtpoOnxJP19Jtthhkmg" name="ptbok_m5.1_monitor_the_performance_metrics,_lUGkMN9WEeqLEKK0pLdylg" guid="-DHYjtpoOnxJP19Jtthhkmg" changeDate="2020-10-08T12:44:40.767-0300">
+  <mainDescription>&lt;img style=&quot;HEIGHT: 230px; WIDTH: 600px&quot; alt=&quot;&quot; src=&quot;resources/activity-artifacts-m5.1.png&quot; width=&quot;600&quot; height=&quot;300&quot; /></mainDescription>
   <sections xmi:id="_AO3-IPipEeq-GNGrt9WlHQ" name="Show metrics info" guid="_AO3-IPipEeq-GNGrt9WlHQ"/>
   <sections xmi:id="_A2PgIPipEeq-GNGrt9WlHQ" name="Show alerts" guid="_A2PgIPipEeq-GNGrt9WlHQ"/>
   <sections xmi:id="_BBEQEPipEeq-GNGrt9WlHQ" name="Update Performance Testing Report" guid="_BBEQEPipEeq-GNGrt9WlHQ">

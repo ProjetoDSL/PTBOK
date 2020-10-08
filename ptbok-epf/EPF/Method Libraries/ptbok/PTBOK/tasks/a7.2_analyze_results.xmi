@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-lA99PwCSB3tNboqZECWjhA" name="ptbok_a7.2_analyze_results,_v_TRsN9NEeqLEKK0pLdylg" guid="-lA99PwCSB3tNboqZECWjhA" changeDate="2020-10-01T14:19:03.276-0300">
-  <mainDescription>&lt;img style=&quot;HEIGHT: 260px; WIDTH: 685px&quot; alt=&quot;&quot; src=&quot;resources/activity-artifacts-a7.2.png&quot; width=&quot;600&quot; height=&quot;436&quot; /></mainDescription>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-lA99PwCSB3tNboqZECWjhA" name="ptbok_a7.2_analyze_results,_v_TRsN9NEeqLEKK0pLdylg" guid="-lA99PwCSB3tNboqZECWjhA" changeDate="2020-10-08T12:48:00.689-0300">
+  <mainDescription>&lt;p>&#xD;
+    &lt;img style=&quot;HEIGHT: 230px; WIDTH: 600px&quot; alt=&quot;&quot; src=&quot;resources/activity-artifacts-a7.2 (1).png&quot; width=&quot;600&quot;&#xD;
+    height=&quot;300&quot; />&#xD;
+&lt;/p></mainDescription>
   <sections xmi:id="_l7zoEPiqEeq-GNGrt9WlHQ" name="Make inputs comparative" guid="_l7zoEPiqEeq-GNGrt9WlHQ"/>
   <sections xmi:id="_mIFwkPiqEeq-GNGrt9WlHQ" name="Update Performance Testing Report" guid="_mIFwkPiqEeq-GNGrt9WlHQ">
     <sectionDescription>&lt;p>&#xD;

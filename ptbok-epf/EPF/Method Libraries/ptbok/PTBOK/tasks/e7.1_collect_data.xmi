@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-N6OR04nPWxwHQuKzoBKtsQ" name="ptbok_e7.1_collect_data,_JYta4N9XEeqLEKK0pLdylg" guid="-N6OR04nPWxwHQuKzoBKtsQ">
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-N6OR04nPWxwHQuKzoBKtsQ" name="ptbok_e7.1_collect_data,_JYta4N9XEeqLEKK0pLdylg" guid="-N6OR04nPWxwHQuKzoBKtsQ" changeDate="2020-10-08T12:03:27.570-0300">
+  <mainDescription>&lt;img style=&quot;HEIGHT: 230px; WIDTH: 600px&quot; alt=&quot;&quot; src=&quot;resources/activity-artifacts-e7.1.png&quot; width=&quot;600&quot; height=&quot;300&quot; /></mainDescription>
   <sections xmi:id="_CvQFoPioEeq-GNGrt9WlHQ" name="Catch SUT metrics" guid="_CvQFoPioEeq-GNGrt9WlHQ"/>
   <sections xmi:id="_C-WRkPioEeq-GNGrt9WlHQ" name="Catch Server metrics" guid="_C-WRkPioEeq-GNGrt9WlHQ"/>
   <sections xmi:id="_DwPokPioEeq-GNGrt9WlHQ" name="Catch Network metrics" guid="_DwPokPioEeq-GNGrt9WlHQ"/>
