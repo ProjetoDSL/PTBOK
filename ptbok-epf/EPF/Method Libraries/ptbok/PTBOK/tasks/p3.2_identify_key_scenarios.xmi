@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="--KyO0TsfmY-2ygDgY8kaaw" name="ptbok_p3.2_identify_key_scenarios,_6IFVAN9MEeqLEKK0pLdylg" guid="--KyO0TsfmY-2ygDgY8kaaw" changeDate="2020-10-08T11:34:29.711-0300">
   <mainDescription>&lt;p>&#xD;
-    &lt;img style=&quot;HEIGHT: 230px; WIDTH: 600px&quot; alt=&quot;&quot; src=&quot;resources/activity-artifacts-p3.2.png&quot; width=&quot;600&quot; height=&quot;300&quot; />&#xD;
-&lt;/p>&#xD;
-&lt;p>&#xD;
     Mapping the main usage scenarios of the application is essential for proper test execution.&lt;br />&#xD;
     A key scenario has some peculiarities that characterize it, gathering access characteristics of a user profile with the&#xD;
     related functionalities, as well as the flow in which they occur.&lt;br />&#xD;
     In this activity, the main scenarios are extracted and the Performance Testing Plan is updated with this information.&#xD;
-&lt;/p></mainDescription>
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img style=&quot;HEIGHT: 230px; WIDTH: 600px&quot; alt=&quot;&quot; src=&quot;./resources/activity-artifacts-p3.2.png&quot; width=&quot;600&quot;&#xD;
+    height=&quot;300&quot; />&#xD;
+&lt;/p>&#xD;
+&lt;br /></mainDescription>
   <sections xmi:id="_98zBEPiYEeq-GNGrt9WlHQ" name="Extract Key Scenarios" guid="_98zBEPiYEeq-GNGrt9WlHQ"/>
   <sections xmi:id="__NSYkPiYEeq-GNGrt9WlHQ" name="Update Testing Plan" guid="__NSYkPiYEeq-GNGrt9WlHQ">
     <sectionDescription>&lt;p>&#xD;

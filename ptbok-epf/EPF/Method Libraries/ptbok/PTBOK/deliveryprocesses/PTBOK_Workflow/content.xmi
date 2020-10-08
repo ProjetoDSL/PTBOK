@@ -490,4 +490,105 @@ Performance Analyst is responsible for preparing this document. However, due to 
 use of it, some other roles such as Performance Architect and Performance Tester may also make use of the document's&#xD;
 information, and also update it with information.</refinedDescription>
   </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-TAwNtLbcUopuYiNXmkuNsg" name="p1.1_elicitate_performance_requirements,_MBDj4N9cEeqLEKK0pLdylg" guid="-TAwNtLbcUopuYiNXmkuNsg">
+    <refinedDescription>Different sources may provide information related to the test, for example, the application development and maintenance&#xD;
+team and stakeholders. Therefore, it is necessary to collect, compile, and save this information in the requirements&#xD;
+specification document. Requirements elicitation techniques may support this activity. The information gathered in this&#xD;
+activity is as follows: SUT description; environment description; contractual obligations; client expectations; risks to be&#xD;
+mitigated; business requirements; available application features and components; application usage scenarios</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-gg4rBlT36kEgoXlLbZ27vg" name="p1.2_analyze_performance_requirements,_APKNsN9dEeqLEKK0pLdylg" guid="-gg4rBlT36kEgoXlLbZ27vg">
+    <refinedDescription>This activity aims to perform the analysis of the test requirements. For this, an approach similar to that used in&#xD;
+traditional Requirements Engineering. Therefore, requirements analysis techniques may support this activity. During the&#xD;
+analysis of the test requirements, the following information should be added to the Performance Testing Requirements&#xD;
+Specification: Objectives (detailing the general objectives of the test); Targets (desired values to metrics); thresholds&#xD;
+(max limit acceptable).</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-yMWEPkqBB6mep2vek18YUg" name="p1.3_specify_performance_requirements,_US1-cN9dEeqLEKK0pLdylg" guid="-yMWEPkqBB6mep2vek18YUg">
+    <refinedDescription>This activity consolidates the elicitation and analysis of the test requirements. It is important to note that these three&#xD;
+activities are closely linked and, depending on the context of the organization, may be carried out simultaneously.&#xD;
+Therefore, the requirements document must be revised and corrected, if necessary. In this activity, it is added the&#xD;
+feasibility analysis (are the goals plausible and achievable for the organization's scenario?) to the performance testing&#xD;
+requirements specification.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-iGifLbbK9LfuPyugXEo6KQ" name="p2.1_plan_test_design,_3FgsIN9dEeqLEKK0pLdylg" guid="-iGifLbbK9LfuPyugXEo6KQ">
+    <refinedDescription>This activity is the first project activity in the process. &lt;br />&#xD;
+The main project inputs are the test objectives and the SUT information, which may be founded in the Performance Testing&#xD;
+Requirements Specification. &lt;br />&#xD;
+After extracting this information, there are already subsidies for the creation of Performance Testing Design.&lt;br />&#xD;
+This initial document may contain some preliminary design information, evolved from the test specifications, such as the&#xD;
+intended approach, resource allocation, strategies, etc. &lt;br />&#xD;
+However, the test project is still immature at this stage, so there is no need for a detailed project detail at this&#xD;
+moment.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-V3LUE_nndYv2tNP6yHMuiw" name="p3.1_identify_user_profiles,_If9JwN9eEeqLEKK0pLdylg" guid="-V3LUE_nndYv2tNP6yHMuiw">
+    <refinedDescription>An application may contain different user profiles, which have distinct characteristics that need to be detailed for the&#xD;
+test to run more closely to the actual application usage environment. &lt;br />&#xD;
+Therefore, this activity aims to map these profiles.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-pmppkY8C9uVVzEo9BL5Uqg" name="p3.2_identify_key_scenarios,_WANCsN9eEeqLEKK0pLdylg" guid="-pmppkY8C9uVVzEo9BL5Uqg">
+    <refinedDescription>Mapping the main usage scenarios of the application is essential for proper test execution. &lt;br />&#xD;
+A key scenario has some peculiarities that characterize it, gathering access characteristics of a user profile with the&#xD;
+related functionalities, as well as the flow in which they occur.&lt;br />&#xD;
+In this activity, the main scenarios are extracted and the Performance Testing Plan is updated with this information.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-3qNPQnEGkZ5-GQKdRv_OOA" name="p3.3_determine_distribution_of_user_activities,_cz_DoN9eEeqLEKK0pLdylg" guid="-3qNPQnEGkZ5-GQKdRv_OOA">
+    <refinedDescription>After obtaining the main user profiles and key scenarios, it is necessary to make a relationship between them. For this,&#xD;
+profiles are allocated to the scenarios, and the Performance Testing Plan is implemented with this information.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-yXM-wiLFEibi_0JgGxMrWQ" name="p4.1_identify_the_test_environment,_iP55wN9eEeqLEKK0pLdylg" guid="-yXM-wiLFEibi_0JgGxMrWQ">
+    <refinedDescription>Environment information is analyzed in this activity. &lt;br />&#xD;
+This includes both information about the application's production environment and information about the test environment&#xD;
+that will be used in the test run. Environment planning includes possible requests for resources that can be made. Thus, in&#xD;
+addition to environmental planning, the Testing Environment Request should be added to the Performance Testing Plan.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-TVTTOLp1C23k5CrVxy02tA" name="p6.1_choose_tool,_ysC8EN9eEeqLEKK0pLdylg" guid="-TVTTOLp1C23k5CrVxy02tA">
+    <refinedDescription>During planning, we can choose tools to support the test. &lt;br />&#xD;
+For that, we have to analyze the list of tools and choose the most appropriate for the context. &lt;br />&#xD;
+After that, it is important to register in the Performance Testing Plan the justification and what requirements will be&#xD;
+covered with the use of the tool.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-ecozQPccW-Lx8M5dSH80uA" name="p6.2_choose_method,_M9RNIN9fEeqLEKK0pLdylg" guid="-ecozQPccW-Lx8M5dSH80uA">
+    <refinedDescription>Choosing the appropriate method for the test is an important task, as the method must meet what is expected for the test.&#xD;
+&lt;br />&#xD;
+For this, we extract the necessary information from the specification document and then update the Performance Testing&#xD;
+Design. &lt;br />&#xD;
+The list of approaches assists in the definition and choice of the method, as it brings the characteristics of each of the&#xD;
+methods and approaches used in the performance test. &lt;br />&#xD;
+This choice involves both issues of approaches (load, stress, spike, volume) as well as questions specific to the method&#xD;
+such as MBT, CR, among others.&lt;br />&#xD;
+This activity ends the test planning activities.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-kk17NDY1bu4_NBBeb9Z8Mg" name="d2.1_define_test_data,_3QjzoN9fEeqLEKK0pLdylg" guid="-kk17NDY1bu4_NBBeb9Z8Mg">
+    <refinedDescription>As the first design activity, occurs the test data definition. &lt;br />&#xD;
+For this, the type of approach is selected, for example, random or database-based, for data acquisition. After that, we&#xD;
+perform the test data definition and the execution plan inclusion in Performance Testing Design.&lt;br />&#xD;
+This activity chooses the main test inputs. &lt;br />&#xD;
+Therefore, they should reflect inputs as close as possible to the application production environment.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-goOb-9We28N7NEqdOvowQg" name="d2.2_implement_test_design,_FJLJQN9gEeqLEKK0pLdylg" guid="-goOb-9We28N7NEqdOvowQg">
+    <refinedDescription>This activity has a relatively simple definition, summarizing the creation of the scripts and models used in the test. For&#xD;
+that, for this creation, we must follow the planning. The tool that was chosen to create the models and scripts and perform&#xD;
+the test directly influences this activity.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-288BFTR-Y0VJ0UUKkmVE7A" name="d3.1_plan_and_design_workload,_RPT0oN9gEeqLEKK0pLdylg" guid="-288BFTR-Y0VJ0UUKkmVE7A">
+    <refinedDescription>We must map the way the workload behaves according to the approach used (load, stress, volume, etc.) to define the workload&#xD;
+project, as each of these approaches has particularities that influence this behavior. Thus, in this activity, the Design&#xD;
+Workload is defined and elaborated, which we must attach to the Performance Testing Design.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-mXIdqen8KAVf3DW_v3jiDA" name="a1.1_validate_requirements,_SsSeEN9iEeqLEKK0pLdylg" guid="-mXIdqen8KAVf3DW_v3jiDA">
+    <refinedDescription>&lt;img style=&quot;HEIGHT: 260px; WIDTH: 685px&quot; alt=&quot;&quot; src=&quot;./../../PTBOK/tasks/resources/A1.1.png&quot; width=&quot;600&quot; height=&quot;428&quot; /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-OzP80hejWzACmL3rhFaaXA" name="a5.1_validate_service_level_agreement,_aNNR0N9iEeqLEKK0pLdylg" guid="-OzP80hejWzACmL3rhFaaXA">
+    <refinedDescription>&lt;img style=&quot;HEIGHT: 248px; WIDTH: 655px&quot; alt=&quot;&quot; src=&quot;./../../PTBOK/tasks/resources/activity-artifacts-a5.1.png&quot; width=&quot;600&quot; height=&quot;260&quot; /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-ll8K3AeJb7iMSbTF_zEw2g" name="a7.1_build_graphs_and_charts,_07hHgN9iEeqLEKK0pLdylg" guid="-ll8K3AeJb7iMSbTF_zEw2g">
+    <refinedDescription>&lt;p>&#xD;
+    &lt;img style=&quot;HEIGHT: 245px; WIDTH: 637px&quot; alt=&quot;&quot; src=&quot;./../../PTBOK/tasks/resources/activity-artifacts-a7.1 (1).png&quot; width=&quot;600&quot;&#xD;
+    height=&quot;260&quot; />&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-QF56Y4qivax_YjAts7kxTA" name="a7.2_analyze_results,_7OoEUN9iEeqLEKK0pLdylg" guid="-QF56Y4qivax_YjAts7kxTA">
+    <refinedDescription>&lt;img style=&quot;HEIGHT: 260px; WIDTH: 685px&quot; alt=&quot;&quot; src=&quot;./../../PTBOK/tasks/resources/activity-artifacts-a7.2.png&quot; width=&quot;600&quot; height=&quot;436&quot; /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
 </xmi:XMI>

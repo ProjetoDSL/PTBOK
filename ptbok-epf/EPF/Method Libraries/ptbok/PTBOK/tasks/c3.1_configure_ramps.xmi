@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-jPOaKf-DfpVga5B1y7pPrA" name="ptbok_c3.1_configure_ramps,_rYrkgN9QEeqLEKK0pLdylg" guid="-jPOaKf-DfpVga5B1y7pPrA" changeDate="2020-10-08T11:17:51.766-0300">
-  <mainDescription>&lt;p>&#xD;
-    &amp;nbsp;&lt;img style=&quot;HEIGHT: 235px; WIDTH: 600px&quot; alt=&quot;&quot; src=&quot;resources/activity-artifacts-c3.1 (2).png&quot; width=&quot;600&quot;&#xD;
+  <mainDescription>&lt;span&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+We need to perform some configuration activities before running the test.&amp;nbsp;The first is to configure the workload ramp&#xD;
+behavior.&amp;nbsp;This ramp has three main phases, ramp up, its steady state, and its ramp down. Each of these phases may&#xD;
+happen in different ways according to the test approach. Typically, the tools used for the test run offer customized&#xD;
+settings for the ramp configuration.&lt;/span> &#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&lt;img style=&quot;HEIGHT: 235px; WIDTH: 600px&quot; alt=&quot;&quot; src=&quot;./resources/activity-artifacts-c3.1%20(2).png&quot; width=&quot;600&quot;&#xD;
     height=&quot;428&quot; />&#xD;
 &lt;/p></mainDescription>
   <sections xmi:id="_SHm3EPilEeq-GNGrt9WlHQ" name="Select ramp type" guid="_SHm3EPilEeq-GNGrt9WlHQ"/>

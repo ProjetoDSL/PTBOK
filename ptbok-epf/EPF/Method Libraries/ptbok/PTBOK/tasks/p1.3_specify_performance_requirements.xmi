@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ABumSdYmRn-JBo2wnnA--g" name="ptbok_p1.3_specify_performance_requirements,_pFArAN9LEeqLEKK0pLdylg" guid="-ABumSdYmRn-JBo2wnnA--g" changeDate="2020-10-08T11:29:51.935-0300">
-  <mainDescription>&lt;img style=&quot;HEIGHT: 235px; WIDTH: 600px&quot; alt=&quot;&quot; src=&quot;resources/activity-artifacts-p1.3.png&quot; width=&quot;600&quot; height=&quot;428&quot; /> &#xD;
-&lt;p>&#xD;
+  <mainDescription>&lt;p>&#xD;
     This activity consolidates the elicitation and analysis of the test requirements. It is important to note that these&#xD;
     three activities are closely linked and, depending on the context of the organization, may be carried out&#xD;
     simultaneously. Therefore, the requirements document must be revised and corrected, if necessary. In this activity, it&#xD;
     is added the feasibility analysis (are the goals plausible and achievable for the organization's scenario?) to the&#xD;
     performance testing requirements specification.&#xD;
-&lt;/p></mainDescription>
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img style=&quot;HEIGHT: 235px; WIDTH: 600px&quot; alt=&quot;&quot; src=&quot;./resources/activity-artifacts-p1.3.png&quot; width=&quot;600&quot;&#xD;
+    height=&quot;428&quot; />&#xD;
+&lt;/p>&#xD;
+&lt;br /></mainDescription>
   <sections xmi:id="_zUf3kPiWEeq-GNGrt9WlHQ" name="Consolidate Performance Testing Requirements Specification" guid="_zUf3kPiWEeq-GNGrt9WlHQ"/>
   <sections xmi:id="_7iw5gPiWEeq-GNGrt9WlHQ" name="Update Performance Testing Requirements Specification" guid="_7iw5gPiWEeq-GNGrt9WlHQ">
     <sectionDescription>&lt;p>&#xD;

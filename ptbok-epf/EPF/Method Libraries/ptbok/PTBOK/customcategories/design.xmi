@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-wr7vmOPZMEPdPf_9sQNliw" name="new_custom_category,_0i8DsN9HEeqLEKK0pLdylg" guid="-wr7vmOPZMEPdPf_9sQNliw">
-  <mainDescription>Using the test specifications defined in the planning phase, performance testing is designed taking into account&#xD;
-environments particularities and performance testing goals.&lt;br />&#xD;
-This phase includes activities related to the test project, receiving inputs from the planning phase and providing outputs&#xD;
-to the execution phase.&lt;br />&#xD;
-The Design phase also involves activities that focus on script elaboration, which can be obtained by different means.&#xD;
-&lt;br />&#xD;
-For instance, supported by models and uses the Model-Based Testing or Capture and Replay for a automatic generation or by&#xD;
-coding, where scripts are create from specific programming language.</mainDescription>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-wr7vmOPZMEPdPf_9sQNliw" name="new_custom_category,_0i8DsN9HEeqLEKK0pLdylg" guid="-wr7vmOPZMEPdPf_9sQNliw" changeDate="2020-10-08T11:53:08.532-0300">
+  <mainDescription>&lt;div align=&quot;center&quot;>&#xD;
+    &lt;p align=&quot;center&quot;>&#xD;
+        &lt;img alt=&quot;&quot; src=&quot;./resources/design.png&quot; width=&quot;721&quot; height=&quot;132&quot; />&#xD;
+    &lt;/p>&#xD;
+&lt;/div>&#xD;
+&lt;p>&#xD;
+    Using the test specifications defined in the planning phase, performance testing is designed taking into account&#xD;
+    environments particularities and performance testing goals.&lt;br />&#xD;
+    This phase includes activities related to the test project, receiving inputs from the planning phase and providing&#xD;
+    outputs to the execution phase.&lt;br />&#xD;
+    The Design phase also involves activities that focus on script elaboration, which can be obtained by different&#xD;
+    means.&lt;br />&#xD;
+    For instance, supported by models and uses the Model-Based Testing or Capture and Replay for a automatic generation or&#xD;
+    by coding, where scripts are create from specific programming language.&#xD;
+&lt;/p></mainDescription>
 </org.eclipse.epf.uma:ContentDescription>

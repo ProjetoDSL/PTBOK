@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-o1MEXRT2rw6GZZzc_aUHoQ" name="new_custom_category,_t71z4N9HEeqLEKK0pLdylg" guid="-o1MEXRT2rw6GZZzc_aUHoQ">
-  <mainDescription>The planning phase is the first performance testing phase. &lt;br />&#xD;
-In this phase, some factors are mapped, such as the allocation of resources, be it infrastructure, data and also human&#xD;
-resources involved in the test. &lt;br />&#xD;
-The general scope of the performance test should be defined during the planning phase. &lt;br />&#xD;
-In addition, the identification and analysis of risks as well as information relevant to the test should also be mapped.&#xD;
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-o1MEXRT2rw6GZZzc_aUHoQ" name="new_custom_category,_t71z4N9HEeqLEKK0pLdylg" guid="-o1MEXRT2rw6GZZzc_aUHoQ" changeDate="2020-10-08T11:51:23.552-0300">
+  <mainDescription>&lt;div align=&quot;center&quot;>&#xD;
+    &lt;p>&#xD;
+        &lt;img style=&quot;HEIGHT: 231px; WIDTH: 721px&quot; alt=&quot;&quot; src=&quot;resources/planning.png&quot; width=&quot;600&quot; height=&quot;579&quot; />&#xD;
+    &lt;/p>&#xD;
+&lt;/div>&#xD;
 &lt;br />&#xD;
-In summary, the definition of the test occurs in the planning phase.</mainDescription>
+&lt;p>&#xD;
+    The planning phase is the first performance testing phase.&lt;br />&#xD;
+    In this phase, some factors are mapped, such as the allocation of resources, be it infrastructure, data and also human&#xD;
+    resources involved in the test.&lt;br />&#xD;
+    The general scope of the performance test should be defined during the planning phase.&lt;br />&#xD;
+    In addition, the identification and analysis of risks as well as information relevant to the test should also be&#xD;
+    mapped.&lt;br />&#xD;
+    In summary, the definition of the test occurs in the planning phase.&#xD;
+&lt;/p></mainDescription>
 </org.eclipse.epf.uma:ContentDescription>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-HQvLXSwWe9yb6lUHX6PszA" name="new_custom_category,_HeQHIN6YEeq0GuRSVkmB_Q" guid="-HQvLXSwWe9yb6lUHX6PszA" changeDate="2020-10-01T04:12:54.274-0300">
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-HQvLXSwWe9yb6lUHX6PszA" name="new_custom_category,_HeQHIN6YEeq0GuRSVkmB_Q" guid="-HQvLXSwWe9yb6lUHX6PszA" changeDate="2020-10-08T02:19:43.790-0300">
   <mainDescription>&lt;table width=&quot;589&quot; align=&quot;center&quot; border=&quot;0&quot;>&#xD;
     &lt;tbody>&#xD;
         &lt;tr align=&quot;center&quot; valign=&quot;top&quot;>&#xD;
@@ -46,10 +46,37 @@
         &lt;/tr>&#xD;
     &lt;/tbody>&#xD;
 &lt;/table>&#xD;
+&lt;p>&#xD;
+    &lt;br&#xD;
+    style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot; />&#xD;
+&#xD;
+    What is PTBOK?&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The Performance Testing Body of Knowledge (PTBOK) gathers the main inputs and outputs, techniques, methods, approaches,&#xD;
+    etc. related to Performance Testing. Also, PTBOK seeks to guide, from a practical as well theoretical view, the entire&#xD;
+    performance testing process, involving a set of domains, stages, phases, activities, and steps for conducting the&#xD;
+    Performance Testing.&#xD;
+&lt;/p>&#xD;
 &lt;br&#xD;
 style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot; />&#xD;
 &#xD;
 &lt;br />&#xD;
+&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    Who should use PTBOK?&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    In the structural model that we created, there are some Profiles (&lt;a&#xD;
+    href=&quot;./../../PTBOK/roles/performance_analyst_4BADFF8D.html?nodeId=ea6f77c7&quot;&#xD;
+    guid=&quot;_hzIF8N6UEeq0GuRSVkmB_Q&quot;>Analyst&lt;/a>, &lt;a&#xD;
+    href=&quot;./../../PTBOK/roles/performance_architecht_D1C5DE42.html?nodeId=41ea0ba8&quot;&#xD;
+    guid=&quot;_GjH4cN6UEeq0GuRSVkmB_Q&quot;>Architecht&lt;/a>&amp;nbsp;and &lt;a&#xD;
+    href=&quot;./../../PTBOK/roles/performance_tester_A383DE8D.html?nodeId=4a4a967e&quot; guid=&quot;_3xKDgN6UEeq0GuRSVkmB_Q&quot;>Tester&lt;/a>),&#xD;
+    which describe the main actors involved in the Performance Testing activities. However, PTBOK is not restricted to just&#xD;
+    these profiles, it may be accessed by any individual who wants to know the Performance Testing process.&#xD;
+&lt;/p>&#xD;
 &lt;p&#xD;
 style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
     &lt;font size=&quot;2&quot;>Before that we conceptualize the PTBOK components, we present the hierarchical level that we established&#xD;

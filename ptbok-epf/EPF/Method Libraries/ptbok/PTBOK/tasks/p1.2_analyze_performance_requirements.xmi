@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ysvZo1fuKrg-ONdozgZLQw" name="ptbok_p1.2_analyze_performance_requirements,_R9LMwN9LEeqLEKK0pLdylg" guid="-ysvZo1fuKrg-ONdozgZLQw" changeDate="2020-10-01T16:39:51.502-0300">
-  <mainDescription>&lt;img style=&quot;HEIGHT: 235px; WIDTH: 600px&quot; alt=&quot;&quot; src=&quot;resources/activity-artifacts-p1.2.png&quot; width=&quot;600&quot; height=&quot;428&quot; /> &#xD;
-&lt;p>&#xD;
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ysvZo1fuKrg-ONdozgZLQw" name="ptbok_p1.2_analyze_performance_requirements,_R9LMwN9LEeqLEKK0pLdylg" guid="-ysvZo1fuKrg-ONdozgZLQw" changeDate="2020-10-08T13:38:15.024-0300">
+  <mainDescription>&lt;p>&#xD;
     This activity aims to perform the analysis of the test requirements. For this, an approach similar to that used in&#xD;
     traditional Requirements Engineering. Therefore, requirements analysis techniques may support this activity. During the&#xD;
     analysis of the test requirements, the following information should be added to the Performance Testing Requirements&#xD;
     Specification: Objectives (detailing the general objectives of the test); Targets (desired values to metrics);&#xD;
     thresholds (max limit acceptable).&#xD;
-&lt;/p></mainDescription>
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img style=&quot;HEIGHT: 235px; WIDTH: 600px&quot; alt=&quot;&quot; src=&quot;./resources/activity-artifacts-p1.2.png&quot; width=&quot;600&quot;&#xD;
+    height=&quot;428&quot; />&#xD;
+&lt;/p>&#xD;
+&lt;br /></mainDescription>
   <sections xmi:id="_7aQsgPiQEeqUd6K22E0eXQ" name="Update Performance Testing Requirements Specification" guid="_7aQsgPiQEeqUd6K22E0eXQ">
     <sectionDescription>&lt;p>&#xD;
     &lt;span&#xD;

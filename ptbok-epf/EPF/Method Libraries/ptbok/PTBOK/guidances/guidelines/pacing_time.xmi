@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-WK9vhS0b2JVsZ0jfc7XHzQ" name="new_supporting_material,_xHKVkAlmEeuAzJP-a8r2ww" guid="-WK9vhS0b2JVsZ0jfc7XHzQ" changeDate="2020-10-08T10:04:32.377-0300">
+  <mainDescription>Pacing time is defined by the waiting time between transactions.&lt;br />&#xD;
+The main difference from pacing time to think time is that the think time is the time related only to the wait related to&#xD;
+the user's actions.&lt;br />&#xD;
+Pacing time is the time between iterations, being composed of the sum of think time, response time and delay between&#xD;
+iterations that may come from network latency.</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

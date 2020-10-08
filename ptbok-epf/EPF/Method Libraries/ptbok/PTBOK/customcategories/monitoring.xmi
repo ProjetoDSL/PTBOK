@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-rJ0rmc6vOsAyuC3g7B_vKQ" name="new_custom_category,_EjR60N9IEeqLEKK0pLdylg" guid="-rJ0rmc6vOsAyuC3g7B_vKQ">
-  <mainDescription>&lt;p>&#xD;
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-rJ0rmc6vOsAyuC3g7B_vKQ" name="new_custom_category,_EjR60N9IEeqLEKK0pLdylg" guid="-rJ0rmc6vOsAyuC3g7B_vKQ" changeDate="2020-10-08T12:53:26.684-0300">
+  <mainDescription>&lt;div align=&quot;center&quot;>&#xD;
+    &lt;p>&#xD;
+        &lt;img alt=&quot;&quot; src=&quot;resources/monitoring.png&quot; width=&quot;161&quot; height=&quot;331&quot; />&#xD;
+    &lt;/p>&#xD;
+&lt;/div>&#xD;
+&lt;p>&#xD;
     Defined metrics as throughput, response time, hits per second must be monitored during test execution as well as&#xD;
     bottlenecks identification.&lt;br />&#xD;
     This monitoring allows performance testing roles to obtain outputs for subsequent phases, analysis and reporting in&#xD;

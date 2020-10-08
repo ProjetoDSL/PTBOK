@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-X4xJ_DRxlnkm56590d-Lcw" name="ptbok_c4.1_prepare_the_test_environment,_Mb0cAN9WEeqLEKK0pLdylg" guid="-X4xJ_DRxlnkm56590d-Lcw">
-  <mainDescription>&lt;img style=&quot;HEIGHT: 230px; WIDTH: 600px&quot; alt=&quot;&quot; src=&quot;resources/activity-artifacts-c4.1 (1).png&quot; width=&quot;600&quot; height=&quot;300&quot; /></mainDescription>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-X4xJ_DRxlnkm56590d-Lcw" name="ptbok_c4.1_prepare_the_test_environment,_Mb0cAN9WEeqLEKK0pLdylg" guid="-X4xJ_DRxlnkm56590d-Lcw" changeDate="2020-10-08T13:34:30.530-0300">
+  <mainDescription>&lt;span&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+The second and last configuration activity is preparing the test environment. For this, we must make the set up of the&#xD;
+tools and artifacts for the test execution. Configurations of the SUT and also of the server, network, etc., are performed&#xD;
+in this activity.&lt;/span> &#xD;
+&lt;p>&#xD;
+    &lt;img style=&quot;HEIGHT: 230px; WIDTH: 600px&quot; alt=&quot;&quot; src=&quot;./resources/activity-artifacts-c4.1%20(1).png&quot; width=&quot;600&quot;&#xD;
+    height=&quot;300&quot; />&#xD;
+&lt;/p></mainDescription>
   <sections xmi:id="_l4ekEPimEeq-GNGrt9WlHQ" name="Make the environment set up" guid="_l4ekEPimEeq-GNGrt9WlHQ"/>
   <sections xmi:id="_nMLnoPimEeq-GNGrt9WlHQ" name="Update Performance Testing Plan" guid="_nMLnoPimEeq-GNGrt9WlHQ">
     <sectionDescription>&lt;p>&#xD;

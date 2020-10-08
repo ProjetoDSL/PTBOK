@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-YHW8_HnSFV-wjc1Pwv6YXw" name="new_supporting_material,_p6RREAlmEeuAzJP-a8r2ww" guid="-YHW8_HnSFV-wjc1Pwv6YXw" changeDate="2020-10-08T10:04:07.897-0300">
+  <mainDescription>Think time is a waiting time that the application should emulate, based on a user's real behavior when using the&#xD;
+application. &lt;br />&#xD;
+For example, in an e-commerce, where the user logs in, chooses a product, means of payment and confirms the purchase, the&#xD;
+think time emulate this waiting time between transactions, once in a real scenario the user takes a certain period of time&#xD;
+to perform these actions, that is, they do not occur in fractions of seconds, as there is a decision making by the user at&#xD;
+each purchase stage.&lt;br />&#xD;
+Think time also helps to understand the application's ability to handle concurrent requests. With an increase in waiting&#xD;
+time, the server will handle a larger number of sessions at the same time.</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

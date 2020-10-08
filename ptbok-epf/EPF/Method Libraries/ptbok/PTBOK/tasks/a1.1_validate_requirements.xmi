@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-W4hUpwW0iSQuQMYT_Sy_Tw" name="ptbok_a1.1_validate_requirements,_LF59gN9MEeqLEKK0pLdylg" guid="-W4hUpwW0iSQuQMYT_Sy_Tw" changeDate="2020-10-01T14:01:03.650-0300">
-  <mainDescription>&lt;img style=&quot;HEIGHT: 230px; WIDTH: 600px&quot; alt=&quot;&quot; src=&quot;resources/activity-artifacts-a1.1.png&quot; width=&quot;600&quot; height=&quot;300&quot; /></mainDescription>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-W4hUpwW0iSQuQMYT_Sy_Tw" name="ptbok_a1.1_validate_requirements,_LF59gN9MEeqLEKK0pLdylg" guid="-W4hUpwW0iSQuQMYT_Sy_Tw" changeDate="2020-10-08T13:32:36.639-0300">
+  <mainDescription>&lt;p>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    This is the first analysis activity in the process and aims to validate the requirements.&lt;/span>&lt;br&#xD;
+    style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot; />&#xD;
+&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    For this, we can use traditional V\&amp;amp;V techniques from Software Engineering to assist in the validation process. We&#xD;
+    must update the Performance Testing Requirements Specification with the validation data after applying the V\&amp;amp;V&#xD;
+    technique.&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img style=&quot;HEIGHT: 230px; WIDTH: 600px&quot; alt=&quot;&quot; src=&quot;./resources/activity-artifacts-a1.1.png&quot; width=&quot;600&quot;&#xD;
+    height=&quot;300&quot; />&#xD;
+&lt;/p></mainDescription>
   <sections xmi:id="_bthYkPLrEeqG-7knepYd9A" name="Select V&amp;V approach" guid="_bthYkPLrEeqG-7knepYd9A"/>
   <sections xmi:id="_V6CqEPipEeq-GNGrt9WlHQ" name="Apply the approach" guid="_V6CqEPipEeq-GNGrt9WlHQ"/>
   <sections xmi:id="_Wj3qMPipEeq-GNGrt9WlHQ" name="Update Performance Testing Requirements Specification" guid="_Wj3qMPipEeq-GNGrt9WlHQ">

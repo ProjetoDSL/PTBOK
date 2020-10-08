@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-FxIM7LhUTdxpfUbp77OvMw" name="new_custom_category,_BBPXcN9IEeqLEKK0pLdylg" guid="-FxIM7LhUTdxpfUbp77OvMw">
-  <mainDescription>In the execution phase, the workload is applied to SUT. &lt;br />&#xD;
-This phase characterizes performance testing, since one is essential for any performance testing to generate and apply a&#xD;
-certain workload in an application. &lt;br />&#xD;
-The activities carried out in this phase depend on tools that automate their tasks, because it is impracticable to perform&#xD;
-tests manually, that is, without the support of tools that automate and facilitate this execution. &lt;br />&#xD;
-It is worth emphasizing that this phase must provide mechanisms that allow monitoring of the metrics defined in the early&#xD;
-phases.</mainDescription>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-FxIM7LhUTdxpfUbp77OvMw" name="new_custom_category,_BBPXcN9IEeqLEKK0pLdylg" guid="-FxIM7LhUTdxpfUbp77OvMw" changeDate="2020-10-08T12:52:06.913-0300">
+  <mainDescription>&lt;div align=&quot;center&quot;>&#xD;
+    &lt;p>&#xD;
+        &lt;img alt=&quot;&quot; src=&quot;resources/execution.png&quot; width=&quot;301&quot; height=&quot;231&quot; />&#xD;
+    &lt;/p>&#xD;
+&lt;/div>&#xD;
+&lt;p>&#xD;
+    In the execution phase, the workload is applied to SUT.&lt;br />&#xD;
+    This phase characterizes performance testing, since one is essential for any performance testing to generate and apply&#xD;
+    a certain workload in an application.&lt;br />&#xD;
+    The activities carried out in this phase depend on tools that automate their tasks, because it is impracticable to&#xD;
+    perform tests manually, that is, without the support of tools that automate and facilitate this execution.&lt;br />&#xD;
+    It is worth emphasizing that this phase must provide mechanisms that allow monitoring of the metrics defined in the&#xD;
+    early phases.&#xD;
+&lt;/p></mainDescription>
 </org.eclipse.epf.uma:ContentDescription>
