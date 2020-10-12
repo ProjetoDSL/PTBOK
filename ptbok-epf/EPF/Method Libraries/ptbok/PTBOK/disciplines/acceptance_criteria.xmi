@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-d87N8Red_Ihmm4g8rCCsew" name="new_discipline,_Inf7AN9EEeqLEKK0pLdylg" guid="-d87N8Red_Ihmm4g8rCCsew">
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-d87N8Red_Ihmm4g8rCCsew" name="new_discipline,_Inf7AN9EEeqLEKK0pLdylg" guid="-d87N8Red_Ihmm4g8rCCsew" changeDate="2020-10-12T00:43:10.154-0300">
   <mainDescription>&lt;p>&#xD;
     This domain has some characteristics similar to the requirements domain.&lt;br />&#xD;
     However, the main difference is that the acceptance criteria have a greater focus on performance testing business&#xD;
@@ -14,5 +14,8 @@
     Additionally, identify project success criteria that may not be captured by those goals and constraints; for example,&#xD;
     using performance tests to evaluate what combination of configuration settings will result in the most desirable&#xD;
     performance characteristics.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img alt=&quot;&quot; src=&quot;resources/acceptance_criteria.png&quot; />&#xD;
 &lt;/p></mainDescription>
 </org.eclipse.epf.uma:ContentDescription>

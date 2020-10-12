@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-FqvPnfNHqlxK6GiP_GIsEw" name="new_discipline,_xrJ7EN9DEeqLEKK0pLdylg" guid="-FqvPnfNHqlxK6GiP_GIsEw">
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-FqvPnfNHqlxK6GiP_GIsEw" name="new_discipline,_xrJ7EN9DEeqLEKK0pLdylg" guid="-FqvPnfNHqlxK6GiP_GIsEw" changeDate="2020-10-12T00:51:45.684-0300">
   <mainDescription>&lt;p>&#xD;
     In general, a script can be defined as a sequence of steps necessary to carry out a performance testing execution&#xD;
     instance.&lt;br />&#xD;
@@ -26,6 +26,9 @@
     reached.&lt;br />&#xD;
     The scenarios must be thought in the initial phases of the test, more specifically in the planning and in the&#xD;
     requirements domain, so that later in the phases of design and configuration this scenario is instantiated for its&#xD;
-    execution by scripts.&lt;br />&#xD;
+    execution by scripts.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img alt=&quot;&quot; src=&quot;resources/script_scenarios.png&quot; />&#xD;
 &lt;/p></mainDescription>
 </org.eclipse.epf.uma:ContentDescription>
