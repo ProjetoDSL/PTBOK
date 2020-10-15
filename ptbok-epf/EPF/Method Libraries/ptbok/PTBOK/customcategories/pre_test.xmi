@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-FnnGgsA9xISusTQaQhEd_Q" name="new_custom_category,_-xJZkN9GEeqLEKK0pLdylg" guid="-FnnGgsA9xISusTQaQhEd_Q" changeDate="2020-08-15T19:31:50.870-0300">
+  <mainDescription>&lt;p>&#xD;
+    Pre-Test comprises the initial activities, those related to the performance testing planning, definition and&#xD;
+    preparation.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Pre-Test stage has three (3) phases: Planning, Design and Configuration.&lt;br />&#xD;
+    Pre-Test stage is characterized by the performance of activities and tasks that precede the test execution.&lt;br />&#xD;
+    This stage has a main appeal to questions related to the test preparation, providing from its outputs, inputs for the&#xD;
+    Test stage.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>
