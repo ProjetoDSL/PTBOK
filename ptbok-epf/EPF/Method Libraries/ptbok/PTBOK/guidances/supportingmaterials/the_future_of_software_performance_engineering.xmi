@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-GgoTbE_D_Ra6rWg4jStOjw" name="new_supporting_material,_3paAgA7KEeugmYidgb9k7g" guid="-GgoTbE_D_Ra6rWg4jStOjw" changeDate="2020-10-15T06:43:47.860-0300">
+  <mainDescription>&lt;p>&#xD;
+    Performance is a pervasive quality of software systems; everything affects it, from the software itself to all&#xD;
+    underlying layers, such as operating system, middleware, hardware, communication networks, etc. Software Performance&#xD;
+    Engineering encompasses efforts to describe and improve performance, with two distinct approaches: an early-cycle&#xD;
+    predictive modelbased approach, and a late-cycle measurement-based approach. Current progress and future trends within&#xD;
+    these two approaches are described, with a tendency (and a need) for them to converge, in order to cover the entire&#xD;
+    development cycle.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Authors: Murray Woodside, Greg Franks, Dorina C. Petriu&#xD;
+&lt;/p>&#xD;
+&lt;b id=&quot;docs-internal-guid-3223af5b-7fff-4caa-4fdd-fd4a5b7cbd9a&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b> &#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    Publication: FOSE '07: 2007 Future of Software Engineering, May 2007.&#xD;
+&lt;/p>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    Link: &lt;a href=&quot;https://dl.acm.org/doi/10.1109/FOSE.2007.32&quot;>https://dl.acm.org/doi/10.1109/FOSE.2007.32&lt;/a>&#xD;
+&lt;/p>&#xD;
+&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

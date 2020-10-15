@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-WvocWlV-_dyTJZfC88h5Qw" name="canopus_a_domain-specific_language_for_modeling_performance_testing,_mQUKkA7GEeugmYidgb9k7g" guid="-WvocWlV-_dyTJZfC88h5Qw" changeDate="2020-10-15T06:13:44.237-0300">
+  <mainDescription>&lt;p>&#xD;
+    Despite all the efforts to reduce the cost of the testing phase in software development, it is still one of the most&#xD;
+    expensive phases. In order to continue to minimize those costs, in this paper, we propose a Domain-Specific Language&#xD;
+    (DSL), built on top of MetaEdit+ language workbench, to model performance testing for web applications. Our DSL, called&#xD;
+    Canopus, was developed in the context of a collaboration1 between our university and a Technology Development&#xD;
+    Laboratory (TDL) from an Information Technology (IT) company. We present, in this paper, the Canopus metamodels, its&#xD;
+    domain analysis, a process that integrates Canopus to Model-Based Performance Testing, and applied it to an industrial&#xD;
+    case study.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;b id=&quot;docs-internal-guid-44b8b4b8-7fff-1904-a648-67b79b7ccfb5&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b> &#xD;
+&lt;p>&#xD;
+    Authors: Maicon Bernardino, A. Zorzo, E. Rodrigues&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Published in 2016&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Computer Science&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    2016 IEEE International Conference on Software Testing, Verification and Validation (ICST)&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Link: &lt;a&#xD;
+    href=&quot;https://www.semanticscholar.org/paper/Canopus%3A-A-Domain-Specific-Language-for-Modeling-Bernardino-Zorzo/efa0b805084498c3aa84cb116a10d56803935196&quot;>&#xD;
+    https://www.semanticscholar.org/paper/Canopus%3A-A-Domain-Specific-Language-for-Modeling-Bernardino-Zorzo/efa0b805084498c3aa84cb116a10d56803935196&lt;/a>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;br class=&quot;Apple-interchange-newline&quot; />&#xD;
+    &amp;nbsp;&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>
