@@ -30,8 +30,6 @@
     <resourceDescriptors xmi:id="_dVwSwt9EEeqLEKK0pLdylg" id="-jgzP_4qb1mhPtCo-rhxjeg" uri="disciplines/tools_and_methods.xmi"/>
     <resourceDescriptors xmi:id="_k9rtcN9EEeqLEKK0pLdylg" id="-tTCe-UmUzozhqZqq-1fDqg" uri="disciplines/reports.xmi"/>
     <resourceDescriptors xmi:id="_9-sB4N9GEeqLEKK0pLdylg" id="-W1nqtOD8miK4K0njnbvjuA" uri="customcategories/stages.xmi"/>
-    <resourceDescriptors xmi:id="_IbuBcN9HEeqLEKK0pLdylg" id="-FnnGgsA9xISusTQaQhEd_Q" uri="customcategories/pre_test.xmi"/>
-    <resourceDescriptors xmi:id="_NIIGMN9HEeqLEKK0pLdylg" id="-UG4vCE0P3VyP2JmtREHhUg" uri="customcategories/test.xmi"/>
     <resourceDescriptors xmi:id="_TujAkd9HEeqLEKK0pLdylg" id="-UMJhviCzkPcSSZ7Q7h8TCA" uri="customcategories/post-test.xmi"/>
     <resourceDescriptors xmi:id="_dTaCAN9HEeqLEKK0pLdylg" id="-0jIBtLtWZjWCLDuFGo0lpQ" uri="customcategories/phases.xmi"/>
     <resourceDescriptors xmi:id="_y4XYQN9HEeqLEKK0pLdylg" id="-o1MEXRT2rw6GZZzc_aUHoQ" uri="customcategories/planning.xmi"/>
@@ -112,6 +110,11 @@
     <resourceDescriptors xmi:id="_BLqOAAQDEeueucs0fBORPA" id="-4g1cENKD9zg7JhnA1Ri11Q" uri="guidances/guidelines/vv_techniques.xmi"/>
     <resourceDescriptors xmi:id="_4NNyQAlmEeuAzJP-a8r2ww" id="-YHW8_HnSFV-wjc1Pwv6YXw" uri="guidances/guidelines/think_time.xmi"/>
     <resourceDescriptors xmi:id="_4NgGIAlmEeuAzJP-a8r2ww" id="-WK9vhS0b2JVsZ0jfc7XHzQ" uri="guidances/guidelines/pacing_time.xmi"/>
+    <resourceDescriptors xmi:id="_RHTUAA7HEeugmYidgb9k7g" id="-WvocWlV-_dyTJZfC88h5Qw" uri="guidances/supportingmaterials/canopus_a_domain-specific_language_for_modeling_performance_testing.xmi"/>
+    <resourceDescriptors xmi:id="_C8PuEA7IEeugmYidgb9k7g" id="-O1LyEHkHW4k38Of9b7jqKg" uri="guidances/supportingmaterials/an_ontology_for_guiding_performance_testing.xmi"/>
+    <resourceDescriptors xmi:id="_9dd7wA7IEeugmYidgb9k7g" id="-jCdQBYGwj4UprrCfFf_IDQ" uri="guidances/supportingmaterials/performance_testing_guidance_for_web_applications_patterns__practices.xmi"/>
+    <resourceDescriptors xmi:id="_AaM9MA7KEeugmYidgb9k7g" id="-qDlaT4UvMdOFRvtDlSKHqA" uri="guidances/supportingmaterials/the_art_of_application_performance_testing.xmi"/>
+    <resourceDescriptors xmi:id="_9Q-F8A7KEeugmYidgb9k7g" id="-GgoTbE_D_Ra6rWg4jStOjw" uri="guidances/supportingmaterials/the_future_of_software_performance_engineering.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_EJQ_4D3vEem07NBMeZObjA" name="PTBOK" guid="_EJQ_4D3vEem07NBMeZObjA">
     <ownedRules xmi:id="_treisLlJEemt5oQZSu_gkA" name="wpState" guid="_treisLlJEemt5oQZSu_gkA" body="Template"/>
@@ -191,6 +194,7 @@
             <categorizedElements xsi:type="org.eclipse.epf.uma:CustomCategory" href="#_z9JvwPlWEeqYIum-itjD2A"/>
             <categorizedElements xsi:type="org.eclipse.epf.uma:CustomCategory" href="#_jgx_cAlmEeuAzJP-a8r2ww"/>
             <categorizedElements xsi:type="org.eclipse.epf.uma:CustomCategory" href="#_D_XVMAloEeuAzJP-a8r2ww"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:CustomCategory" href="#_Q5rW0A8LEeumtrSpFaw_Qw"/>
             <categorizedElements xsi:type="org.eclipse.epf.uma:DeliveryProcess" href="uma://_0CjqwN9YEeqLEKK0pLdylg#_0Cjqwd9YEeqLEKK0pLdylg"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_HeQHIN6YEeq0GuRSVkmB_Q" name="ptbok_overview" guid="_HeQHIN6YEeq0GuRSVkmB_Q" presentationName="PTBOK Overview" categorizedElements="_ZKLgsPlPEeqYIum-itjD2A _HnMVoPlQEeqYIum-itjD2A">
@@ -198,22 +202,9 @@
             <methodElementProperty xmi:id="_pyKKUN6aEeq0GuRSVkmB_Q" name="PUBLISH_CATEGORY" value="true"/>
             <presentation xmi:id="-HQvLXSwWe9yb6lUHX6PszA" href="uma://-HQvLXSwWe9yb6lUHX6PszA#-HQvLXSwWe9yb6lUHX6PszA"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_3OF30N9GEeqLEKK0pLdylg" name="stages" guid="_3OF30N9GEeqLEKK0pLdylg" presentationName="Stages" categorizedElements="_-xJZkN9GEeqLEKK0pLdylg _LBrXEN9HEeqLEKK0pLdylg _N_rZQN9HEeqLEKK0pLdylg">
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_3OF30N9GEeqLEKK0pLdylg" name="stages" guid="_3OF30N9GEeqLEKK0pLdylg" presentationName="Stages" categorizedElements="_N_rZQN9HEeqLEKK0pLdylg">
             <methodElementProperty xmi:id="_9-qMsN9GEeqLEKK0pLdylg" name="me_edited" value="true"/>
             <presentation xmi:id="-W1nqtOD8miK4K0njnbvjuA" href="uma://-W1nqtOD8miK4K0njnbvjuA#-W1nqtOD8miK4K0njnbvjuA"/>
-          </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_-xJZkN9GEeqLEKK0pLdylg" name="pre_test" guid="_-xJZkN9GEeqLEKK0pLdylg" presentationName="Pre Test">
-            <methodElementProperty xmi:id="_IbmssN9HEeqLEKK0pLdylg" name="me_edited" value="true"/>
-            <presentation xmi:id="-FnnGgsA9xISusTQaQhEd_Q" href="uma://-FnnGgsA9xISusTQaQhEd_Q#-FnnGgsA9xISusTQaQhEd_Q"/>
-            <categorizedElements xsi:type="org.eclipse.epf.uma:Phase" href="uma://_0CjqwN9YEeqLEKK0pLdylg#_1EU-4N9aEeqLEKK0pLdylg"/>
-            <categorizedElements xsi:type="org.eclipse.epf.uma:Phase" href="uma://_0CjqwN9YEeqLEKK0pLdylg#_ll8zEN9fEeqLEKK0pLdylg"/>
-            <categorizedElements xsi:type="org.eclipse.epf.uma:Phase" href="uma://_0CjqwN9YEeqLEKK0pLdylg#_2AkV8d9gEeqLEKK0pLdylg"/>
-          </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_LBrXEN9HEeqLEKK0pLdylg" name="test" guid="_LBrXEN9HEeqLEKK0pLdylg" presentationName="Test">
-            <methodElementProperty xmi:id="_NID0wN9HEeqLEKK0pLdylg" name="me_edited" value="true"/>
-            <presentation xmi:id="-UG4vCE0P3VyP2JmtREHhUg" href="uma://-UG4vCE0P3VyP2JmtREHhUg#-UG4vCE0P3VyP2JmtREHhUg"/>
-            <categorizedElements xsi:type="org.eclipse.epf.uma:Phase" href="uma://_0CjqwN9YEeqLEKK0pLdylg#_VpWhkd9hEeqLEKK0pLdylg"/>
-            <categorizedElements xsi:type="org.eclipse.epf.uma:Phase" href="uma://_0CjqwN9YEeqLEKK0pLdylg#_05Y2AN9hEeqLEKK0pLdylg"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_N_rZQN9HEeqLEKK0pLdylg" name="post-test" guid="_N_rZQN9HEeqLEKK0pLdylg" presentationName="Post-Test">
             <methodElementProperty xmi:id="_P3XToN9HEeqLEKK0pLdylg" name="me_edited" value="true"/>
@@ -229,7 +220,7 @@
             <methodElementProperty xmi:id="_y4VjEN9HEeqLEKK0pLdylg" name="me_edited" value="true"/>
             <presentation xmi:id="-o1MEXRT2rw6GZZzc_aUHoQ" href="uma://-o1MEXRT2rw6GZZzc_aUHoQ#-o1MEXRT2rw6GZZzc_aUHoQ"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_0i8DsN9HEeqLEKK0pLdylg" name="design" guid="_0i8DsN9HEeqLEKK0pLdylg" presentationName="Design" categorizedElements="_TDOj8N9NEeqLEKK0pLdylg _i2N7kN9NEeqLEKK0pLdylg _CsbpwN9PEeqLEKK0pLdylg _LnGesN9PEeqLEKK0pLdylg _UsyQ0N9PEeqLEKK0pLdylg _-xJZkN9GEeqLEKK0pLdylg">
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_0i8DsN9HEeqLEKK0pLdylg" name="design" guid="_0i8DsN9HEeqLEKK0pLdylg" presentationName="Design" categorizedElements="_TDOj8N9NEeqLEKK0pLdylg _i2N7kN9NEeqLEKK0pLdylg _CsbpwN9PEeqLEKK0pLdylg _LnGesN9PEeqLEKK0pLdylg _UsyQ0N9PEeqLEKK0pLdylg">
             <methodElementProperty xmi:id="_2w-BgN9HEeqLEKK0pLdylg" name="me_edited" value="true"/>
             <presentation xmi:id="-wr7vmOPZMEPdPf_9sQNliw" href="uma://-wr7vmOPZMEPdPf_9sQNliw#-wr7vmOPZMEPdPf_9sQNliw"/>
           </contentElements>
@@ -237,7 +228,7 @@
             <methodElementProperty xmi:id="_PKSVwN9IEeqLEKK0pLdylg" name="me_edited" value="true"/>
             <presentation xmi:id="-fJyd5H-IqidwgfGUEuRiBg" href="uma://-fJyd5H-IqidwgfGUEuRiBg#-fJyd5H-IqidwgfGUEuRiBg"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_BBPXcN9IEeqLEKK0pLdylg" name="execution" guid="_BBPXcN9IEeqLEKK0pLdylg" presentationName="Execution" categorizedElements="_S2oyEN9QEeqLEKK0pLdylg _vvqkIN9WEeqLEKK0pLdylg _JYta4N9XEeqLEKK0pLdylg _LBrXEN9HEeqLEKK0pLdylg">
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_BBPXcN9IEeqLEKK0pLdylg" name="execution" guid="_BBPXcN9IEeqLEKK0pLdylg" presentationName="Execution" categorizedElements="_S2oyEN9QEeqLEKK0pLdylg _vvqkIN9WEeqLEKK0pLdylg _JYta4N9XEeqLEKK0pLdylg">
             <methodElementProperty xmi:id="_CL7B4N9IEeqLEKK0pLdylg" name="me_edited" value="true"/>
             <presentation xmi:id="-FxIM7LhUTdxpfUbp77OvMw" href="uma://-FxIM7LhUTdxpfUbp77OvMw#-FxIM7LhUTdxpfUbp77OvMw"/>
           </contentElements>
@@ -259,7 +250,7 @@
           <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_h6cNsPlVEeqYIum-itjD2A" name="tools" guid="_h6cNsPlVEeqYIum-itjD2A" presentationName="Tools" categorizedElements="_GTyUIAOwEeuvwMLO7Qv67Q _JP5f8AOwEeuvwMLO7Qv67Q _NFss0AOwEeuvwMLO7Qv67Q">
             <methodElementProperty xmi:id="_jZVNkPlVEeqYIum-itjD2A" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_z9JvwPlWEeqYIum-itjD2A" name="work_products" guid="_z9JvwPlWEeqYIum-itjD2A" presentationName="Work Products" categorizedElements="_HnMVoPlQEeqYIum-itjD2A _ZKLgsPlPEeqYIum-itjD2A _EU2JUPLoEeqG-7knepYd9A _ucpuAPLnEeqG-7knepYd9A _8UDisPLnEeqG-7knepYd9A _xvUTYPifEeq-GNGrt9WlHQ _qxbZcPLnEeqG-7knepYd9A _OLYJkPLoEeqG-7knepYd9A _MARj8PLoEeqG-7knepYd9A _J7ttUPidEeq-GNGrt9WlHQ _X8ihoPLoEeqG-7knepYd9A _BRRDkPLoEeqG-7knepYd9A">
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_z9JvwPlWEeqYIum-itjD2A" name="artifacts" guid="_z9JvwPlWEeqYIum-itjD2A" presentationName="Artifacts" categorizedElements="_HnMVoPlQEeqYIum-itjD2A _ZKLgsPlPEeqYIum-itjD2A _EU2JUPLoEeqG-7knepYd9A _ucpuAPLnEeqG-7knepYd9A _8UDisPLnEeqG-7knepYd9A _xvUTYPifEeq-GNGrt9WlHQ _qxbZcPLnEeqG-7knepYd9A _OLYJkPLoEeqG-7knepYd9A _MARj8PLoEeqG-7knepYd9A _J7ttUPidEeq-GNGrt9WlHQ _X8ihoPLoEeqG-7knepYd9A _BRRDkPLoEeqG-7knepYd9A">
             <methodElementProperty xmi:id="_1KBLgPlWEeqYIum-itjD2A" name="me_edited" value="true"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_tYwjwPlYEeqYIum-itjD2A" name="ptbok_life_cycle" guid="_tYwjwPlYEeqYIum-itjD2A" presentationName="PTBOK Life Cycle">
@@ -312,6 +303,9 @@
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_aa6fwAlpEeuAzJP-a8r2ww" name="all_guidelines" guid="_aa6fwAlpEeuAzJP-a8r2ww" presentationName="All guidelines" categorizedElements="_0NWKIPihEeq-GNGrt9WlHQ _x0PzgPibEeq-GNGrt9WlHQ _FxRQsPieEeq-GNGrt9WlHQ _y3vbYPicEeq-GNGrt9WlHQ _wHTGUPiXEeq-GNGrt9WlHQ _kDx7APigEeq-GNGrt9WlHQ _6-kf8PiZEeq-GNGrt9WlHQ _2nBGUPiYEeq-GNGrt9WlHQ _cX-F4PigEeq-GNGrt9WlHQ _IB0-EPieEeq-GNGrt9WlHQ _xHKVkAlmEeuAzJP-a8r2ww __6tzYPilEeq-GNGrt9WlHQ _9keUwPilEeq-GNGrt9WlHQ _twX48PicEeq-GNGrt9WlHQ _bwlUwPirEeq-GNGrt9WlHQ _64bN8PiUEeq-GNGrt9WlHQ _THB1EPiXEeq-GNGrt9WlHQ _kpXTUPirEeq-GNGrt9WlHQ _Dj7PYPieEeq-GNGrt9WlHQ __O650PikEeq-GNGrt9WlHQ _goFQMPigEeq-GNGrt9WlHQ _jAueIPlGEeqs7dCaAbkb9w _4995wAlmEeuAzJP-a8r2ww __NyCoPiqEeq-GNGrt9WlHQ _ibDCoPigEeq-GNGrt9WlHQ _xzpH0PihEeq-GNGrt9WlHQ _p6RREAlmEeuAzJP-a8r2ww _CE390PimEeq-GNGrt9WlHQ _sZXmkPiYEeq-GNGrt9WlHQ _hEKMYPiZEeq-GNGrt9WlHQ _6mldYAlmEeuAzJP-a8r2ww _hKxXcPipEeq-GNGrt9WlHQ _2bKTQPimEeq-GNGrt9WlHQ _LP5i8PimEeq-GNGrt9WlHQ _NKdyMPimEeq-GNGrt9WlHQ">
             <methodElementProperty xmi:id="_ujVmkAlpEeuAzJP-a8r2ww" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_Q5rW0A8LEeumtrSpFaw_Qw" name="supporting_material" guid="_Q5rW0A8LEeumtrSpFaw_Qw" presentationName="Supporting Material" categorizedElements="_jNHC0A7HEeugmYidgb9k7g _mQUKkA7GEeugmYidgb9k7g _UMFeMA7IEeugmYidgb9k7g _w8lYoA7JEeugmYidgb9k7g _3paAgA7KEeugmYidgb9k7g">
+            <methodElementProperty xmi:id="_epYBAA8LEeumtrSpFaw_Qw" name="me_edited" value="true"/>
           </contentElements>
         </childPackages>
       </childPackages>
@@ -719,6 +713,26 @@
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_6mldYAlmEeuAzJP-a8r2ww" name="volume_testing" guid="_6mldYAlmEeuAzJP-a8r2ww" presentationName="Volume Testing">
             <methodElementProperty xmi:id="_QYXHoAlnEeuAzJP-a8r2ww" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_mQUKkA7GEeugmYidgb9k7g" name="canopus_a_domain-specific_language_for_modeling_performance_testing" guid="_mQUKkA7GEeugmYidgb9k7g" presentationName="Canopus: A Domain-Specific Language for Modeling Performance Testing">
+            <methodElementProperty xmi:id="_RHIU4A7HEeugmYidgb9k7g" name="me_edited" value="true"/>
+            <presentation xmi:id="-WvocWlV-_dyTJZfC88h5Qw" href="uma://-WvocWlV-_dyTJZfC88h5Qw#-WvocWlV-_dyTJZfC88h5Qw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_jNHC0A7HEeugmYidgb9k7g" name="an_ontology_for_guiding_performance_testing" guid="_jNHC0A7HEeugmYidgb9k7g" presentationName="An Ontology for Guiding Performance Testing">
+            <methodElementProperty xmi:id="_C8KOgA7IEeugmYidgb9k7g" name="me_edited" value="true"/>
+            <presentation xmi:id="-O1LyEHkHW4k38Of9b7jqKg" href="uma://-O1LyEHkHW4k38Of9b7jqKg#-O1LyEHkHW4k38Of9b7jqKg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_UMFeMA7IEeugmYidgb9k7g" name="performance_testing_guidance_for_web_applications_patterns__practices" guid="_UMFeMA7IEeugmYidgb9k7g" presentationName="Performance testing guidance for web applications: patterns &amp; practices">
+            <methodElementProperty xmi:id="_9dUKwA7IEeugmYidgb9k7g" name="me_edited" value="true"/>
+            <presentation xmi:id="-jCdQBYGwj4UprrCfFf_IDQ" href="uma://-jCdQBYGwj4UprrCfFf_IDQ#-jCdQBYGwj4UprrCfFf_IDQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_w8lYoA7JEeugmYidgb9k7g" name="the_art_of_application_performance_testing" guid="_w8lYoA7JEeugmYidgb9k7g" presentationName="The Art of Application Performance Testing" briefDescription="The Art of Application Performance Testing: Help for Programmers and Quality Assurance">
+            <methodElementProperty xmi:id="_AaG2kA7KEeugmYidgb9k7g" name="me_edited" value="true"/>
+            <presentation xmi:id="-qDlaT4UvMdOFRvtDlSKHqA" href="uma://-qDlaT4UvMdOFRvtDlSKHqA#-qDlaT4UvMdOFRvtDlSKHqA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_3paAgA7KEeugmYidgb9k7g" name="the_future_of_software_performance_engineering" guid="_3paAgA7KEeugmYidgb9k7g" presentationName="The Future of Software Performance Engineering">
+            <methodElementProperty xmi:id="_9Q08AA7KEeugmYidgb9k7g" name="me_edited" value="true"/>
+            <presentation xmi:id="-GgoTbE_D_Ra6rWg4jStOjw" href="uma://-GgoTbE_D_Ra6rWg4jStOjw#-GgoTbE_D_Ra6rWg4jStOjw"/>
           </contentElements>
         </childPackages>
       </childPackages>

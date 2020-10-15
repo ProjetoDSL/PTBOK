@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-qDlaT4UvMdOFRvtDlSKHqA" name="new_supporting_material,_w8lYoA7JEeugmYidgb9k7g" guid="-qDlaT4UvMdOFRvtDlSKHqA" changeDate="2020-10-15T06:36:36.843-0300">
+  <mainDescription>&lt;b id=&quot;docs-internal-guid-fc45069d-7fff-89f4-4afd-3275cf632654&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b> &#xD;
+&lt;p>&#xD;
+    This practical book provides a step-by-step approach to testing mission-critical applications for scalability and&#xD;
+    performance before they're deployed -- a vital topic to which other books devote one chapter, if that. Businesses today&#xD;
+    live and die by network applications and web services. Because of the increasing complexity of these programs, and the&#xD;
+    pressure to deploy them quickly, many professionals don't take the time to ensure that they'll perform well and scale&#xD;
+    effectively. The Art of Application Performance Testing explains the complete life cycle of the testing process, and&#xD;
+    demonstrates best practices to help you plan, gain approval for, coordinate, and conduct performance tests on your&#xD;
+    applications. With this book, you'll learn to: Set realistic performance testing goals Implement an effective&#xD;
+    application performance testing strategy Interpret performance test results Cope with different application&#xD;
+    technologies and architectures Use automated performance testing tools Test traditional local applications, web-based&#xD;
+    applications, and web services (SOAs) Recognize and resolves issues that are often overlooked in performance tests&#xD;
+    Written by a consultant with 30 years of experience in the IT industry and over 12 years experience with performance&#xD;
+    testing, this easy-to-read book is illustrated with real-world examples and packed with practical advice. The Art of&#xD;
+    Application Performance Testing thoroughly explains the pitfalls of an inadequate testing strategy and offers you a&#xD;
+    robust, structured approach for ensuring that your applications perform well and scale effectively when the need&#xD;
+    arises. &quot;Ian has maintained a vendor-agnostic methodology beautifully in this material. The metrics and graphs, along&#xD;
+    with background information provided in his case studies, eloquently convey to the reader, 'Methodology above all,&#xD;
+    tools at your discretion...' Ian's expertise shines through throughout the entire reading experience.&quot; -- Matt St.&#xD;
+    Onge, Enterprise Solution Architect, HCL Technologies America / Teradyne&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Author: Ian Molyneaux&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Date: February 2009&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Publisher: O`Reilly Media, Inc&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Link: &lt;a href=&quot;https://dl.acm.org/doi/book/10.5555/1550832&quot;>https://dl.acm.org/doi/book/10.5555/1550832&lt;/a>&lt;br&#xD;
+    class=&quot;Apple-interchange-newline&quot; />&#xD;
+    &lt;br />&#xD;
+    &lt;br />&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

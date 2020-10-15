@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-jCdQBYGwj4UprrCfFf_IDQ" name="new_supporting_material,_UMFeMA7IEeugmYidgb9k7g" guid="-jCdQBYGwj4UprrCfFf_IDQ" changeDate="2020-10-15T06:27:10.115-0300">
+  <mainDescription>&lt;p>&#xD;
+    Performance Testing Guidance for Web Applications provides an end-to-end approach for implementing performance testing.&#xD;
+    Whether you are new to performance testing or looking for ways to improve your current performance-testing approach,&#xD;
+    you will gain insights that you can tailor to your specific scenarios.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The information in this guide is based on applied use in customer scenarios. It reflects the lessons learned from&#xD;
+    multiple performance-testing professionals. The guidance is taskbased and presented in the following parts:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    • Part 1, “Introduction to Performance Testing,” gives you an overview of common types of performance testing, key&#xD;
+    concepts, and a set of common terms used in performance testing.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    • Part II, “Exemplar Performance Testing Approaches,” shows you seven core activities for performance testing. This&#xD;
+    section also contains information designed to show you how to apply performance testing to different environments,&#xD;
+    including Agile and CMMI&amp;reg; software development.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    • Part III, “Identify the Test Environment,” shows you how to collect information about your project that you will need&#xD;
+    for your performance tests. This includes collecting information on system architecture, the physical deployment, user&#xD;
+    activities, and any relevant batch processes.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    • Part IV, “Identify Performance Acceptance Criteria,” shows you how to determine your performance testing objectives.&#xD;
+    You will also learn how to achieve clarity around your various performance goals and requirements, from a performance&#xD;
+    testing perspective.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    • Part V, “Plan and Design Tests,” shows you how to model the workload and user experience to design more effective&#xD;
+    performance tests.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    • Part VI, “Execute Tests,” walks you through the main activities of actual performance testing.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    • Part VII, “Analyze Results and Report,” shows you how to organize and present your findings in a way that is useful&#xD;
+    based on the audience and the intent of the report. • Part VIII, “Performance-Testing Techniques,” shows you the core&#xD;
+    techniques for performing load and stress testing.&#xD;
+&lt;/p>&#xD;
+&lt;br />&#xD;
+&lt;p>&#xD;
+    Authors: J.D Meier, Carlos Farre, Prashant Bansode, Scott Barber, Dennis Rea&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Date: November 2007&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Publisher: Microsoft PressDiv. of Microsoft Corp. One Microsoft Way Redmond, WAUnited States.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Link: &lt;a href=&quot;https://dl.acm.org/doi/book/10.5555/1461439&quot;>https://dl.acm.org/doi/book/10.5555/1461439&lt;/a>&lt;br&#xD;
+    class=&quot;Apple-interchange-newline&quot; />&#xD;
+    &amp;nbsp;&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>
