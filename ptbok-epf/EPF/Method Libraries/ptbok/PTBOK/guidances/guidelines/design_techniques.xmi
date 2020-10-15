@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-klVR-Nz9JLMNzdNSwacDHw" name="design_techniques,_wHTGUPiXEeq-GNGrt9WlHQ" guid="-klVR-Nz9JLMNzdNSwacDHw">
+  <mainDescription>&lt;p>&#xD;
+    &lt;b>Agile&lt;/b>: This process allows projects to be processed in small phases or cycles, known as &quot;Sprints&quot;. In these&#xD;
+    cases the focus is more on production than on documentation.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;b>Waterfall&lt;/b>: The most common model in software engineering, it consists of five steps that are performed in a&#xD;
+    linear manner: Ideas Engineering - System Design - Implementation - Tests and Validation - Maintenance&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;b>Scrum&lt;/b>: The Scrum process tries to solve the problem of time that occurs in the Waterfall process, seeking in the&#xD;
+    planning phase, only to accomplish enough to start the project. It is based on the Agile structure, using scrum&#xD;
+    (sprints) that occur within a period of 1-3 weeks. &quot;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;b>PRINCE2&lt;/b>: This model seeks from the beginning of the project to structure roles, themes, processes so that all&#xD;
+    members are well aware of their responsibilities for the successful execution of the project. It can be applied to any&#xD;
+    project of any nature, as it is a generic non-proprietary project management method &quot;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;b>PERT&lt;/b> : In this technique, time is the most important, so an exact time for each task is determined because time&#xD;
+    is an important factor in project management since it also determines the project budget. &quot;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;b>Adaptive Project Framework&lt;/b>: This process prepares teams to anticipate the unexpected and how to act, as in&#xD;
+    traditional project management, goals and results are adapted to the process, instead of adapting the process to the&#xD;
+    goals.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;b>Extreme Programming (XP)&lt;/b>: This methodology, which also has its roots in the Agile structure, has as its main&#xD;
+    objective, the improvement of product quality, customer satisfaction. It has a short life cycle, seeking perfection in&#xD;
+    the development process. &quot;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;b>Kanban&lt;/b>: Instead of having goals and sprints, your approach is with visual cues, allowing the project team to&#xD;
+    know what is expected from the tasks within the project in terms of quantity and quality, as well as when the tasks&#xD;
+    should be carried out.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

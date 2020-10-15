@@ -115,6 +115,8 @@
     <resourceDescriptors xmi:id="_9dd7wA7IEeugmYidgb9k7g" id="-jCdQBYGwj4UprrCfFf_IDQ" uri="guidances/supportingmaterials/performance_testing_guidance_for_web_applications_patterns__practices.xmi"/>
     <resourceDescriptors xmi:id="_AaM9MA7KEeugmYidgb9k7g" id="-qDlaT4UvMdOFRvtDlSKHqA" uri="guidances/supportingmaterials/the_art_of_application_performance_testing.xmi"/>
     <resourceDescriptors xmi:id="_9Q-F8A7KEeugmYidgb9k7g" id="-GgoTbE_D_Ra6rWg4jStOjw" uri="guidances/supportingmaterials/the_future_of_software_performance_engineering.xmi"/>
+    <resourceDescriptors xmi:id="_34Qj8A8OEeuxdM5-VqFgpQ" id="-ig0H0gNvES8gkncshb0y6A" uri="guidances/guidelines/software_requirements_elicitation_techniques.xmi"/>
+    <resourceDescriptors xmi:id="_sHFxEA8QEeuxdM5-VqFgpQ" id="-klVR-Nz9JLMNzdNSwacDHw" uri="guidances/guidelines/design_techniques.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_EJQ_4D3vEem07NBMeZObjA" name="PTBOK" guid="_EJQ_4D3vEem07NBMeZObjA">
     <ownedRules xmi:id="_treisLlJEemt5oQZSu_gkA" name="wpState" guid="_treisLlJEemt5oQZSu_gkA" body="Template"/>
@@ -568,6 +570,7 @@
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_wHTGUPiXEeq-GNGrt9WlHQ" name="design_techniques" guid="_wHTGUPiXEeq-GNGrt9WlHQ" presentationName="Design Techniques">
             <methodElementProperty xmi:id="_xv9GMPiXEeq-GNGrt9WlHQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-klVR-Nz9JLMNzdNSwacDHw" href="uma://-klVR-Nz9JLMNzdNSwacDHw#-klVR-Nz9JLMNzdNSwacDHw"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_sZXmkPiYEeq-GNGrt9WlHQ" name="user_profile_analysis" guid="_sZXmkPiYEeq-GNGrt9WlHQ" presentationName="User Profile Analysis">
             <methodElementProperty xmi:id="_t2iIIPiYEeq-GNGrt9WlHQ" name="me_edited" value="true"/>
@@ -663,6 +666,7 @@
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_jAueIPlGEeqs7dCaAbkb9w" name="software_requirements_elicitation_techniques" guid="_jAueIPlGEeqs7dCaAbkb9w" presentationName="Software Requirements Elicitation Techniques">
             <methodElementProperty xmi:id="_krQGQPlGEeqs7dCaAbkb9w" name="me_edited" value="true"/>
+            <presentation xmi:id="-ig0H0gNvES8gkncshb0y6A" href="uma://-ig0H0gNvES8gkncshb0y6A#-ig0H0gNvES8gkncshb0y6A"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_ZKLgsPlPEeqYIum-itjD2A" name="framework" guid="_ZKLgsPlPEeqYIum-itjD2A" presentationName="Framework">
             <methodElementProperty xmi:id="_E2WlsPlQEeqYIum-itjD2A" name="me_edited" value="true"/>
