@@ -194,6 +194,7 @@
             <categorizedElements xsi:type="org.eclipse.epf.uma:CustomCategory" href="#_z9JvwPlWEeqYIum-itjD2A"/>
             <categorizedElements xsi:type="org.eclipse.epf.uma:CustomCategory" href="#_jgx_cAlmEeuAzJP-a8r2ww"/>
             <categorizedElements xsi:type="org.eclipse.epf.uma:CustomCategory" href="#_D_XVMAloEeuAzJP-a8r2ww"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:CustomCategory" href="#_Q5rW0A8LEeumtrSpFaw_Qw"/>
             <categorizedElements xsi:type="org.eclipse.epf.uma:DeliveryProcess" href="uma://_0CjqwN9YEeqLEKK0pLdylg#_0Cjqwd9YEeqLEKK0pLdylg"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_HeQHIN6YEeq0GuRSVkmB_Q" name="ptbok_overview" guid="_HeQHIN6YEeq0GuRSVkmB_Q" presentationName="PTBOK Overview" categorizedElements="_ZKLgsPlPEeqYIum-itjD2A _HnMVoPlQEeqYIum-itjD2A">
@@ -302,6 +303,9 @@
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_aa6fwAlpEeuAzJP-a8r2ww" name="all_guidelines" guid="_aa6fwAlpEeuAzJP-a8r2ww" presentationName="All guidelines" categorizedElements="_0NWKIPihEeq-GNGrt9WlHQ _x0PzgPibEeq-GNGrt9WlHQ _FxRQsPieEeq-GNGrt9WlHQ _y3vbYPicEeq-GNGrt9WlHQ _wHTGUPiXEeq-GNGrt9WlHQ _kDx7APigEeq-GNGrt9WlHQ _6-kf8PiZEeq-GNGrt9WlHQ _2nBGUPiYEeq-GNGrt9WlHQ _cX-F4PigEeq-GNGrt9WlHQ _IB0-EPieEeq-GNGrt9WlHQ _xHKVkAlmEeuAzJP-a8r2ww __6tzYPilEeq-GNGrt9WlHQ _9keUwPilEeq-GNGrt9WlHQ _twX48PicEeq-GNGrt9WlHQ _bwlUwPirEeq-GNGrt9WlHQ _64bN8PiUEeq-GNGrt9WlHQ _THB1EPiXEeq-GNGrt9WlHQ _kpXTUPirEeq-GNGrt9WlHQ _Dj7PYPieEeq-GNGrt9WlHQ __O650PikEeq-GNGrt9WlHQ _goFQMPigEeq-GNGrt9WlHQ _jAueIPlGEeqs7dCaAbkb9w _4995wAlmEeuAzJP-a8r2ww __NyCoPiqEeq-GNGrt9WlHQ _ibDCoPigEeq-GNGrt9WlHQ _xzpH0PihEeq-GNGrt9WlHQ _p6RREAlmEeuAzJP-a8r2ww _CE390PimEeq-GNGrt9WlHQ _sZXmkPiYEeq-GNGrt9WlHQ _hEKMYPiZEeq-GNGrt9WlHQ _6mldYAlmEeuAzJP-a8r2ww _hKxXcPipEeq-GNGrt9WlHQ _2bKTQPimEeq-GNGrt9WlHQ _LP5i8PimEeq-GNGrt9WlHQ _NKdyMPimEeq-GNGrt9WlHQ">
             <methodElementProperty xmi:id="_ujVmkAlpEeuAzJP-a8r2ww" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_Q5rW0A8LEeumtrSpFaw_Qw" name="supporting_material" guid="_Q5rW0A8LEeumtrSpFaw_Qw" presentationName="Supporting Material" categorizedElements="_jNHC0A7HEeugmYidgb9k7g _mQUKkA7GEeugmYidgb9k7g _UMFeMA7IEeugmYidgb9k7g _w8lYoA7JEeugmYidgb9k7g _3paAgA7KEeugmYidgb9k7g">
+            <methodElementProperty xmi:id="_epYBAA8LEeumtrSpFaw_Qw" name="me_edited" value="true"/>
           </contentElements>
         </childPackages>
       </childPackages>
