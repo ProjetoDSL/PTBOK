@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-XQSv8Hu-kZvwPnKpLmsMIw" name="new_supporting_material,_v7MHcBQ3EeuH6dvGAELnWQ" guid="-XQSv8Hu-kZvwPnKpLmsMIw" changeDate="2020-10-22T05:19:45.749-0300">
+  <mainDescription>&lt;p>&#xD;
+    Internet and its web contents are extensively used in real trade and the existence of bugs in software can be&#xD;
+    disastrous. According to the specific properties of web applications, traditional test approaches are not applicable to&#xD;
+    this area. Though, lots of methods are proposed to assure the quality of web applications, advances are not&#xD;
+    considerable yet. This is because the specific properties of web applications have not been taken quite seriously. Our&#xD;
+    proposed method analyzes the web applications from the user's aspect and based on this analysis, extracts the test&#xD;
+    model. Then, our implemented software agents run the test model to simulate the user's behavior. These agents use both&#xD;
+    automatically generated and handwritten scenarios to test the web application. In addition to security, performance,&#xD;
+    and load tests, the method supports functionality test. The proposed method also indicated the necessity of a new phase&#xD;
+    in the web application development process.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Authors: Sharifi, M and Tasharrofi, S and Mahmoudzadeh, H&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Published in 2005&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    WSEAS Transactions on Computers&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Link: &lt;a&#xD;
+    href=&quot;https://www.researchgate.net/publication/262277966_A_new_method_on_automated_web_application_testing&quot;>https://www.researchgate.net/publication/262277966_A_new_method_on_automated_web_application_testing&lt;/a>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

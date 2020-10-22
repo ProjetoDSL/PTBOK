@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-NrkZ1Fjr4-I-fXw9tN6ruA" name="a19,_tINNABQ4EeuH6dvGAELnWQ" guid="-NrkZ1Fjr4-I-fXw9tN6ruA">
+  <mainDescription>&lt;p>&#xD;
+    The evolution towards “Software as a Service”, facilitated by various web service technologies, has led to applications&#xD;
+    composed of a number of service building blocks. These applications are dynamically composed by web service brokers,&#xD;
+    but rely critically on proper functioning of each of the composing subparts which is not entirely under control of the&#xD;
+    applications themselves. The problem at hand for the provider of the service is to guarantee non-functional&#xD;
+    requirements such as service access and performance to each customer. To this end, the service provider typically&#xD;
+    divides the load of incoming service requests across the available server infrastructure. In this paper we describe an&#xD;
+    adaptive load balancing strategy called SALSA (Simulated Annealing Load Spreading Algorithm), which is able to&#xD;
+    guarantee for different customer priorities, such as default and premium customers, that the services are handled in a&#xD;
+    given time and this without the need to adapt the servers executing the service logic themselves. It will be shown that&#xD;
+    by using SALSA, web service brokers are able to autonomously meet SLAs, without a priori over-dimensioning resources.&#xD;
+    This will be done by taking into account a real time view of the requests by measuring the Poisson arrival rates at&#xD;
+    that moment and selectively drop some requests from default customers. This way the web servers' load is reduced in&#xD;
+    order to guarantee the service time for premium customers and provide best effort to default customers. We compared the&#xD;
+    results of SALSA with weighted round-robin (WRR), nowadays the most used load balancing strategy, and it was shown that&#xD;
+    the SALSA algorithm requires slightly more processing than WRR but is able to offer guarantees – contrary to WRR – by&#xD;
+    dynamically adapting its load balancing strategy.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Authors: Boone, Bas and Hoecke, Sofie Van and Seghbroeck, Gregory Van and Joncheere, Niels and Jonckers, Viviane and&#xD;
+    Turck, Filip De and Develder, Chris and Dhoedt, Bart&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Published in 2010&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Journal of Systems and software&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Link: &lt;a href=&quot;https://doi.org/10.1016/j.jss.2009.09.033&quot;>https://doi.org/10.1016/j.jss.2009.09.033&lt;/a>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-jCdQBYGwj4UprrCfFf_IDQ" name="new_supporting_material,_UMFeMA7IEeugmYidgb9k7g" guid="-jCdQBYGwj4UprrCfFf_IDQ" changeDate="2020-10-15T06:27:10.115-0300">
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-jCdQBYGwj4UprrCfFf_IDQ" name="new_supporting_material,_UMFeMA7IEeugmYidgb9k7g" guid="-jCdQBYGwj4UprrCfFf_IDQ" changeDate="2020-10-22T04:21:18.008-0300">
   <mainDescription>&lt;p>&#xD;
     Performance Testing Guidance for Web Applications provides an end-to-end approach for implementing performance testing.&#xD;
     Whether you are new to performance testing or looking for ways to improve your current performance-testing approach,&#xD;
@@ -51,8 +51,6 @@
     Publisher: Microsoft PressDiv. of Microsoft Corp. One Microsoft Way Redmond, WAUnited States.&#xD;
 &lt;/p>&#xD;
 &lt;p>&#xD;
-    Link: &lt;a href=&quot;https://dl.acm.org/doi/book/10.5555/1461439&quot;>https://dl.acm.org/doi/book/10.5555/1461439&lt;/a>&lt;br&#xD;
-    class=&quot;Apple-interchange-newline&quot; />&#xD;
-    &amp;nbsp;&#xD;
+    Link: &lt;a href=&quot;https://dl.acm.org/doi/book/10.5555/1461439&quot;>https://dl.acm.org/doi/book/10.5555/1461439&lt;/a>&#xD;
 &lt;/p></mainDescription>
 </org.eclipse.epf.uma:ContentDescription>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-oHgvP7st6ZRmo_AxKKLqYw" name="a36,_yt50wRQ5EeuH6dvGAELnWQ" guid="-oHgvP7st6ZRmo_AxKKLqYw">
+  <mainDescription>&lt;p>&#xD;
+    Performance testing is a highly specialized task, since it requires that a performance engineer knows the application&#xD;
+    to be tested, its usage profile, and the infrastructure where it will execute. Moreover, it requires that testing teams&#xD;
+    expend a considerable effort and time on its automation. In this paper, we present the PLeTsPerf, a model-based&#xD;
+    performance testing tool to support the automatic generation of scenarios and scripts from application models.&#xD;
+    PLetsPerf is a mature tool, developed in collaboration with an IT company, which has been used in several works,&#xD;
+    experimental studies and pilot studies. We present an example of use to demonstrate the process of generating test&#xD;
+    scripts and scenarios from UML models to test a Web application. We also present the lessons learned and discuss our&#xD;
+    conclusions about the use of the tool.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Authors: Rodrigues, Elder and Bernardino, Maicon and Costa, Leandro and Zorzo, Avelino and Oliveira, Flavio&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Published in 2015&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    2015 IEEE 8th International Conference on Software Testing, Verification and Validation (ICST)&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Link: &lt;a href=&quot;https://doi.org/10.1109/ICST.2015.7102628&quot;>https://doi.org/10.1109/ICST.2015.7102628&lt;/a>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

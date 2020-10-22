@@ -15,9 +15,9 @@
     &lt;img style=&quot;HEIGHT: 230px; WIDTH: 600px&quot; alt=&quot;&quot; src=&quot;./resources/activity-artifacts-m2.1%20&amp;amp;%20m4.1.png&quot;&#xD;
     width=&quot;600&quot; height=&quot;300&quot; />&#xD;
 &lt;/p></mainDescription>
-  <sections xmi:id="_rVSgIPioEeq-GNGrt9WlHQ" name="Show environment info" guid="_rVSgIPioEeq-GNGrt9WlHQ"/>
-  <sections xmi:id="_re-AkPioEeq-GNGrt9WlHQ" name="Show alerts" guid="_re-AkPioEeq-GNGrt9WlHQ"/>
-  <sections xmi:id="_vdLikPioEeq-GNGrt9WlHQ" name="Update Performance Testing Plan" guid="_vdLikPioEeq-GNGrt9WlHQ">
+  <sections xmi:id="_rVSgIPioEeq-GNGrt9WlHQ" name="To show environment info" guid="_rVSgIPioEeq-GNGrt9WlHQ"/>
+  <sections xmi:id="_re-AkPioEeq-GNGrt9WlHQ" name="To show alerts" guid="_re-AkPioEeq-GNGrt9WlHQ"/>
+  <sections xmi:id="_vdLikPioEeq-GNGrt9WlHQ" name="Updating Performance Testing Plan" guid="_vdLikPioEeq-GNGrt9WlHQ">
     <sectionDescription>&lt;p>&#xD;
     Add to &lt;a class=&quot;elementLink&quot; href=&quot;./../../PTBOK/workproducts/performance_testing_plan_39B50284.html&quot;&#xD;
     guid=&quot;_ucpuAPLnEeqG-7knepYd9A&quot;>Performance Testing Plan&lt;/a>&amp;nbsp;the following info:&#xD;
@@ -28,7 +28,7 @@
     &lt;/li>&#xD;
 &lt;/ol></sectionDescription>
   </sections>
-  <sections xmi:id="_0nFboPioEeq-GNGrt9WlHQ" name="Update Performance Testing Report" guid="_0nFboPioEeq-GNGrt9WlHQ">
+  <sections xmi:id="_0nFboPioEeq-GNGrt9WlHQ" name="Updating Performance Testing Report" guid="_0nFboPioEeq-GNGrt9WlHQ">
     <sectionDescription>&lt;p>&#xD;
     Add to &lt;a class=&quot;elementLink&quot; href=&quot;./../../PTBOK/workproducts/performance_testing_report_6C2ADA41.html&quot;&#xD;
     guid=&quot;_8UDisPLnEeqG-7knepYd9A&quot;>Performance Testing Report&lt;/a>&amp;nbsp;the following info:&#xD;

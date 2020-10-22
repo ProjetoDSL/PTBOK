@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-tCp2EOdlc4c4BWbfYV0YfA" name="a07,_4lQUkBQ3EeuH6dvGAELnWQ" guid="-tCp2EOdlc4c4BWbfYV0YfA" changeDate="2020-10-22T11:30:56.479-0300">
+  <mainDescription>&lt;p>&#xD;
+    Accurate performance metric models are the key to web capacity planning related problems. Due to the complexity of web&#xD;
+    systems, analytical modeling without integrating the performance testing process is not enough to get accurate metric&#xD;
+    models. To integrate performance testing and analytical modeling in a systematic way, a web performance modeling&#xD;
+    process is presented based on the methodology of learning from data. The process divides the modeling activity into&#xD;
+    several phases: constructing models and hypothetical conditions, deriving test cases, estimating parameters and&#xD;
+    validating models, etc. The scalability of a real web community system (www.igroot.com) is studied by using the&#xD;
+    proposed process. The error of estimated saturation point is within 1 percent, the error of estimated lower bound of&#xD;
+    buckle point is within 5 percent. At last, a HTTP processing bottleneck at the architecture level is identified by&#xD;
+    correlating the model with the threads data of the web server.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Authors: Yin, Jianfei and Ming, Zhong and Xiao, Zhijiao and Wang, Hui&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Published in 2008&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Proceedings of the 9th International Conference for Young Computer Scientists, ICYCS 2008&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Link: &lt;a href=&quot;https://doi.org/10.1109/ICYCS.2008.356&quot;>https://doi.org/10.1109/ICYCS.2008.356&lt;/a>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

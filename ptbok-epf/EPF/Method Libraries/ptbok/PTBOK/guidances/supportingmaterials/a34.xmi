@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-05Jacz6yeeZFGAWt3QsKjQ" name="a34,_yt5NuRQ5EeuH6dvGAELnWQ" guid="-05Jacz6yeeZFGAWt3QsKjQ">
+  <mainDescription>&lt;p>&#xD;
+    Test-first Performance (TFP) is a testing paradigm that focuses on performance testing from the early stage of&#xD;
+    development. For performance oriented applications like a web service, TFP approach can reduce the overall cost of&#xD;
+    software testing. Given this potential benefit, TFP is yet to be incorporated in existing cloud testing frameworks.&#xD;
+    This paper proposes the design of a testing framework which introduces TFP as a Service (TFPaaS) named as IVRIDIO. It&#xD;
+    includes the Plugin for TFP in the Cloud (PTFPC) that will provide instant feedbacks to fix critical performance&#xD;
+    issues. To simplify the TFPaaS availing procedure, the Convention over Configuration (CoC) design paradigm has been&#xD;
+    applied. A configurable project template is designed using the CoC to maintain TFP test cases. Furthermore, necessary&#xD;
+    directions are given to prototype the framework as a testbed for related research.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Authors: Gias, A U and Imran, A and Rahman, R and Sakib, K&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Published in 2013&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Third International Conference on Innovative Computing Technology (INTECH 2013)&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Link: &lt;a href=&quot;https://doi.org/10.1109/INTECH.2013.6653653&quot;>https://doi.org/10.1109/INTECH.2013.6653653&lt;/a>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

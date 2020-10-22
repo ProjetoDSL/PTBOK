@@ -16,8 +16,8 @@
     height=&quot;300&quot; />&#xD;
 &lt;/p>&#xD;
 &lt;br /></mainDescription>
-  <sections xmi:id="_9-_HgPiaEeq-GNGrt9WlHQ" name="Analyze method indication" guid="_9-_HgPiaEeq-GNGrt9WlHQ">
+  <sections xmi:id="_9-_HgPiaEeq-GNGrt9WlHQ" name="To analyze method indication" guid="_9-_HgPiaEeq-GNGrt9WlHQ">
     <sectionDescription>From Requirements and Design</sectionDescription>
   </sections>
-  <sections xmi:id="_GuE-kPibEeq-GNGrt9WlHQ" name="Update Performance Testing Plan" guid="_GuE-kPibEeq-GNGrt9WlHQ"/>
+  <sections xmi:id="_GuE-kPibEeq-GNGrt9WlHQ" name="Updating Performance Testing Plan" guid="_GuE-kPibEeq-GNGrt9WlHQ"/>
 </org.eclipse.epf.uma:TaskDescription>

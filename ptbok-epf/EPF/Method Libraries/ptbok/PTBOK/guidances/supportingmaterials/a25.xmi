@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ng3JDDNhb_J6YQNWrr6xyw" name="a25,_yt5NsBQ5EeuH6dvGAELnWQ" guid="-ng3JDDNhb_J6YQNWrr6xyw">
+  <mainDescription>&lt;p>&#xD;
+    To satisfy the rapid growth of cloud technologies, a large number of web applications have been developed and deployed,&#xD;
+    and these applications are being run in clouds. Due to the scalability provided by clouds, a single web application may&#xD;
+    be concurrently visited by several millions or billions of users. Thus, the testing and performance evaluations of&#xD;
+    these applications are increasingly important. User model based evaluations can significantly reduce the manual work&#xD;
+    required, and can enable us to determine the performance of applications under real runtime environments. Hence, it has&#xD;
+    become one of the most popular evaluation methods in both industry and academia. Significant efforts have focused on&#xD;
+    building different kinds of models using mining web access logs, such as Markov models and Customer Behavior Model&#xD;
+    Graph (CBMG). This paper proposes a new kind of model, named the User Representation Model Graph (URMG), which is built&#xD;
+    based on CBMG. It uses an algorithm to refine CBMG and optimizes the evaluations execution process. Based on this&#xD;
+    model, an automatic testing and evaluation system for web applications is designed, implemented, and deployed in our&#xD;
+    test cloud, which is able to execute all of the analysis and testing operations using only web access logs. In our&#xD;
+    system, the error rate caused by random access to applications in the execution phase is also reduced, and the results&#xD;
+    show that the error rate of the evaluation that depends on URMG is 50% less than that which depends on CBMG.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Authors: Xu, Xiaolin and Jin, Hai and Wu, Song and Tang, Lixiang and Wang, Yihong&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Published in 2014&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Tsinghua Science and Technology&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Link: &lt;a href=&quot;https://doi.org/10.1109/TST.2014.6733209&quot;>https://doi.org/10.1109/TST.2014.6733209&lt;/a>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

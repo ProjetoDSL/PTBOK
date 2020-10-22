@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-MwdgrBrPn1LQxh8UZWWQvQ" name="a11,_FQLIABQ4EeuH6dvGAELnWQ" guid="-MwdgrBrPn1LQxh8UZWWQvQ">
+  <mainDescription>&lt;p>&#xD;
+    To appropriately realize the performance of a web service, it is essential to give it a comprehensive testing. Although&#xD;
+    an elastic test could be guaranteed in traditional cloud testing systems, the geographical test that supports real user&#xD;
+    behavior simulation remains a problem. In this paper, we propose a testing system based on a crowdsourcing model to&#xD;
+    carry out the distributed test on a target web server automatically. The proposed crowdsourcing-based testing system&#xD;
+    (CTS) provides a reliable testing model to simulate real user web browsing behaviors with the help of web browsers&#xD;
+    scattered all around the world. In order to make the entire test process the same as the real situation, two test modes&#xD;
+    are proposed to simulate real user activity. By evaluating every single resource of web service automatically, a tester&#xD;
+    can not only find out internal problems but also understand the performance of the web service. In addition, the&#xD;
+    complete geographical test is available with the performance measurements coming from different regions in the world.&#xD;
+    Several experiments are performed to validate the functionality and usability of CTS. It demonstrates that CTS is a&#xD;
+    complete and reliable web service testing system, which provides unique functions and satisfies different requirements.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Authors: Liu, Xiaolong and Hsieh, Yun-Ju and Chen, Riqing and Yuan, Shyan-Ming&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Published in 2018&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Complexity&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Link: &lt;a href=&quot;https://doi.org/10.1155/2018/2170585&quot;>https://doi.org/10.1155/2018/2170585&lt;/a>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

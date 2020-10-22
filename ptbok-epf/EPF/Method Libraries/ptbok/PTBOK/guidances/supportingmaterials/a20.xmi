@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-oVLo4azqFAKL6TSe4hTUjw" name="a20,_vY7ScBQ4EeuH6dvGAELnWQ" guid="-oVLo4azqFAKL6TSe4hTUjw">
+  <mainDescription>&lt;p>&#xD;
+    Big Data, the new buzz word in the industry, is data that exceeds the processing and analytic capacity of conventional&#xD;
+    database systems within the time necessary to make them useful. With multiple data stores in abundant formats, billions&#xD;
+    of rows of data with hundreds of millions of data combinations and the urgent need of making best possible decisions,&#xD;
+    the challenge is big and the solution bigger, Big Data. Comes with it, new advances in computing technology together&#xD;
+    with its high performance analytics for simpler and faster processing of only relevant data to enable timely and&#xD;
+    accurate insights using data mining and predictive analytics, text mining, forecasting and optimization on complex data&#xD;
+    to continuously drive innovation and make the best possible decisions. While Big Data provides solutions to complex&#xD;
+    business problems like analyzing larger volumes of data than was previously possible to drive more precise answers,&#xD;
+    analyzing data in motion to capture opportunities that were previously lost, it poses bigger challenges in testing&#xD;
+    these scenarios. Testing such highly volatile data, which is more often than not unstructured generated from myriad&#xD;
+    sources such as web logs, radio frequency Id (RFID), sensors embedded in devices, GPS systems etc. and mostly clustered&#xD;
+    data for its accuracy, high availability, security requires specialization. One of the most challenging things for a&#xD;
+    tester is to keep pace with changing dynamics of the industry. While on most aspects of testing, the tester need not&#xD;
+    know the technical details behind the scene however this is where testing Big Data Technology is so different. A tester&#xD;
+    not only needs to be strong on testing fundamentals but also has to be equally aware of minute details in the&#xD;
+    architecture of the database designs to analyze several performance bottlenecks and other issues. Like in the example&#xD;
+    quoted above on In-Memory databases, a tester would need to know how the operating systems allocate and de-allocate&#xD;
+    memory and understand how much memory is being used at any given time. So, concluding, as the data- analytics Industry&#xD;
+    evolves further we would see the IT Testing Services getting closely aligned with the Database Engineering and the&#xD;
+    industry would need more skilled testing professional in this domain to grab the new opportunities.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Authors: Garg, Naveen and Singla, Sanjay and Jangra, Surender&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Published in 2016&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Procedia Computer Science&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Link: &lt;a href=&quot;https://doi.org/10.1016/j.procs.2016.05.285&quot;>https://doi.org/10.1016/j.procs.2016.05.285&lt;/a>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

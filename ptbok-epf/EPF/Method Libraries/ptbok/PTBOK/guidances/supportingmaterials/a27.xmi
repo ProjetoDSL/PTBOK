@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-tqqYVD4__UpF3swJv93tUg" name="a27,_yt5NshQ5EeuH6dvGAELnWQ" guid="-tqqYVD4__UpF3swJv93tUg" changeDate="2020-10-22T12:13:25.802-0300">
+  <mainDescription>&lt;p>&#xD;
+    Several models of software testing effort estimation take into account intrinsic characteristics for the whole software&#xD;
+    development, presenting no evidence of how they effectively affect the test effort. Also, most of such estimation&#xD;
+    models only estimate the effort regarding the execution of tests. However, in software testing projects the activity&#xD;
+    usually requiring more effort is the test design &amp;amp; implementation one. Better precision in the identification of&#xD;
+    the effort factors influencing these activities can result in estimates with a higher degree of accuracy. Therefore,&#xD;
+    this paper presents a study on the factors affecting the effort in performing test design &amp;amp; implementation of&#xD;
+    large-scale software projects in a Brazilian government company. The study was carried out through observing the&#xD;
+    factors influencing the effort in two Web Services testing projects. The identified factors were made explicit through&#xD;
+    a clear description procedure, which took into account the tasks and artifacts comprising the duties regarding test&#xD;
+    design &amp;amp; implementation activity based on IEEE 29119 standard. It supported the identification and classification&#xD;
+    of 24 effort factors concerned with a Web Services test design &amp;amp; implementation process into five different&#xD;
+    categories.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Authors: Silva-de-Souza, Thiago and Travassos, Guilherme Horta&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Published in 2017&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Proceedings of the 2Nd Brazilian Symposium on Systematic and Automated Software Testing, ACM&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Link: &lt;a href=&quot;https://doi.org/10.1145/3128473.3128480&quot;>https://doi.org/10.1145/3128473.3128480&lt;/a>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

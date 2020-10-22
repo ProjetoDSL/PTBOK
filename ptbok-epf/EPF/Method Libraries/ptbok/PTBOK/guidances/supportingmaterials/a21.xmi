@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-cQgZa1D5z2mVbo7jYWH_gw" name="new_supporting_material,_z4rbQBQ4EeuH6dvGAELnWQ" guid="-cQgZa1D5z2mVbo7jYWH_gw">
+  <mainDescription>&lt;p>&#xD;
+    Distributed analysis of LHC data is an I/O-intensive activity which places large demands on the internal network,&#xD;
+    storage, and local disks at remote computing facilities. Commissioning and maintaining a site to provide an efficient&#xD;
+    distributed analysis service is therefore a challenge which can be aided by tools to help evaluate a variety of&#xD;
+    infrastructure designs and configurations. HammerCloud is one such tool; it is a stress testing service which is used&#xD;
+    by central operations teams, regional coordinators, and local site admins to (a) submit arbitrary number of analysis&#xD;
+    jobs to a number of sites, (b) maintain at a steady-state a predefined number of jobs running at the sites under test,&#xD;
+    (c) produce web-based reports summarizing the efficiency and performance of the sites under test, and (d) present a&#xD;
+    web-interface for historical test results to both evaluate progress and compare sites. HammerCloud was built around the&#xD;
+    distributed analysis framework Ganga, exploiting its API for grid job management. HammerCloud has been employed by the&#xD;
+    ATLAS experiment for continuous testing of many sites worldwide, and also during large scale computing challenges such&#xD;
+    as STEP'09 and UAT'09, where the scale of the tests exceeded 10,000 concurrently running and 1,000,000 total jobs over&#xD;
+    multi-day periods. In addition, HammerCloud is being adopted by the CMS experiment; the plugin structure of HammerCloud&#xD;
+    allows the execution of CMS jobs using their official tool (CRAB)&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Authors: {Van Der Ster}, Daniel C and Elmsheuser, Johannes and Garcia, Mario Ubeda and Paladin, Massimo&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Published in 2011&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Journal of Physics: Conference Series&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Link: &lt;a href=&quot;https://doi.org/10.1088/1742-6596/331/7/072036&quot;>https://doi.org/10.1088/1742-6596/331/7/072036&lt;/a>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

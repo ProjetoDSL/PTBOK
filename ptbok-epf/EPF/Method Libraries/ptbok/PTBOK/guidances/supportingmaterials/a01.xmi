@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-hDtFVfG6_sote2LUsDIFfw" name="new_supporting_material,_aHE64BQ3EeuH6dvGAELnWQ" guid="-hDtFVfG6_sote2LUsDIFfw" changeDate="2020-10-22T04:23:21.012-0300">
+  <mainDescription>&lt;p>&#xD;
+    In this paper, we present a performance analysis of the response time of a client–server e-banking application running&#xD;
+    over three different enterprise middleware platforms, namely HTTPServlets, RMI and Web services with JAX-RPC. We&#xD;
+    conducted performance testing with the purpose to reveal the specific characteristics of each middleware technology and&#xD;
+    the impact that they infer on the distributed application's performance. A server node running the three J2EE platforms&#xD;
+    was benchmarked over a wide array of intranet usage patterns. A statistical analysis of the collected data led into&#xD;
+    conclusions regarding the benefits of each middleware technology. The simulation framework can be further extended to&#xD;
+    become a testing tool able to differentiate on various service demand classes as an input in distributed applications&#xD;
+    so as to offer first-cut validated results concerning the systems' performance.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Authors: Christos Tselikis, Sarandis Mitropoulos and Christos Douligeris.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Published in 2007&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Dynamic Resource Management in Distributed Real-Time Systems&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Journal of Systems and Software&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Link: &lt;a href=&quot;https://dl.acm.org/doi/10.1016/j.jss.2006.09.038&quot;>https://dl.acm.org/doi/10.1016/j.jss.2006.09.038&lt;/a>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

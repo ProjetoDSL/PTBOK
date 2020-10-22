@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-MDyTC4-7e3jXaq6Bs2Lw0A" name="a32,_yt5NtxQ5EeuH6dvGAELnWQ" guid="-MDyTC4-7e3jXaq6Bs2Lw0A">
+  <mainDescription>&lt;p>&#xD;
+    Websites usage for universities selection entrance (admission) are most visited websites in daily activity, thus its&#xD;
+    performance is critical. The ability of web applications either to control or to process users' requests determines its&#xD;
+    reliability. Furthermore, those websites which process students admission in Universitas Brawijaya and Politeknik&#xD;
+    Negeri Malang certainly engage massive volume of data and information that requires the highest level of reliability.&#xD;
+    Therefore, there is absolutely needed appropriate testing performances to measure the level of a certain application&#xD;
+    based on reliability rate. This measurement is used to determine responses, throughput, capability, and system&#xD;
+    scalability upon workload given. This research has a contribution to present testing performance concepts, goals,&#xD;
+    targets, types, and tools of Apache JMeter which is engaged for web assessment including detects mistake and error that&#xD;
+    relates to application performance and helps to improve the level of application performance as expected.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Authors: Putri, M A and Hadi, H N and Ramdani, F&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Published in 2018&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Proceedings - 2017 International Conference on Sustainable Information Engineering and Technology, SIET 2017&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Link: &lt;a href=&quot;https://doi.org/10.1109/SIET.2017.8304099&quot;>https://doi.org/10.1109/SIET.2017.8304099&lt;/a>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-W3x9kKcSvm4T2PLyAmNkZg" name="a14,_iR5x0BQ4EeuH6dvGAELnWQ" guid="-W3x9kKcSvm4T2PLyAmNkZg" changeDate="2020-10-22T11:50:13.779-0300">
+  <mainDescription>&lt;p>&#xD;
+    Software testing is a process of finding bugs by comparing actual and expected result of the software. Depending upon&#xD;
+    the type of applications i.e. desktop or web based, different types of testing performed. Web based application are set&#xD;
+    of programs run on web browser and access over a network connection. Different types of testing performed for web based&#xD;
+    application for check correctness, completeness, browser compatibility, usability, performance, security and quality of&#xD;
+    web app. This paper discussed different types of techniques of web application testing and web testing using UML&#xD;
+    environment models.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Authors: Arora, J&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Published in 2016&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    2016 International Conference on Computing, Communication and Automation (ICCCA)&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Link: &lt;a href=&quot;https://doi.org/10.1109/CCAA.2016.7813846&quot;>https://doi.org/10.1109/CCAA.2016.7813846&lt;/a>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

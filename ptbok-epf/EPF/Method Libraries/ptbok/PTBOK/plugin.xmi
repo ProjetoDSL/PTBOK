@@ -119,6 +119,46 @@
     <resourceDescriptors xmi:id="_9Q-F8A7KEeugmYidgb9k7g" id="-GgoTbE_D_Ra6rWg4jStOjw" uri="guidances/supportingmaterials/the_future_of_software_performance_engineering.xmi"/>
     <resourceDescriptors xmi:id="_34Qj8A8OEeuxdM5-VqFgpQ" id="-ig0H0gNvES8gkncshb0y6A" uri="guidances/guidelines/software_requirements_elicitation_techniques.xmi"/>
     <resourceDescriptors xmi:id="_sHFxEA8QEeuxdM5-VqFgpQ" id="-klVR-Nz9JLMNzdNSwacDHw" uri="guidances/guidelines/design_techniques.xmi"/>
+    <resourceDescriptors xmi:id="_OEorcBQxEeuH6dvGAELnWQ" id="-WTXX8LmVAw3meTOyjM3f4g" uri="guidances/guidelines/load_testing.xmi"/>
+    <resourceDescriptors xmi:id="_OE6_UBQxEeuH6dvGAELnWQ" id="-tIdJjWKEaAitRjprp5MCPg" uri="guidances/guidelines/stress_testing.xmi"/>
+    <resourceDescriptors xmi:id="_OFBF8BQxEeuH6dvGAELnWQ" id="-Lm74q0yGwbLNNpARh4Slfw" uri="guidances/guidelines/spike_testing.xmi"/>
+    <resourceDescriptors xmi:id="_OFQWgBQxEeuH6dvGAELnWQ" id="-K8w-0nQ4NV3Yf-rXB8qS8g" uri="guidances/guidelines/volume_testing.xmi"/>
+    <resourceDescriptors xmi:id="_I9RhUBQ3EeuH6dvGAELnWQ" id="-AyZK7rarOQK1F0WIjCH36A" uri="guidances/guidelines/scripting.xmi"/>
+    <resourceDescriptors xmi:id="_I9Xn8BQ3EeuH6dvGAELnWQ" id="-rDyCVqJ2KzGAGU39ZQzWVw" uri="guidances/guidelines/model-based_testing.xmi"/>
+    <resourceDescriptors xmi:id="_jra-8BQ3EeuH6dvGAELnWQ" id="-hDtFVfG6_sote2LUsDIFfw" uri="guidances/supportingmaterials/a01.xmi"/>
+    <resourceDescriptors xmi:id="_haJqcBQ4EeuH6dvGAELnWQ" id="-m6mds8egaU7OkP-pq2ix5g" uri="guidances/supportingmaterials/a13.xmi"/>
+    <resourceDescriptors xmi:id="_hbuXwBQ4EeuH6dvGAELnWQ" id="-qVCZTZUDEg_xPf-1XgVtqQ" uri="guidances/supportingmaterials/a12.xmi"/>
+    <resourceDescriptors xmi:id="_hc9G0BQ4EeuH6dvGAELnWQ" id="-MwdgrBrPn1LQxh8UZWWQvQ" uri="guidances/supportingmaterials/a11.xmi"/>
+    <resourceDescriptors xmi:id="_heQuYBQ4EeuH6dvGAELnWQ" id="-nLLnLtYfvTwgKcEvZS9wVQ" uri="guidances/supportingmaterials/a10.xmi"/>
+    <resourceDescriptors xmi:id="_hf8wcBQ4EeuH6dvGAELnWQ" id="-sg6eBEAXarf6_Uz74fkZGw" uri="guidances/supportingmaterials/a09.xmi"/>
+    <resourceDescriptors xmi:id="_hhSNMBQ4EeuH6dvGAELnWQ" id="-ElPHgbQDzj7M8DhfEiME8Q" uri="guidances/supportingmaterials/a08.xmi"/>
+    <resourceDescriptors xmi:id="_hitJgBQ4EeuH6dvGAELnWQ" id="-tCp2EOdlc4c4BWbfYV0YfA" uri="guidances/supportingmaterials/a07.xmi"/>
+    <resourceDescriptors xmi:id="_hj1K4BQ4EeuH6dvGAELnWQ" id="-93UDRjW09r3xMKrCGrFUyg" uri="guidances/supportingmaterials/a06.xmi"/>
+    <resourceDescriptors xmi:id="_hlCEwBQ4EeuH6dvGAELnWQ" id="-yhbe72eZq1REH_elSiCrQw" uri="guidances/supportingmaterials/a05.xmi"/>
+    <resourceDescriptors xmi:id="_hmKGIBQ4EeuH6dvGAELnWQ" id="-hZsRcO3K7nRiueeRDjNxsQ" uri="guidances/supportingmaterials/a04.xmi"/>
+    <resourceDescriptors xmi:id="_hnTVoBQ4EeuH6dvGAELnWQ" id="-g8Zbpcf6V7NCCI-a1YPskw" uri="guidances/supportingmaterials/a03.xmi"/>
+    <resourceDescriptors xmi:id="_hoZh0BQ4EeuH6dvGAELnWQ" id="-XQSv8Hu-kZvwPnKpLmsMIw" uri="guidances/supportingmaterials/a02.xmi"/>
+    <resourceDescriptors xmi:id="_r3cTQBQ5EeuH6dvGAELnWQ" id="-s4MPDwlZMiXGwlAq-yZpQg" uri="guidances/supportingmaterials/a22.xmi"/>
+    <resourceDescriptors xmi:id="_r4Jd4BQ5EeuH6dvGAELnWQ" id="-Eeguy5DrZOof0hqzOu4brQ" uri="guidances/supportingmaterials/a23.xmi"/>
+    <resourceDescriptors xmi:id="_r5gv0BQ5EeuH6dvGAELnWQ" id="-cQgZa1D5z2mVbo7jYWH_gw" uri="guidances/supportingmaterials/a21.xmi"/>
+    <resourceDescriptors xmi:id="_r6yiMBQ5EeuH6dvGAELnWQ" id="-W3x9kKcSvm4T2PLyAmNkZg" uri="guidances/supportingmaterials/a14.xmi"/>
+    <resourceDescriptors xmi:id="_r8JNEBQ5EeuH6dvGAELnWQ" id="-h-w2ijsYHX5oKwO9XlNRQA" uri="guidances/supportingmaterials/a15.xmi"/>
+    <resourceDescriptors xmi:id="_r9oa0BQ5EeuH6dvGAELnWQ" id="-xKamC2vHyP0TjoNf-jSv-A" uri="guidances/supportingmaterials/a16.xmi"/>
+    <resourceDescriptors xmi:id="_r_Bh8BQ5EeuH6dvGAELnWQ" id="-WHamdQRPJhjKMyhf0Kw88A" uri="guidances/supportingmaterials/a17.xmi"/>
+    <resourceDescriptors xmi:id="_sAVJgBQ5EeuH6dvGAELnWQ" id="-CONkaTkkzU0omi-W7gbQtg" uri="guidances/supportingmaterials/a18.xmi"/>
+    <resourceDescriptors xmi:id="_sBoKABQ5EeuH6dvGAELnWQ" id="-NrkZ1Fjr4-I-fXw9tN6ruA" uri="guidances/supportingmaterials/a19.xmi"/>
+    <resourceDescriptors xmi:id="_sDHXwBQ5EeuH6dvGAELnWQ" id="-oVLo4azqFAKL6TSe4hTUjw" uri="guidances/supportingmaterials/a20.xmi"/>
+    <resourceDescriptors xmi:id="__GZCIBQ-EeuH6dvGAELnWQ" id="-gCu60pp8FweQdtrr_7NVGA" uri="guidances/supportingmaterials/a24.xmi"/>
+    <resourceDescriptors xmi:id="__Gfv0BQ-EeuH6dvGAELnWQ" id="-ng3JDDNhb_J6YQNWrr6xyw" uri="guidances/supportingmaterials/a25.xmi"/>
+    <resourceDescriptors xmi:id="__Gl2cBQ-EeuH6dvGAELnWQ" id="-uZeWhONscNRGRyPqCEApWg" uri="guidances/supportingmaterials/a26.xmi"/>
+    <resourceDescriptors xmi:id="__GskIBQ-EeuH6dvGAELnWQ" id="-tqqYVD4__UpF3swJv93tUg" uri="guidances/supportingmaterials/a27.xmi"/>
+    <resourceDescriptors xmi:id="__GzR0BQ-EeuH6dvGAELnWQ" id="-PlfTiuYFbdMlUryHoV0o1g" uri="guidances/supportingmaterials/a28.xmi"/>
+    <resourceDescriptors xmi:id="__HJQEBQ-EeuH6dvGAELnWQ" id="-oE2Ts_SjZBW60gKaeUreJQ" uri="guidances/supportingmaterials/a29.xmi"/>
+    <resourceDescriptors xmi:id="__HP9wBQ-EeuH6dvGAELnWQ" id="-FU-GONk03wFAdYf4z5owcA" uri="guidances/supportingmaterials/a30.xmi"/>
+    <resourceDescriptors xmi:id="__HdZIBQ-EeuH6dvGAELnWQ" id="-MDyTC4-7e3jXaq6Bs2Lw0A" uri="guidances/supportingmaterials/a32.xmi"/>
+    <resourceDescriptors xmi:id="__Hkt4BQ-EeuH6dvGAELnWQ" id="--bLvFY5dY5b_OHlWcYZLIw" uri="guidances/supportingmaterials/a33.xmi"/>
+    <resourceDescriptors xmi:id="__HspsBQ-EeuH6dvGAELnWQ" id="-05Jacz6yeeZFGAWt3QsKjQ" uri="guidances/supportingmaterials/a34.xmi"/>
+    <resourceDescriptors xmi:id="__H8hUBQ-EeuH6dvGAELnWQ" id="-oHgvP7st6ZRmo_AxKKLqYw" uri="guidances/supportingmaterials/a36.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_EJQ_4D3vEem07NBMeZObjA" name="PTBOK" guid="_EJQ_4D3vEem07NBMeZObjA">
     <ownedRules xmi:id="_treisLlJEemt5oQZSu_gkA" name="wpState" guid="_treisLlJEemt5oQZSu_gkA" body="Template"/>
@@ -267,7 +307,7 @@
           <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_h6cNsPlVEeqYIum-itjD2A" name="tools" guid="_h6cNsPlVEeqYIum-itjD2A" presentationName="Tools" shapeicon="customcategories/resources/tools-and-utensils.png" nodeicon="customcategories/resources/tools-and-utensils+(1).png" categorizedElements="_GTyUIAOwEeuvwMLO7Qv67Q _JP5f8AOwEeuvwMLO7Qv67Q _NFss0AOwEeuvwMLO7Qv67Q">
             <methodElementProperty xmi:id="_jZVNkPlVEeqYIum-itjD2A" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_z9JvwPlWEeqYIum-itjD2A" name="artifacts" guid="_z9JvwPlWEeqYIum-itjD2A" presentationName="Artifacts" shapeicon="customcategories/resources/document.png" nodeicon="customcategories/resources/document+(1).png" categorizedElements="_HnMVoPlQEeqYIum-itjD2A _ZKLgsPlPEeqYIum-itjD2A _EU2JUPLoEeqG-7knepYd9A _ucpuAPLnEeqG-7knepYd9A _8UDisPLnEeqG-7knepYd9A _xvUTYPifEeq-GNGrt9WlHQ _qxbZcPLnEeqG-7knepYd9A _OLYJkPLoEeqG-7knepYd9A _MARj8PLoEeqG-7knepYd9A _J7ttUPidEeq-GNGrt9WlHQ _X8ihoPLoEeqG-7knepYd9A _BRRDkPLoEeqG-7knepYd9A">
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_z9JvwPlWEeqYIum-itjD2A" name="artifacts" guid="_z9JvwPlWEeqYIum-itjD2A" presentationName="Artifacts" shapeicon="customcategories/resources/document.png" nodeicon="customcategories/resources/document+(1).png" categorizedElements="_HnMVoPlQEeqYIum-itjD2A _ZKLgsPlPEeqYIum-itjD2A _EU2JUPLoEeqG-7knepYd9A _ucpuAPLnEeqG-7knepYd9A _8UDisPLnEeqG-7knepYd9A _qxbZcPLnEeqG-7knepYd9A _OLYJkPLoEeqG-7knepYd9A _MARj8PLoEeqG-7knepYd9A _J7ttUPidEeq-GNGrt9WlHQ _X8ihoPLoEeqG-7knepYd9A _BRRDkPLoEeqG-7knepYd9A">
             <methodElementProperty xmi:id="_1KBLgPlWEeqYIum-itjD2A" name="me_edited" value="true"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_tYwjwPlYEeqYIum-itjD2A" name="ptbok_life_cycle" guid="_tYwjwPlYEeqYIum-itjD2A" presentationName="PTBOK Life Cycle">
@@ -321,7 +361,7 @@
           <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_aa6fwAlpEeuAzJP-a8r2ww" name="all_guidelines" guid="_aa6fwAlpEeuAzJP-a8r2ww" presentationName="All guidelines" shapeicon="customcategories/resources/folder+(4).png" nodeicon="customcategories/resources/folder+(5).png" categorizedElements="_0NWKIPihEeq-GNGrt9WlHQ _x0PzgPibEeq-GNGrt9WlHQ _FxRQsPieEeq-GNGrt9WlHQ _y3vbYPicEeq-GNGrt9WlHQ _wHTGUPiXEeq-GNGrt9WlHQ _kDx7APigEeq-GNGrt9WlHQ _6-kf8PiZEeq-GNGrt9WlHQ _2nBGUPiYEeq-GNGrt9WlHQ _cX-F4PigEeq-GNGrt9WlHQ _IB0-EPieEeq-GNGrt9WlHQ _xHKVkAlmEeuAzJP-a8r2ww __6tzYPilEeq-GNGrt9WlHQ _9keUwPilEeq-GNGrt9WlHQ _twX48PicEeq-GNGrt9WlHQ _bwlUwPirEeq-GNGrt9WlHQ _64bN8PiUEeq-GNGrt9WlHQ _THB1EPiXEeq-GNGrt9WlHQ _kpXTUPirEeq-GNGrt9WlHQ _Dj7PYPieEeq-GNGrt9WlHQ __O650PikEeq-GNGrt9WlHQ _goFQMPigEeq-GNGrt9WlHQ _jAueIPlGEeqs7dCaAbkb9w _4995wAlmEeuAzJP-a8r2ww __NyCoPiqEeq-GNGrt9WlHQ _ibDCoPigEeq-GNGrt9WlHQ _xzpH0PihEeq-GNGrt9WlHQ _p6RREAlmEeuAzJP-a8r2ww _CE390PimEeq-GNGrt9WlHQ _sZXmkPiYEeq-GNGrt9WlHQ _hEKMYPiZEeq-GNGrt9WlHQ _6mldYAlmEeuAzJP-a8r2ww _hKxXcPipEeq-GNGrt9WlHQ _2bKTQPimEeq-GNGrt9WlHQ _LP5i8PimEeq-GNGrt9WlHQ _NKdyMPimEeq-GNGrt9WlHQ">
             <methodElementProperty xmi:id="_ujVmkAlpEeuAzJP-a8r2ww" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_Q5rW0A8LEeumtrSpFaw_Qw" name="supporting_material" guid="_Q5rW0A8LEeumtrSpFaw_Qw" presentationName="Supporting Material" shapeicon="customcategories/resources/add-file.png" nodeicon="customcategories/resources/add-file+(1).png" categorizedElements="_jNHC0A7HEeugmYidgb9k7g _mQUKkA7GEeugmYidgb9k7g _UMFeMA7IEeugmYidgb9k7g _w8lYoA7JEeugmYidgb9k7g _3paAgA7KEeugmYidgb9k7g">
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_Q5rW0A8LEeumtrSpFaw_Qw" name="supporting_material" guid="_Q5rW0A8LEeumtrSpFaw_Qw" presentationName="Supporting Material" shapeicon="customcategories/resources/add-file.png" nodeicon="customcategories/resources/add-file+(1).png" categorizedElements="_jNHC0A7HEeugmYidgb9k7g _mQUKkA7GEeugmYidgb9k7g _UMFeMA7IEeugmYidgb9k7g _w8lYoA7JEeugmYidgb9k7g _3paAgA7KEeugmYidgb9k7g _aHE64BQ3EeuH6dvGAELnWQ _v7MHcBQ3EeuH6dvGAELnWQ _x2170BQ3EeuH6dvGAELnWQ _zbwEIBQ3EeuH6dvGAELnWQ _1MXtMBQ3EeuH6dvGAELnWQ _2zT10BQ3EeuH6dvGAELnWQ _4lQUkBQ3EeuH6dvGAELnWQ _6GVs0BQ3EeuH6dvGAELnWQ _7ycpUBQ3EeuH6dvGAELnWQ _9bhf8BQ3EeuH6dvGAELnWQ _FQLIABQ4EeuH6dvGAELnWQ _INSZYBQ4EeuH6dvGAELnWQ _KXkfoBQ4EeuH6dvGAELnWQ _iR5x0BQ4EeuH6dvGAELnWQ _khOJEBQ4EeuH6dvGAELnWQ _ml59oBQ4EeuH6dvGAELnWQ _ovOakBQ4EeuH6dvGAELnWQ _rIdi0BQ4EeuH6dvGAELnWQ _tINNABQ4EeuH6dvGAELnWQ _vY7ScBQ4EeuH6dvGAELnWQ _z4rbQBQ4EeuH6dvGAELnWQ _ECeJUBQ5EeuH6dvGAELnWQ _XphBYBQ5EeuH6dvGAELnWQ _yt4moBQ5EeuH6dvGAELnWQ _yt5NsBQ5EeuH6dvGAELnWQ _yt5NsRQ5EeuH6dvGAELnWQ _yt5NshQ5EeuH6dvGAELnWQ _yt5NsxQ5EeuH6dvGAELnWQ _yt5NtBQ5EeuH6dvGAELnWQ _yt5NtRQ5EeuH6dvGAELnWQ _yt5NtxQ5EeuH6dvGAELnWQ _yt5NuBQ5EeuH6dvGAELnWQ _yt5NuRQ5EeuH6dvGAELnWQ _yt50wRQ5EeuH6dvGAELnWQ">
             <methodElementProperty xmi:id="_epYBAA8LEeumtrSpFaw_Qw" name="me_edited" value="true"/>
           </contentElements>
         </childPackages>
@@ -365,11 +405,11 @@
             <methodElementProperty xmi:id="_Mn2RYN9MEeqLEKK0pLdylg" name="me_edited" value="true"/>
             <presentation xmi:id="-W4hUpwW0iSQuQMYT_Sy_Tw" href="uma://-W4hUpwW0iSQuQMYT_Sy_Tw#-W4hUpwW0iSQuQMYT_Sy_Tw"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_nT3BAN9MEeqLEKK0pLdylg" name="p3.1_identify_user_profiles" guid="_nT3BAN9MEeqLEKK0pLdylg" presentationName="P3.1 Identify User Profiles" guidelines="_sZXmkPiYEeq-GNGrt9WlHQ" performedBy="_hzIF8N6UEeq0GuRSVkmB_Q" mandatoryInput="_ucpuAPLnEeqG-7knepYd9A _xvUTYPifEeq-GNGrt9WlHQ" output="_ucpuAPLnEeqG-7knepYd9A">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_nT3BAN9MEeqLEKK0pLdylg" name="p3.1_identify_user_profiles" guid="_nT3BAN9MEeqLEKK0pLdylg" presentationName="P3.1 Identify User Profiles" guidelines="_sZXmkPiYEeq-GNGrt9WlHQ" performedBy="_hzIF8N6UEeq0GuRSVkmB_Q" mandatoryInput="_ucpuAPLnEeqG-7knepYd9A _qxbZcPLnEeqG-7knepYd9A" output="_ucpuAPLnEeqG-7knepYd9A">
             <methodElementProperty xmi:id="_uI93oN9MEeqLEKK0pLdylg" name="me_edited" value="true"/>
             <presentation xmi:id="-OXlfIil9QRbO8GEx_s15jg" href="uma://-OXlfIil9QRbO8GEx_s15jg#-OXlfIil9QRbO8GEx_s15jg"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_6IFVAN9MEeqLEKK0pLdylg" name="p3.2_identify_key_scenarios" guid="_6IFVAN9MEeqLEKK0pLdylg" presentationName="P3.2 Identify Key Scenarios" guidelines="_2nBGUPiYEeq-GNGrt9WlHQ" performedBy="_hzIF8N6UEeq0GuRSVkmB_Q" mandatoryInput="_ucpuAPLnEeqG-7knepYd9A _xvUTYPifEeq-GNGrt9WlHQ" output="_ucpuAPLnEeqG-7knepYd9A">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_6IFVAN9MEeqLEKK0pLdylg" name="p3.2_identify_key_scenarios" guid="_6IFVAN9MEeqLEKK0pLdylg" presentationName="P3.2 Identify Key Scenarios" guidelines="_2nBGUPiYEeq-GNGrt9WlHQ" performedBy="_hzIF8N6UEeq0GuRSVkmB_Q" mandatoryInput="_ucpuAPLnEeqG-7knepYd9A _qxbZcPLnEeqG-7knepYd9A" output="_ucpuAPLnEeqG-7knepYd9A">
             <methodElementProperty xmi:id="_BdkU0N9NEeqLEKK0pLdylg" name="me_edited" value="true"/>
             <presentation xmi:id="--KyO0TsfmY-2ygDgY8kaaw" href="uma://--KyO0TsfmY-2ygDgY8kaaw#--KyO0TsfmY-2ygDgY8kaaw"/>
           </contentElements>
@@ -377,11 +417,11 @@
             <methodElementProperty xmi:id="_QQunIN9NEeqLEKK0pLdylg" name="me_edited" value="true"/>
             <presentation xmi:id="-EnESlroi9R6lFHtGhhSjHg" href="uma://-EnESlroi9R6lFHtGhhSjHg#-EnESlroi9R6lFHtGhhSjHg"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_TDOj8N9NEeqLEKK0pLdylg" name="d5.1_establish_performance_metrics" guid="_TDOj8N9NEeqLEKK0pLdylg" presentationName="D5.1 Establish Performance Metrics" guidelines="_0NWKIPihEeq-GNGrt9WlHQ _xzpH0PihEeq-GNGrt9WlHQ" performedBy="_hzIF8N6UEeq0GuRSVkmB_Q" mandatoryInput="_ucpuAPLnEeqG-7knepYd9A _xvUTYPifEeq-GNGrt9WlHQ" output="_ucpuAPLnEeqG-7knepYd9A">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_TDOj8N9NEeqLEKK0pLdylg" name="d5.1_establish_performance_metrics" guid="_TDOj8N9NEeqLEKK0pLdylg" presentationName="D5.1 Establish Performance Metrics" guidelines="_0NWKIPihEeq-GNGrt9WlHQ _xzpH0PihEeq-GNGrt9WlHQ" performedBy="_hzIF8N6UEeq0GuRSVkmB_Q" mandatoryInput="_ucpuAPLnEeqG-7knepYd9A _qxbZcPLnEeqG-7knepYd9A" output="_ucpuAPLnEeqG-7knepYd9A">
             <methodElementProperty xmi:id="_UpuAoN9NEeqLEKK0pLdylg" name="me_edited" value="true"/>
             <presentation xmi:id="-3HCJIX2VCtJhrRDmP1ghqA" href="uma://-3HCJIX2VCtJhrRDmP1ghqA#-3HCJIX2VCtJhrRDmP1ghqA"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_i2N7kN9NEeqLEKK0pLdylg" name="d5.2_define_service_level_agreement" guid="_i2N7kN9NEeqLEKK0pLdylg" presentationName="D5.2 Define Service Level Agreement" guidelines="__O650PikEeq-GNGrt9WlHQ" performedBy="_hzIF8N6UEeq0GuRSVkmB_Q" mandatoryInput="_ucpuAPLnEeqG-7knepYd9A _xvUTYPifEeq-GNGrt9WlHQ" output="_qxbZcPLnEeqG-7knepYd9A">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_i2N7kN9NEeqLEKK0pLdylg" name="d5.2_define_service_level_agreement" guid="_i2N7kN9NEeqLEKK0pLdylg" presentationName="D5.2 Define Service Level Agreement" guidelines="__O650PikEeq-GNGrt9WlHQ" performedBy="_hzIF8N6UEeq0GuRSVkmB_Q" mandatoryInput="_ucpuAPLnEeqG-7knepYd9A _qxbZcPLnEeqG-7knepYd9A" output="_qxbZcPLnEeqG-7knepYd9A">
             <methodElementProperty xmi:id="_ljZ6kN9NEeqLEKK0pLdylg" name="me_edited" value="true"/>
             <presentation xmi:id="-F6QNi2teQJcjTS233t_Flw" href="uma://-F6QNi2teQJcjTS233t_Flw#-F6QNi2teQJcjTS233t_Flw"/>
           </contentElements>
@@ -405,7 +445,7 @@
             <methodElementProperty xmi:id="_RuvyYN9PEeqLEKK0pLdylg" name="me_edited" value="true"/>
             <presentation xmi:id="-MlJiPb6VYbshmuhyEX98FQ" href="uma://-MlJiPb6VYbshmuhyEX98FQ#-MlJiPb6VYbshmuhyEX98FQ"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_UsyQ0N9PEeqLEKK0pLdylg" name="d3.1_plan_and_design_workload" guid="_UsyQ0N9PEeqLEKK0pLdylg" presentationName="D3.1 Plan and Design Workload" guidelines="_kDx7APigEeq-GNGrt9WlHQ _cX-F4PigEeq-GNGrt9WlHQ _goFQMPigEeq-GNGrt9WlHQ _ibDCoPigEeq-GNGrt9WlHQ" performedBy="_GjH4cN6UEeq0GuRSVkmB_Q" mandatoryInput="_ucpuAPLnEeqG-7knepYd9A _xvUTYPifEeq-GNGrt9WlHQ" output="_ucpuAPLnEeqG-7knepYd9A">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_UsyQ0N9PEeqLEKK0pLdylg" name="d3.1_plan_and_design_workload" guid="_UsyQ0N9PEeqLEKK0pLdylg" presentationName="D3.1 Plan and Design Workload" guidelines="_kDx7APigEeq-GNGrt9WlHQ _cX-F4PigEeq-GNGrt9WlHQ _goFQMPigEeq-GNGrt9WlHQ _ibDCoPigEeq-GNGrt9WlHQ" performedBy="_GjH4cN6UEeq0GuRSVkmB_Q" mandatoryInput="_ucpuAPLnEeqG-7knepYd9A _qxbZcPLnEeqG-7knepYd9A" output="_ucpuAPLnEeqG-7knepYd9A">
             <methodElementProperty xmi:id="_YtSR0N9PEeqLEKK0pLdylg" name="me_edited" value="true"/>
             <presentation xmi:id="-kZzaSb_ndEBV4gXpPPhePg" href="uma://-kZzaSb_ndEBV4gXpPPhePg#-kZzaSb_ndEBV4gXpPPhePg"/>
           </contentElements>
@@ -425,7 +465,7 @@
             <methodElementProperty xmi:id="_HRabYN9QEeqLEKK0pLdylg" name="me_edited" value="true"/>
             <presentation xmi:id="-7aps6s6aqR24irlUYFRy0Q" href="uma://-7aps6s6aqR24irlUYFRy0Q#-7aps6s6aqR24irlUYFRy0Q"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_S2oyEN9QEeqLEKK0pLdylg" name="e2.1_execute_performance_scenarios" guid="_S2oyEN9QEeqLEKK0pLdylg" presentationName="E2.1 Execute Performance Scenarios" conceptsAndPapers="_LP5i8PimEeq-GNGrt9WlHQ _NKdyMPimEeq-GNGrt9WlHQ" performedBy="_3xKDgN6UEeq0GuRSVkmB_Q" mandatoryInput="_ucpuAPLnEeqG-7knepYd9A _xvUTYPifEeq-GNGrt9WlHQ" output="_ucpuAPLnEeqG-7knepYd9A">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_S2oyEN9QEeqLEKK0pLdylg" name="e2.1_execute_performance_scenarios" guid="_S2oyEN9QEeqLEKK0pLdylg" presentationName="E2.1 Execute Performance Scenarios" conceptsAndPapers="_LP5i8PimEeq-GNGrt9WlHQ _NKdyMPimEeq-GNGrt9WlHQ" performedBy="_3xKDgN6UEeq0GuRSVkmB_Q" mandatoryInput="_ucpuAPLnEeqG-7knepYd9A _qxbZcPLnEeqG-7knepYd9A" output="_ucpuAPLnEeqG-7knepYd9A">
             <methodElementProperty xmi:id="_aFIZEN9QEeqLEKK0pLdylg" name="me_edited" value="true"/>
             <presentation xmi:id="-rdBwlCk8KnyKjzb6fClD8A" href="uma://-rdBwlCk8KnyKjzb6fClD8A#-rdBwlCk8KnyKjzb6fClD8A"/>
           </contentElements>
@@ -433,11 +473,11 @@
             <methodElementProperty xmi:id="_eSpiYN9QEeqLEKK0pLdylg" name="me_edited" value="true"/>
             <presentation xmi:id="-J5Ilzaz2yp9qAH2eEqErzw" href="uma://-J5Ilzaz2yp9qAH2eEqErzw#-J5Ilzaz2yp9qAH2eEqErzw"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_rYrkgN9QEeqLEKK0pLdylg" name="c3.1_configure_ramps" guid="_rYrkgN9QEeqLEKK0pLdylg" presentationName="C3.1 Configure Ramps" conceptsAndPapers="_NKdyMPimEeq-GNGrt9WlHQ _LP5i8PimEeq-GNGrt9WlHQ" guidelines="__6tzYPilEeq-GNGrt9WlHQ _9keUwPilEeq-GNGrt9WlHQ _CE390PimEeq-GNGrt9WlHQ" performedBy="_3xKDgN6UEeq0GuRSVkmB_Q" mandatoryInput="_ucpuAPLnEeqG-7knepYd9A _xvUTYPifEeq-GNGrt9WlHQ" output="_ucpuAPLnEeqG-7knepYd9A">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_rYrkgN9QEeqLEKK0pLdylg" name="c3.1_configure_ramps" guid="_rYrkgN9QEeqLEKK0pLdylg" presentationName="C3.1 Configure Ramps" conceptsAndPapers="_NKdyMPimEeq-GNGrt9WlHQ _LP5i8PimEeq-GNGrt9WlHQ" guidelines="__6tzYPilEeq-GNGrt9WlHQ _9keUwPilEeq-GNGrt9WlHQ _CE390PimEeq-GNGrt9WlHQ" performedBy="_3xKDgN6UEeq0GuRSVkmB_Q" mandatoryInput="_ucpuAPLnEeqG-7knepYd9A _qxbZcPLnEeqG-7knepYd9A" output="_ucpuAPLnEeqG-7knepYd9A">
             <methodElementProperty xmi:id="_0UUp0N9QEeqLEKK0pLdylg" name="me_edited" value="true"/>
             <presentation xmi:id="-jPOaKf-DfpVga5B1y7pPrA" href="uma://-jPOaKf-DfpVga5B1y7pPrA#-jPOaKf-DfpVga5B1y7pPrA"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Mb0cAN9WEeqLEKK0pLdylg" name="c4.1_prepare_the_test_environment" guid="_Mb0cAN9WEeqLEKK0pLdylg" presentationName="C4.1 Prepare the Test Environment" conceptsAndPapers="_2bKTQPimEeq-GNGrt9WlHQ" performedBy="_3xKDgN6UEeq0GuRSVkmB_Q" mandatoryInput="_ucpuAPLnEeqG-7knepYd9A _xvUTYPifEeq-GNGrt9WlHQ" output="_ucpuAPLnEeqG-7knepYd9A">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Mb0cAN9WEeqLEKK0pLdylg" name="c4.1_prepare_the_test_environment" guid="_Mb0cAN9WEeqLEKK0pLdylg" presentationName="C4.1 Prepare the Test Environment" conceptsAndPapers="_2bKTQPimEeq-GNGrt9WlHQ" performedBy="_3xKDgN6UEeq0GuRSVkmB_Q" mandatoryInput="_ucpuAPLnEeqG-7knepYd9A _qxbZcPLnEeqG-7knepYd9A" output="_ucpuAPLnEeqG-7knepYd9A">
             <methodElementProperty xmi:id="_VqtNcN9WEeqLEKK0pLdylg" name="me_edited" value="true"/>
             <presentation xmi:id="-X4xJ_DRxlnkm56590d-Lcw" href="uma://-X4xJ_DRxlnkm56590d-Lcw#-X4xJ_DRxlnkm56590d-Lcw"/>
           </contentElements>
@@ -445,7 +485,7 @@
             <methodElementProperty xmi:id="_eFGm4N9WEeqLEKK0pLdylg" name="me_edited" value="true"/>
             <presentation xmi:id="-nD--2K7J0-Tl-2_Qr3sfGw" href="uma://-nD--2K7J0-Tl-2_Qr3sfGw#-nD--2K7J0-Tl-2_Qr3sfGw"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_lUGkMN9WEeqLEKK0pLdylg" name="m5.1_monitor_the_performance_metrics" guid="_lUGkMN9WEeqLEKK0pLdylg" presentationName="M5.1 Monitor the Performance Metrics" conceptsAndPapers="_NKdyMPimEeq-GNGrt9WlHQ" performedBy="_3xKDgN6UEeq0GuRSVkmB_Q" mandatoryInput="_ucpuAPLnEeqG-7knepYd9A _xvUTYPifEeq-GNGrt9WlHQ" output="_8UDisPLnEeqG-7knepYd9A">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_lUGkMN9WEeqLEKK0pLdylg" name="m5.1_monitor_the_performance_metrics" guid="_lUGkMN9WEeqLEKK0pLdylg" presentationName="M5.1 Monitor the Performance Metrics" conceptsAndPapers="_NKdyMPimEeq-GNGrt9WlHQ" performedBy="_3xKDgN6UEeq0GuRSVkmB_Q" mandatoryInput="_ucpuAPLnEeqG-7knepYd9A _qxbZcPLnEeqG-7knepYd9A" output="_8UDisPLnEeqG-7knepYd9A">
             <methodElementProperty xmi:id="_tdwy8N9WEeqLEKK0pLdylg" name="me_edited" value="true"/>
             <presentation xmi:id="-DHYjtpoOnxJP19Jtthhkmg" href="uma://-DHYjtpoOnxJP19Jtthhkmg#-DHYjtpoOnxJP19Jtthhkmg"/>
           </contentElements>
@@ -616,24 +656,28 @@
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_Dj7PYPieEeq-GNGrt9WlHQ" name="scripting" guid="_Dj7PYPieEeq-GNGrt9WlHQ" presentationName="Scripting">
             <methodElementProperty xmi:id="_FMwOYPieEeq-GNGrt9WlHQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-AyZK7rarOQK1F0WIjCH36A" href="uma://-AyZK7rarOQK1F0WIjCH36A#-AyZK7rarOQK1F0WIjCH36A"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_FxRQsPieEeq-GNGrt9WlHQ" name="capture_and_replay" guid="_FxRQsPieEeq-GNGrt9WlHQ" presentationName="Capture and Replay">
             <methodElementProperty xmi:id="_Gwq4MPieEeq-GNGrt9WlHQ" name="me_edited" value="true"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_IB0-EPieEeq-GNGrt9WlHQ" name="model-based_testing" guid="_IB0-EPieEeq-GNGrt9WlHQ" presentationName="Model-Based Testing">
             <methodElementProperty xmi:id="_I-IOQPieEeq-GNGrt9WlHQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-rDyCVqJ2KzGAGU39ZQzWVw" href="uma://-rDyCVqJ2KzGAGU39ZQzWVw#-rDyCVqJ2KzGAGU39ZQzWVw"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_xvUTYPifEeq-GNGrt9WlHQ" name="performance_testing_requirements" guid="_xvUTYPifEeq-GNGrt9WlHQ" presentationName="Performance Testing Requirements">
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_xvUTYPifEeq-GNGrt9WlHQ" name="performance_testing_requirements(naoUsado)" guid="_xvUTYPifEeq-GNGrt9WlHQ" presentationName="Performance Testing Requirements">
             <methodElementProperty xmi:id="_zeOsQPifEeq-GNGrt9WlHQ" name="me_edited" value="true"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_cX-F4PigEeq-GNGrt9WlHQ" name="load_testing" guid="_cX-F4PigEeq-GNGrt9WlHQ" presentationName="Load Testing">
             <methodElementProperty xmi:id="_eMTKQPigEeq-GNGrt9WlHQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-WTXX8LmVAw3meTOyjM3f4g" href="uma://-WTXX8LmVAw3meTOyjM3f4g#-WTXX8LmVAw3meTOyjM3f4g"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_goFQMPigEeq-GNGrt9WlHQ" name="soak_testing" guid="_goFQMPigEeq-GNGrt9WlHQ" presentationName="Soak Testing">
             <methodElementProperty xmi:id="_hR_v4PigEeq-GNGrt9WlHQ" name="me_edited" value="true"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_ibDCoPigEeq-GNGrt9WlHQ" name="stress_testing" guid="_ibDCoPigEeq-GNGrt9WlHQ" presentationName="Stress Testing">
             <methodElementProperty xmi:id="_jP3KwPigEeq-GNGrt9WlHQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-tIdJjWKEaAitRjprp5MCPg" href="uma://-tIdJjWKEaAitRjprp5MCPg#-tIdJjWKEaAitRjprp5MCPg"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_kDx7APigEeq-GNGrt9WlHQ" name="endurance_testing" guid="_kDx7APigEeq-GNGrt9WlHQ" presentationName="Endurance Testing">
             <methodElementProperty xmi:id="_k5dl0PigEeq-GNGrt9WlHQ" name="me_edited" value="true"/>
@@ -729,9 +773,11 @@
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_4995wAlmEeuAzJP-a8r2ww" name="spike_testing" guid="_4995wAlmEeuAzJP-a8r2ww" presentationName="Spike Testing">
             <methodElementProperty xmi:id="_QYg4oAlnEeuAzJP-a8r2ww" name="me_edited" value="true"/>
+            <presentation xmi:id="-Lm74q0yGwbLNNpARh4Slfw" href="uma://-Lm74q0yGwbLNNpARh4Slfw#-Lm74q0yGwbLNNpARh4Slfw"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_6mldYAlmEeuAzJP-a8r2ww" name="volume_testing" guid="_6mldYAlmEeuAzJP-a8r2ww" presentationName="Volume Testing">
             <methodElementProperty xmi:id="_QYXHoAlnEeuAzJP-a8r2ww" name="me_edited" value="true"/>
+            <presentation xmi:id="-K8w-0nQ4NV3Yf-rXB8qS8g" href="uma://-K8w-0nQ4NV3Yf-rXB8qS8g#-K8w-0nQ4NV3Yf-rXB8qS8g"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_mQUKkA7GEeugmYidgb9k7g" name="canopus_a_domain-specific_language_for_modeling_performance_testing" guid="_mQUKkA7GEeugmYidgb9k7g" presentationName="Canopus: A Domain-Specific Language for Modeling Performance Testing">
             <methodElementProperty xmi:id="_RHIU4A7HEeugmYidgb9k7g" name="me_edited" value="true"/>
@@ -752,6 +798,142 @@
           <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_3paAgA7KEeugmYidgb9k7g" name="the_future_of_software_performance_engineering" guid="_3paAgA7KEeugmYidgb9k7g" presentationName="The Future of Software Performance Engineering">
             <methodElementProperty xmi:id="_9Q08AA7KEeugmYidgb9k7g" name="me_edited" value="true"/>
             <presentation xmi:id="-GgoTbE_D_Ra6rWg4jStOjw" href="uma://-GgoTbE_D_Ra6rWg4jStOjw#-GgoTbE_D_Ra6rWg4jStOjw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_aHE64BQ3EeuH6dvGAELnWQ" name="a01" guid="_aHE64BQ3EeuH6dvGAELnWQ" presentationName="An evaluation of the middleware's impact on the performance of object oriented distributed systems">
+            <methodElementProperty xmi:id="_dUTE0BQ3EeuH6dvGAELnWQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-hDtFVfG6_sote2LUsDIFfw" href="uma://-hDtFVfG6_sote2LUsDIFfw#-hDtFVfG6_sote2LUsDIFfw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_v7MHcBQ3EeuH6dvGAELnWQ" name="a02" guid="_v7MHcBQ3EeuH6dvGAELnWQ" presentationName="A new method on automated web application testing">
+            <methodElementProperty xmi:id="_hoWegBQ4EeuH6dvGAELnWQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-XQSv8Hu-kZvwPnKpLmsMIw" href="uma://-XQSv8Hu-kZvwPnKpLmsMIw#-XQSv8Hu-kZvwPnKpLmsMIw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_x2170BQ3EeuH6dvGAELnWQ" name="a03" guid="_x2170BQ3EeuH6dvGAELnWQ" presentationName="End to End Performance Modeling of Web Server Architectures">
+            <methodElementProperty xmi:id="_hnQSUBQ4EeuH6dvGAELnWQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-g8Zbpcf6V7NCCI-a1YPskw" href="uma://-g8Zbpcf6V7NCCI-a1YPskw#-g8Zbpcf6V7NCCI-a1YPskw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_zbwEIBQ3EeuH6dvGAELnWQ" name="a04" guid="_zbwEIBQ3EeuH6dvGAELnWQ" presentationName="SWORD: Scalable and Flexible Workload Generator for Distributed Data Processing Systems">
+            <methodElementProperty xmi:id="_hmHp4BQ4EeuH6dvGAELnWQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-hZsRcO3K7nRiueeRDjNxsQ" href="uma://-hZsRcO3K7nRiueeRDjNxsQ#-hZsRcO3K7nRiueeRDjNxsQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_1MXtMBQ3EeuH6dvGAELnWQ" name="a05" guid="_1MXtMBQ3EeuH6dvGAELnWQ" presentationName="Automated Game Testing with ICARUS: Intelligent Completion of Adventure Riddles via Unsupervised Solving">
+            <methodElementProperty xmi:id="_hk_BcBQ4EeuH6dvGAELnWQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-yhbe72eZq1REH_elSiCrQw" href="uma://-yhbe72eZq1REH_elSiCrQw#-yhbe72eZq1REH_elSiCrQw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_2zT10BQ3EeuH6dvGAELnWQ" name="a06" guid="_2zT10BQ3EeuH6dvGAELnWQ" presentationName="Automated Replay and Failure Detection for Web Applications">
+            <methodElementProperty xmi:id="_hjyuoBQ4EeuH6dvGAELnWQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-93UDRjW09r3xMKrCGrFUyg" href="uma://-93UDRjW09r3xMKrCGrFUyg#-93UDRjW09r3xMKrCGrFUyg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_4lQUkBQ3EeuH6dvGAELnWQ" name="a07" guid="_4lQUkBQ3EeuH6dvGAELnWQ" presentationName="A web performance modeling process based on the methodology of learning from data">
+            <methodElementProperty xmi:id="_hipfIBQ4EeuH6dvGAELnWQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-tCp2EOdlc4c4BWbfYV0YfA" href="uma://-tCp2EOdlc4c4BWbfYV0YfA#-tCp2EOdlc4c4BWbfYV0YfA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_6GVs0BQ3EeuH6dvGAELnWQ" name="a08" guid="_6GVs0BQ3EeuH6dvGAELnWQ" presentationName="An adaptive performance modeling approach to performance profiling of multi-service web applications">
+            <methodElementProperty xmi:id="_hhOi0BQ4EeuH6dvGAELnWQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-ElPHgbQDzj7M8DhfEiME8Q" href="uma://-ElPHgbQDzj7M8DhfEiME8Q#-ElPHgbQDzj7M8DhfEiME8Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_7ycpUBQ3EeuH6dvGAELnWQ" name="a09" guid="_7ycpUBQ3EeuH6dvGAELnWQ" presentationName="Evaluating Capture and Replay and Model-based Performance Testing Tools: An Empirical Comparison">
+            <methodElementProperty xmi:id="_hf5tIBQ4EeuH6dvGAELnWQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-sg6eBEAXarf6_Uz74fkZGw" href="uma://-sg6eBEAXarf6_Uz74fkZGw#-sg6eBEAXarf6_Uz74fkZGw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_9bhf8BQ3EeuH6dvGAELnWQ" name="a10" guid="_9bhf8BQ3EeuH6dvGAELnWQ" presentationName="A Machine Learning Approach to Generate Test Oracles">
+            <methodElementProperty xmi:id="_heNrEBQ4EeuH6dvGAELnWQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-nLLnLtYfvTwgKcEvZS9wVQ" href="uma://-nLLnLtYfvTwgKcEvZS9wVQ#-nLLnLtYfvTwgKcEvZS9wVQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_FQLIABQ4EeuH6dvGAELnWQ" name="a11" guid="_FQLIABQ4EeuH6dvGAELnWQ" presentationName="Distributed Testing System for Web Service Based on Crowdsourcing">
+            <methodElementProperty xmi:id="_hc41YBQ4EeuH6dvGAELnWQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-MwdgrBrPn1LQxh8UZWWQvQ" href="uma://-MwdgrBrPn1LQxh8UZWWQvQ#-MwdgrBrPn1LQxh8UZWWQvQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_INSZYBQ4EeuH6dvGAELnWQ" name="a12" guid="_INSZYBQ4EeuH6dvGAELnWQ" presentationName="An empirical performance study on PSIM">
+            <methodElementProperty xmi:id="_hboRIBQ4EeuH6dvGAELnWQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-qVCZTZUDEg_xPf-1XgVtqQ" href="uma://-qVCZTZUDEg_xPf-1XgVtqQ#-qVCZTZUDEg_xPf-1XgVtqQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_KXkfoBQ4EeuH6dvGAELnWQ" name="a13" guid="_KXkfoBQ4EeuH6dvGAELnWQ" presentationName="A best practice for performance engineering">
+            <methodElementProperty xmi:id="_hZ8PEBQ4EeuH6dvGAELnWQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-m6mds8egaU7OkP-pq2ix5g" href="uma://-m6mds8egaU7OkP-pq2ix5g#-m6mds8egaU7OkP-pq2ix5g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_iR5x0BQ4EeuH6dvGAELnWQ" name="a14" guid="_iR5x0BQ4EeuH6dvGAELnWQ" presentationName="Web testing using UML environment models">
+            <methodElementProperty xmi:id="_r6u30BQ5EeuH6dvGAELnWQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-W3x9kKcSvm4T2PLyAmNkZg" href="uma://-W3x9kKcSvm4T2PLyAmNkZg#-W3x9kKcSvm4T2PLyAmNkZg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_khOJEBQ4EeuH6dvGAELnWQ" name="a15" guid="_khOJEBQ4EeuH6dvGAELnWQ" presentationName="Guided Mutation Testing for JavaScript Web Applications">
+            <methodElementProperty xmi:id="_r8FisBQ5EeuH6dvGAELnWQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-h-w2ijsYHX5oKwO9XlNRQA" href="uma://-h-w2ijsYHX5oKwO9XlNRQA#-h-w2ijsYHX5oKwO9XlNRQA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_ml59oBQ4EeuH6dvGAELnWQ" name="a16" guid="_ml59oBQ4EeuH6dvGAELnWQ" presentationName="Generating quantitative test cases for probabilistic timed Web Service Composition">
+            <methodElementProperty xmi:id="_r9lXgBQ5EeuH6dvGAELnWQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-xKamC2vHyP0TjoNf-jSv-A" href="uma://-xKamC2vHyP0TjoNf-jSv-A#-xKamC2vHyP0TjoNf-jSv-A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_ovOakBQ4EeuH6dvGAELnWQ" name="a17" guid="_ovOakBQ4EeuH6dvGAELnWQ" presentationName="Performance analysis of the OGSA-DAI 3.0 software">
+            <methodElementProperty xmi:id="_r--eoBQ5EeuH6dvGAELnWQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-WHamdQRPJhjKMyhf0Kw88A" href="uma://-WHamdQRPJhjKMyhf0Kw88A#-WHamdQRPJhjKMyhf0Kw88A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_rIdi0BQ4EeuH6dvGAELnWQ" name="a18" guid="_rIdi0BQ4EeuH6dvGAELnWQ" presentationName="Prototype of high performance scalable advertising server with local memory storage and centralised processing">
+            <methodElementProperty xmi:id="_sARfIBQ5EeuH6dvGAELnWQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-CONkaTkkzU0omi-W7gbQtg" href="uma://-CONkaTkkzU0omi-W7gbQtg#-CONkaTkkzU0omi-W7gbQtg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_tINNABQ4EeuH6dvGAELnWQ" name="a19" guid="_tINNABQ4EeuH6dvGAELnWQ" presentationName="SALSA: QoS-aware load balancing for autonomous service brokering">
+            <methodElementProperty xmi:id="_sBlGsBQ5EeuH6dvGAELnWQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-NrkZ1Fjr4-I-fXw9tN6ruA" href="uma://-NrkZ1Fjr4-I-fXw9tN6ruA#-NrkZ1Fjr4-I-fXw9tN6ruA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_vY7ScBQ4EeuH6dvGAELnWQ" name="a20" guid="_vY7ScBQ4EeuH6dvGAELnWQ" presentationName="Challenges and Techniques for Testing of Big Data">
+            <methodElementProperty xmi:id="_sDEUcBQ5EeuH6dvGAELnWQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-oVLo4azqFAKL6TSe4hTUjw" href="uma://-oVLo4azqFAKL6TSe4hTUjw#-oVLo4azqFAKL6TSe4hTUjw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_z4rbQBQ4EeuH6dvGAELnWQ" name="a21" guid="_z4rbQBQ4EeuH6dvGAELnWQ" presentationName="HammerCloud: A stress testing system for distributed analysis">
+            <methodElementProperty xmi:id="_r5dFcBQ5EeuH6dvGAELnWQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-cQgZa1D5z2mVbo7jYWH_gw" href="uma://-cQgZa1D5z2mVbo7jYWH_gw#-cQgZa1D5z2mVbo7jYWH_gw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_ECeJUBQ5EeuH6dvGAELnWQ" name="a22" guid="_ECeJUBQ5EeuH6dvGAELnWQ" presentationName="An Architecture to Automate Performance Tests on Microservices">
+            <methodElementProperty xmi:id="_r3U-gBQ5EeuH6dvGAELnWQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-s4MPDwlZMiXGwlAq-yZpQg" href="uma://-s4MPDwlZMiXGwlAq-yZpQg#-s4MPDwlZMiXGwlAq-yZpQg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_XphBYBQ5EeuH6dvGAELnWQ" name="a23" guid="_XphBYBQ5EeuH6dvGAELnWQ" presentationName="Towards Practical Modeling of Web Applications and Generating Tests">
+            <methodElementProperty xmi:id="_r4D-UBQ5EeuH6dvGAELnWQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-Eeguy5DrZOof0hqzOu4brQ" href="uma://-Eeguy5DrZOof0hqzOu4brQ#-Eeguy5DrZOof0hqzOu4brQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_yt4moBQ5EeuH6dvGAELnWQ" name="a24" guid="_yt4moBQ5EeuH6dvGAELnWQ" presentationName="Comparison of performance of Web services, WS-Security, RMI, and RMI–SSL">
+            <methodElementProperty xmi:id="_6SVPgBQ5EeuH6dvGAELnWQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-gCu60pp8FweQdtrr_7NVGA" href="uma://-gCu60pp8FweQdtrr_7NVGA#-gCu60pp8FweQdtrr_7NVGA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_yt5NsBQ5EeuH6dvGAELnWQ" name="a25" guid="_yt5NsBQ5EeuH6dvGAELnWQ" presentationName="URMG: Enhanced CBMG-based method for automatically testing web applications in the cloud">
+            <methodElementProperty xmi:id="_6SVPgRQ5EeuH6dvGAELnWQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-ng3JDDNhb_J6YQNWrr6xyw" href="uma://-ng3JDDNhb_J6YQNWrr6xyw#-ng3JDDNhb_J6YQNWrr6xyw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_yt5NsRQ5EeuH6dvGAELnWQ" name="a26" guid="_yt5NsRQ5EeuH6dvGAELnWQ" presentationName="Improving the performance of client Web object retrieval">
+            <methodElementProperty xmi:id="_6SVPghQ5EeuH6dvGAELnWQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-uZeWhONscNRGRyPqCEApWg" href="uma://-uZeWhONscNRGRyPqCEApWg#-uZeWhONscNRGRyPqCEApWg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_yt5NshQ5EeuH6dvGAELnWQ" name="a27" guid="_yt5NshQ5EeuH6dvGAELnWQ" presentationName="Observing Effort Factors in the Test Design {\&amp;} Implementation Process of Web Services Projects">
+            <methodElementProperty xmi:id="_6SVPgxQ5EeuH6dvGAELnWQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-tqqYVD4__UpF3swJv93tUg" href="uma://-tqqYVD4__UpF3swJv93tUg#-tqqYVD4__UpF3swJv93tUg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_yt5NsxQ5EeuH6dvGAELnWQ" name="a28" guid="_yt5NsxQ5EeuH6dvGAELnWQ" presentationName="Integrated approach to web performance testing: A practitioner's guide">
+            <methodElementProperty xmi:id="_6SVPhBQ5EeuH6dvGAELnWQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-PlfTiuYFbdMlUryHoV0o1g" href="uma://-PlfTiuYFbdMlUryHoV0o1g#-PlfTiuYFbdMlUryHoV0o1g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_yt5NtBQ5EeuH6dvGAELnWQ" name="a29" guid="_yt5NtBQ5EeuH6dvGAELnWQ" presentationName="Multi-level logs based web performance evaluation and analysis">
+            <methodElementProperty xmi:id="_6SVPhRQ5EeuH6dvGAELnWQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-oE2Ts_SjZBW60gKaeUreJQ" href="uma://-oE2Ts_SjZBW60gKaeUreJQ#-oE2Ts_SjZBW60gKaeUreJQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_yt5NtRQ5EeuH6dvGAELnWQ" name="a30" guid="_yt5NtRQ5EeuH6dvGAELnWQ" presentationName="A relational approach to monitoring complex systems">
+            <methodElementProperty xmi:id="_6SVPhhQ5EeuH6dvGAELnWQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-FU-GONk03wFAdYf4z5owcA" href="uma://-FU-GONk03wFAdYf4z5owcA#-FU-GONk03wFAdYf4z5owcA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_yt5NtxQ5EeuH6dvGAELnWQ" name="a32" guid="_yt5NtxQ5EeuH6dvGAELnWQ" presentationName="Performance testing analysis on web application: Study case student admission web system">
+            <methodElementProperty xmi:id="_6SVPiBQ5EeuH6dvGAELnWQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-MDyTC4-7e3jXaq6Bs2Lw0A" href="uma://-MDyTC4-7e3jXaq6Bs2Lw0A#-MDyTC4-7e3jXaq6Bs2Lw0A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_yt5NuBQ5EeuH6dvGAELnWQ" name="a33" guid="_yt5NuBQ5EeuH6dvGAELnWQ" presentationName="Performance testing as a service for web applications">
+            <methodElementProperty xmi:id="_6SV2kBQ5EeuH6dvGAELnWQ" name="me_edited" value="true"/>
+            <presentation xmi:id="--bLvFY5dY5b_OHlWcYZLIw" href="uma://--bLvFY5dY5b_OHlWcYZLIw#--bLvFY5dY5b_OHlWcYZLIw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_yt5NuRQ5EeuH6dvGAELnWQ" name="a34" guid="_yt5NuRQ5EeuH6dvGAELnWQ" presentationName="IVRIDIO: Design of a software testing framework to provide Test-first Performance as a service">
+            <methodElementProperty xmi:id="_6SV2kRQ5EeuH6dvGAELnWQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-05Jacz6yeeZFGAWt3QsKjQ" href="uma://-05Jacz6yeeZFGAWt3QsKjQ#-05Jacz6yeeZFGAWt3QsKjQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_yt50wRQ5EeuH6dvGAELnWQ" name="a36" guid="_yt50wRQ5EeuH6dvGAELnWQ" presentationName="PLeTsPerf-A Model-Based Performance Testing Tool">
+            <methodElementProperty xmi:id="_6SV2kxQ5EeuH6dvGAELnWQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-oHgvP7st6ZRmo_AxKKLqYw" href="uma://-oHgvP7st6ZRmo_AxKKLqYw#-oHgvP7st6ZRmo_AxKKLqYw"/>
           </contentElements>
         </childPackages>
       </childPackages>

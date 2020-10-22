@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-yhbe72eZq1REH_elSiCrQw" name="new_supporting_material,_1MXtMBQ3EeuH6dvGAELnWQ" guid="-yhbe72eZq1REH_elSiCrQw">
+  <mainDescription>&lt;p>&#xD;
+    With ICARUS, we introduce a framework for autonomous video game playing, testing, and bug reporting. We report on the&#xD;
+    design rationale, the practical implementation, and its use in game development industry projects. The underlying&#xD;
+    solving mechanic is based on discrete reinforcement learning in a dualistic fashion, encompassing volatile short-term&#xD;
+    memory as well as persistent long-term memory that spans across distinct game iterations. In combination with&#xD;
+    heuristics that reduce the search space and the possibility to employ pre-defined situation-dependent action choices,&#xD;
+    the system manages to traverse complete playthrough iterations in roughly the same amount of time that a professional&#xD;
+    game tester requires for a speedrun. The ICARUS project was developed at Daedalic Entertainment. The software can be&#xD;
+    used to generically run all adventure games built with the popular Visionaire Engine and is currently used for&#xD;
+    evaluating daily builds, for large-scale hardware compatibility and performance tests, as well as for semi-supervised&#xD;
+    quality assurance playthroughs. The supplementary video depicts real-time solving with active control and observation&#xD;
+    via a web control panel.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Authors: Pfau, Johannes and Smeddinck, Jan David and Malaka, Rainer&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Published in 2017&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    CHI PLAY '17 Extended Abstracts&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Link: &lt;a href=&quot;https://dl.acm.org/doi/10.1145/3130859.3131439&quot;>https://dl.acm.org/doi/10.1145/3130859.3131439&lt;/a>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>
