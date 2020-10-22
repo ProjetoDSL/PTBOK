@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-WvocWlV-_dyTJZfC88h5Qw" name="canopus_a_domain-specific_language_for_modeling_performance_testing,_mQUKkA7GEeugmYidgb9k7g" guid="-WvocWlV-_dyTJZfC88h5Qw" changeDate="2020-10-15T06:13:44.237-0300">
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-WvocWlV-_dyTJZfC88h5Qw" name="canopus_a_domain-specific_language_for_modeling_performance_testing,_mQUKkA7GEeugmYidgb9k7g" guid="-WvocWlV-_dyTJZfC88h5Qw" changeDate="2020-10-22T04:21:02.060-0300">
   <mainDescription>&lt;p>&#xD;
     Despite all the efforts to reduce the cost of the testing phase in software development, it is still one of the most&#xD;
     expensive phases. In order to continue to minimize those costs, in this paper, we propose a Domain-Specific Language&#xD;
@@ -26,9 +26,5 @@
     Link: &lt;a&#xD;
     href=&quot;https://www.semanticscholar.org/paper/Canopus%3A-A-Domain-Specific-Language-for-Modeling-Bernardino-Zorzo/efa0b805084498c3aa84cb116a10d56803935196&quot;>&#xD;
     https://www.semanticscholar.org/paper/Canopus%3A-A-Domain-Specific-Language-for-Modeling-Bernardino-Zorzo/efa0b805084498c3aa84cb116a10d56803935196&lt;/a>&#xD;
-&lt;/p>&#xD;
-&lt;p>&#xD;
-    &lt;br class=&quot;Apple-interchange-newline&quot; />&#xD;
-    &amp;nbsp;&#xD;
 &lt;/p></mainDescription>
 </org.eclipse.epf.uma:ContentDescription>

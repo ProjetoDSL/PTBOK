@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-s4MPDwlZMiXGwlAq-yZpQg" name="a22,_ECeJUBQ5EeuH6dvGAELnWQ" guid="-s4MPDwlZMiXGwlAq-yZpQg">
+  <mainDescription>&lt;p>&#xD;
+    The microservices architecture provides a new approach to develop applications. As opposed to monolithic applications,&#xD;
+    in which the application comprises a single software artifact, an application based on the microservices architecture&#xD;
+    is composed by a set of services, each one designed to perform a single and well-defined task. These services allow the&#xD;
+    development team to decouple several parts of the application using different frameworks, languages and hardware for&#xD;
+    each part of the system. One of the drawbacks for adopting the microservices architecture to develop applications is&#xD;
+    testability. In a single application test boundaries can be more easily established and tend to be more stable as the&#xD;
+    application evolves, while with microservices we can have a set of hundreds of services that operate together and are&#xD;
+    prone to change more rapidly. Each one of these services needs to be tested and updated as the service changes. In&#xD;
+    addition, the different characteristics of these services such as languages, frameworks or the used infrastructure have&#xD;
+    to be considered in the testing phase. Performance tests are applied to assure that a particular software complies with&#xD;
+    a set of non-functional requirements such as throughput and response time. These metrics are important to ensure that&#xD;
+    business constraints are respected and to help finding performance bottlenecks. In this paper, we present a new&#xD;
+    approach to allow the performance tests to be executed in an automated way, with each microservice providing a test&#xD;
+    specification that is used to perform tests. Along with the architecture, we also provide a framework that implements&#xD;
+    some key concepts of this architecture. This framework is available as an open source project1.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Authors: {de Camargo, Andre André} and Salvadori, Ivan and Mello, Ronaldo dos Santos and Siqueira, Frank and {Dos&#xD;
+    Santos Mello}, Ronaldo and Salvadori, Ivan and Siqueira, Frank}&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Published in 2016&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Proceedings of the 18th International Conference on Information Integration and Web-based Applications and Services&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Link: &lt;a href=&quot;https://doi.org/10.1145/3011141.3011179&quot;>https://doi.org/10.1145/3011141.3011179&lt;/a>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

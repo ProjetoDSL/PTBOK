@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-WTXX8LmVAw3meTOyjM3f4g" name="load_testing,_cX-F4PigEeq-GNGrt9WlHQ" guid="-WTXX8LmVAw3meTOyjM3f4g" changeDate="2020-10-22T03:36:25.149-0300">
+  <mainDescription>A load is the amount of users that compete to increase the traffic of application. It is useful for determining the&#xD;
+breaking point and checking when bottlenecks begin to emerge.&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

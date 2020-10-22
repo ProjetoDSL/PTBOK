@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-g8Zbpcf6V7NCCI-a1YPskw" name="new_supporting_material,_x2170BQ3EeuH6dvGAELnWQ" guid="-g8Zbpcf6V7NCCI-a1YPskw">
+  <mainDescription>&lt;p>&#xD;
+    Web server performance in a distributed Object-Oriented (OO) environment is a complex interplay between a variety of&#xD;
+    factors (e.g., hardware platform, threading model, object scope model, server operating system, network bandwidth, disk&#xD;
+    file size, caching). In this paper, we present a model-based approach to Web Server performance evaluation in terms of&#xD;
+    an end-to-end queueing model implemented in a simulation tool. We have applied this model to Active Server Page (ASP)&#xD;
+    and Common Object Model (COM) technology in Microsoft's Internet Information Server and to the Java Server Page (JSP)&#xD;
+    and JavaBean technology in both IIS and Netscape Enterprise Server (NES). Our results indicate that for the ASP Script&#xD;
+    Engine, performance predictions from the simulation model matched the performance observed in a test environment.&#xD;
+    However, for the JSP Script Engine, the model predicted higher throughput than laboratory test results at high load.&#xD;
+    This result suggests that Web Server performance can be severely limited by a software bottleneck that causes requests&#xD;
+    to be serialized. This may cause a request to wait for some resource (i.e., a lock) as opposed to consuming CPU or&#xD;
+    memory. Implications of these results for Web Server performance in general are discussed&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Authors: Hadharan, R and Ehrlich, W K and Cura, D and Reeser, P K&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Published in 2000&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    SIGMETRICS Perform. Eval. Rev., ACM&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Link: &lt;a href=&quot;https://dl.acm.org/doi/10.1145/362883.581258&quot;>https://dl.acm.org/doi/10.1145/362883.581258&lt;/a>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

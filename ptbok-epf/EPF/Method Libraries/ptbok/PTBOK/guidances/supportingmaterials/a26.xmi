@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-uZeWhONscNRGRyPqCEApWg" name="a26,_yt5NsRQ5EeuH6dvGAELnWQ" guid="-uZeWhONscNRGRyPqCEApWg">
+  <mainDescription>&lt;p>&#xD;
+    The growth of the Internet has generated Web pages that are rich in media and that incur significant rendering latency&#xD;
+    when accessed through slow communication channels. The technique of Web-object prefetching can potentially expedite the&#xD;
+    presentation of Web pages by utilizing the current Web page's view time to acquire the Web objects of likely future Web&#xD;
+    pages. The performance of the Web object prefetcher is contingent on the predictability of future Web pages and quickly&#xD;
+    determining which Web objects to prefetch during the limited view time interval of the current Web page. The proposed&#xD;
+    Markov–Knapsack method uses an approach that combines a Multi-Markov Web-application centric prefetch model with a&#xD;
+    Knapsack Web object selector to enhance Web page rendering performance. The Markov Web page model ascertains the most&#xD;
+    likely next Web page set based on the current Web page and the Web object Knapsack selector determines the premium Web&#xD;
+    objects to request from these Web pages. The results presented in the paper show that the proposed methods can be&#xD;
+    effective in improving a Web browser cache-hit percentage while significantly lowering Web page rendering latency.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Authors: Pons, Alexander P&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Published in 2005&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Journal of Systems and Software&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Link: &lt;a href=&quot;https://doi.org/10.1016/j.jss.2004.02.030&quot;>https://doi.org/10.1016/j.jss.2004.02.030&lt;/a>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

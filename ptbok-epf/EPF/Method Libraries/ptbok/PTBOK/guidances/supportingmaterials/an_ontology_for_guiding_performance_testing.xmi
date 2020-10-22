@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-O1LyEHkHW4k38Of9b7jqKg" name="new_supporting_material,_jNHC0A7HEeugmYidgb9k7g" guid="-O1LyEHkHW4k38Of9b7jqKg" changeDate="2020-10-15T06:21:14.760-0300">
   <mainDescription>&lt;p>&#xD;
-    &lt;span&#xD;
-    style=&quot;FONT-SIZE: 15px; FONT-FAMILY: sans-serif; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: 400; COLOR: rgb(51,51,51); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
     Software test is a technique to obtain information about software systems quality. Performance test is a type of&#xD;
     software test that aims at evaluating software performance at a given load scenario, but it requires specialized&#xD;
     knowledge about tools, activities and metrics of the domain. Since ontology is a promising knowledge representation&#xD;
@@ -10,7 +8,7 @@
     fields of software testing and software performance. Also, to investigate this issue from a practical perspective, it&#xD;
     was developed an ontology for representing the core knowledge of performance testing. This paper presents the ontology&#xD;
     and compare it with related ones. Then, semantic technologies are explored to demonstrate the practical feasibility of&#xD;
-    developing ontology-based applications for assisting testers with performance test planning and management.&lt;/span>&#xD;
+    developing ontology-based applications for assisting testers with performance test planning and management.&#xD;
 &lt;/p>&#xD;
 &lt;p>&#xD;
     Authors: Artur Freitas, Renata Vieira&#xD;

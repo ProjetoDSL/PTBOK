@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-tIdJjWKEaAitRjprp5MCPg" name="stress_testing,_ibDCoPigEeq-GNGrt9WlHQ" guid="-tIdJjWKEaAitRjprp5MCPg" changeDate="2020-10-22T03:37:10.851-0300">
+  <mainDescription>A stress testing is similar to load testing. However, stress testing aims to check how the application handles its limit.&#xD;
+Therefore, it helps researches to identify the load that the system can handle before breaking down or degrading&#xD;
+quickly.&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

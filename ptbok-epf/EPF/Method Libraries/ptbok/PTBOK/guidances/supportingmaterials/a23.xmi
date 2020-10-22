@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Eeguy5DrZOof0hqzOu4brQ" name="a23,_XphBYBQ5EeuH6dvGAELnWQ" guid="-Eeguy5DrZOof0hqzOu4brQ">
+  <mainDescription>&lt;p>&#xD;
+    As Web applications evolve, their structures become more and more complex. Web browsers may influence on the&#xD;
+    correctness of the Web applications, and Web browser's interactions can cause further complications of Web application.&#xD;
+    Existing navigation models are static ones on the whole. Users' navigation paths are all determined on stage of model&#xD;
+    design. Web browser interactions have not been taken into account make them different from practical navigation in Web&#xD;
+    applications. Moreover, as Web applications evolve and new technologies emerge, adaptive navigation was wildly&#xD;
+    incorporated in current Web applications. It aggravates the complexity of Web navigations. In this paper, a practical&#xD;
+    approach to modeling of Web applications and generating tests was pro-posed. And special care is taken on Web browser's&#xD;
+    interactions and adaptive navigation during the user's traversal within hypermedia space. At last, test generation is&#xD;
+    given out which satisfy the corresponding coverage.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Authors: Chen, S and Miao, H and Song, B and Chen, Y&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Published in 2010&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    2010 4th IEEE International Symposium on Theoretical Aspects of Software Engineering&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Link: &lt;a href=&quot;https://doi.org/10.1109/TASE.2010.25&quot;>https://doi.org/10.1109/TASE.2010.25&lt;/a>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

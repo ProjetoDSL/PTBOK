@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ElPHgbQDzj7M8DhfEiME8Q" name="a08,_6GVs0BQ3EeuH6dvGAELnWQ" guid="-ElPHgbQDzj7M8DhfEiME8Q">
+  <mainDescription>&lt;p>&#xD;
+    The performance of multi-service applications are known to be determined mainly by the interactions between workload&#xD;
+    and behaviors of the application. The change of workload can lead to dynamic service demands on system resources, and&#xD;
+    even cause dynamic bottleneck switches between services inside the application. In this paper, to profiling&#xD;
+    large-applications' behaviors, and help to locate the bottleneck and optimize their capacities, we focus on modeling&#xD;
+    their behavior according to the workload. Although this topic has been well studied at testing stage, building such a&#xD;
+    model under live workload remains a challenge, because the workload and application behaviors are time-varying. To&#xD;
+    tackle this problem, we propose an adaptive approach to build and rebuild performance model according to log files.&#xD;
+    Both the user behaviors and their corresponding internal service relations are modeled, and the CPU time consumed by&#xD;
+    each service is also obtained through Kalman filter, which can &quot;absorb&quot; some level of noise in real-world data. Our&#xD;
+    model can explain the behaviors of both the whole application and the individual services, and provide valuable&#xD;
+    information for capacity planning and bottleneck detection. At last, our work is evaluated with TPC-W bench mark, whose&#xD;
+    results can demonstrate the effectiveness of our approach.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Authors: Huang, X and Wang, W and Zhang, W and Wei, J and Huang, T&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Published in 2011&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Proceedings - International Computer Software and Applications Conference&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Link: &lt;a href=&quot;https://doi.org/10.1109/COMPSAC.2011.10&quot;>https://doi.org/10.1109/COMPSAC.2011.10&lt;/a>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-sg6eBEAXarf6_Uz74fkZGw" name="new_supporting_material,_7ycpUBQ3EeuH6dvGAELnWQ" guid="-sg6eBEAXarf6_Uz74fkZGw">
+  <mainDescription>&lt;p>&#xD;
+    [Context] A variety of testing tools have been developed to support and automate software performance testing&#xD;
+    activities. These tools may use different techniques, such as Model-Based Testing (MBT) or Capture and Replay (CR).&#xD;
+    [Goal] For software companies, it is important to evaluate such tools w.r.t. the effort required for creating test&#xD;
+    artifacts using them; despite its importance, there are few empirical studies comparing performance testing tools,&#xD;
+    specially tools developed with different approaches. [Method] We are conducting experimental studies to provide&#xD;
+    evidence about the required effort to use CR-based tools and MBT tools. In this paper, we present our first results,&#xD;
+    evaluating the effort (time spent) when using LoadRunner and Visual Studio CR-based tools, and the PLeTsPerf MBT tool&#xD;
+    to create performance test scripts and scenarios to test Web applications, in the context of a collaboration project&#xD;
+    between Software Engineering Research Center at PUCRS and a technological laboratory of a global IT company. [Results]&#xD;
+    Our results indicate that, for simple testing tasks, the effort of using a CR-based tool was lower than using an MBT&#xD;
+    tool, but as the testing complexity increases tasks, the advantage of using MBT grows significantly. [Conclusions] To&#xD;
+    conclude, we discuss the lessons we learned from the design, operation, and analysis of our empirical experiment.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Authors: Rodrigues, Elder M and Saad, Rodrigo S and Oliveira, Flavio M and Costa, Leandro T and Bernardino, Maicon and&#xD;
+    Zorzo, Avelino F&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Published in 2014&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Proceedings of the 8th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement, ACM&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Link: &lt;a href=&quot;https://dl.acm.org/doi/10.1145/2652524.2652587&quot;>https://dl.acm.org/doi/10.1145/2652524.2652587&lt;/a>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

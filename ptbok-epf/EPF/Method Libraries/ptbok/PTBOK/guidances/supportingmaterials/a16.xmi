@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-xKamC2vHyP0TjoNf-jSv-A" name="a16,_ml59oBQ4EeuH6dvGAELnWQ" guid="-xKamC2vHyP0TjoNf-jSv-A">
+  <mainDescription>&lt;p>&#xD;
+    The environment of enterprise applications is characterized by frequently changing market demands, time-to-market&#xD;
+    pressure and fierce competition. To seamlessly integrate complex computing activities, Web Service Composition (WSC)&#xD;
+    has been regarded as an emerging E-Commerce solution to support interoperable machine-to-machine business interactions&#xD;
+    over network. To guarantee the composite Web service can be successfully produced, testing is a preferred validation&#xD;
+    technique to efficiently verify the correctness of functional and nonfunctional requirements of WSC behaviors. BPEL4WS&#xD;
+    is a high level and semi-formal abstract description language for WSC orchestration. Manually generating test cases&#xD;
+    from BPEL4WS is tedious, time-consuming, and error prone. Thus, the automated test case generation plays a critical&#xD;
+    role in all the phases of Web service life cycle. Considering the uncertain environment, an extended WSC model, namely&#xD;
+    probabilistic timed interface automata for Web service (PTIA4WS), is pro-posed to transform and extend BPEL4WS with&#xD;
+    regard to the stochastic and time-related behaviors. Based on PTIA4WS model, we propose an approach for generating&#xD;
+    quantitative test cases from counterexamples of violated PTCTL formulae using coverage criterions. After that, timed&#xD;
+    test case with fastest execution response time and probabilistic test case with maximal execution success rate are&#xD;
+    discussed. The series of experiments show that our method gains better performance than traditional methods.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Authors: Gao, H and Li, Y&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Published in 2011&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Proceedings - 2011 IEEE Asia-Pacific Services Computing Conference, APSCC 2011&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Link: &lt;a href=&quot;https://doi.org/10.1109/APSCC.2011.13&quot;>https://doi.org/10.1109/APSCC.2011.13&lt;/a>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

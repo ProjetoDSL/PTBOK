@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-CONkaTkkzU0omi-W7gbQtg" name="a18,_rIdi0BQ4EeuH6dvGAELnWQ" guid="-CONkaTkkzU0omi-W7gbQtg">
+  <mainDescription>&lt;p>&#xD;
+    Advertising servers play an important role in the entire contrary e-business. In this paper an approach for a high&#xD;
+    performance ad server is proposed. A prototype of a new architecture is presented: system achieving scalability by&#xD;
+    multiplication of ad servers with separate local memory storage and single managing server for entire cluster of those,&#xD;
+    providing data processing and ads preparation. The paper includes benchmarks of alternate technologies possible at the&#xD;
+    design stage, results of the stress tests of the prototype, as well as the data from its performance with real web&#xD;
+    traffic. Limitations of the proposed solution are discussed. Although the prototype is created on a specific platform,&#xD;
+    all technologies used are widely available or have replacements on other platforms, granting generality to the proposed&#xD;
+    solution.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Author: Marszalkowski, Jakub&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Published in 2012&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in&#xD;
+    Bioinformatics)&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Link: &lt;a href=&quot;https://doi.org/10.1007/978-3-642-32808-4_18&quot;>https://doi.org/10.1007/978-3-642-32808-4_18&lt;/a>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-h-w2ijsYHX5oKwO9XlNRQA" name="a15,_khOJEBQ4EeuH6dvGAELnWQ" guid="-h-w2ijsYHX5oKwO9XlNRQA">
+  <mainDescription>&lt;p>&#xD;
+    Mutation testing is an effective test adequacy assessment technique. However, there is a high computational cost in&#xD;
+    executing the test suite against a potentially large pool of generated mutants. Moreover, there is much effort involved&#xD;
+    in filtering out equivalent mutants. Prior work has mainly focused on detecting equivalent mutants after the mutation&#xD;
+    generation phase, which is computationally expensive and has limited efficiency. We propose an algorithm to select&#xD;
+    variables and branches for mutation as well as a metric, called FunctionRank, to rank functions according to their&#xD;
+    relative importance from the application's behaviour point of view. We present a technique that leverages static and&#xD;
+    dynamic analysis to guide the mutation generation process towards parts of the code that are more likely to influence&#xD;
+    the program's output. Further, we focus on the JavaScript language, and propose a set of mutation operators that are&#xD;
+    specific to Web applications. We implement our approach in a tool called MUTANDIS. The results of our empirical&#xD;
+    evaluation show that (1) more than 93 percent of generated mutants are non-equivalent, and (2) more than 75 percent of&#xD;
+    the surviving non-equivalent mutants are in the top 30 percent of the ranked functions.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Authors: Mirshokraie, S and Mesbah, A and Pattabiraman, K&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Published in 2015&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    IEEE Transactions on Software Engineering&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Link: &lt;a href=&quot;https://doi.org/10.1109/TSE.2014.2371458&quot;>https://doi.org/10.1109/TSE.2014.2371458&lt;/a>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

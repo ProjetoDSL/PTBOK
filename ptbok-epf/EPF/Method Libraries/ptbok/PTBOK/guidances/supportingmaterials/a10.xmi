@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-nLLnLtYfvTwgKcEvZS9wVQ" name="a10,_9bhf8BQ3EeuH6dvGAELnWQ" guid="-nLLnLtYfvTwgKcEvZS9wVQ">
+  <mainDescription>&lt;p>&#xD;
+    One of the essential activities for quality assurance in software development is the software testing. Studies report&#xD;
+    that Software Testing is one of the most costly activities in the development process, can reach up to 50 percent of&#xD;
+    its total cost. One of the great challenges of conducting software testing is related to the automation of a mechanism&#xD;
+    known as &quot;test oracle&quot;. This work presents an approach based on machine learning (ML) for automation of the test oracle&#xD;
+    mechanism in software. The approach uses historical usage data from an application captured by inserting a capture&#xD;
+    component into the application under test. These data go through a Knowledge Discovery in Database step and are then&#xD;
+    used for training to generate an oracle suitable for the application under test. Four experiments were executed with&#xD;
+    web applications to evaluate the proposed approach. The first and second experiments were performed with a fictitious&#xD;
+    application, with faults inserted randomly in the first experiment, inserted by a developer in the second one and&#xD;
+    inserted by mutation tests in third one. The fourth experiment was carried out with a large real application in order&#xD;
+    to assure the results of the preliminary experiments. The experiments presented indications of the suitability of the&#xD;
+    approach to the solution of the problem.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Authors: Braga, Ronyérison and Neto, Pedro Santos and Rabêlo, Ricardo and Santiago, José and Souza, Matheus&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Published in 2018&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Proceedings of the XXXII Brazilian Symposium on Software Engineering, ACM&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Link: &lt;a href=&quot;https://dl.acm.org/doi/10.1145/3266237.3266273&quot;>https://dl.acm.org/doi/10.1145/3266237.3266273&lt;/a>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

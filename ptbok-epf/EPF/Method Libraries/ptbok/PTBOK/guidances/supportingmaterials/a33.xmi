@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="--bLvFY5dY5b_OHlWcYZLIw" name="a33,_yt5NuBQ5EeuH6dvGAELnWQ" guid="--bLvFY5dY5b_OHlWcYZLIw">
+  <mainDescription>&lt;p>&#xD;
+    Software testing is a vital activity that is undertaken during software engineering life cycle to ensure software&#xD;
+    quality and reliability. Performance testing is a type of software testing that is done to shows how web application&#xD;
+    behaves under a certain workload. Cloud computing as an emerging technology can be used in the field of software&#xD;
+    engineering to provide cloud testing in order to overcome all deficiencies of conventional testing by leveraging cloud&#xD;
+    computing resources. As a result, testing-as-a-service (TaaS) is introduced as a service model that performs all&#xD;
+    testing activities in fully automated manner, on demand with a pay-for use basis. Moreover, TaaS increases testing&#xD;
+    efficiency and reduces time and cost required for testing. In this paper, performance TaaS framework for web&#xD;
+    applications is introduced which provides all performance testing activities including automatic test case generation&#xD;
+    and test execution. In addition, the proposed framework addresses many issues as: maximize resource utilization and&#xD;
+    continuous monitoring to ensure system reliability.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Authors: Ali, Amira and Badr, Nagwa&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Published in 2015&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    2015 IEEE 7th International Conference on Intelligent Computing and Information Systems, ICICIS 2015&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Link: &lt;a href=&quot;https://doi.org/10.1109/IntelCIS.2015.7397245&quot;>https://doi.org/10.1109/IntelCIS.2015.7397245&lt;/a>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

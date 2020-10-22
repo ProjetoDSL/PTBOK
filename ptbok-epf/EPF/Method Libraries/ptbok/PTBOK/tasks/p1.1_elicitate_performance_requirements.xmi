@@ -12,7 +12,7 @@
     height=&quot;428&quot; />&#xD;
 &lt;/p>&#xD;
 &lt;br /></mainDescription>
-  <sections xmi:id="_HBE8YPlGEeqs7dCaAbkb9w" name="Gather performance testing info (SUT, env, business, risks)" guid="_HBE8YPlGEeqs7dCaAbkb9w"/>
-  <sections xmi:id="_KrIMQPlGEeqs7dCaAbkb9w" name="Compile performance testing info" guid="_KrIMQPlGEeqs7dCaAbkb9w"/>
-  <sections xmi:id="_NEug4PlGEeqs7dCaAbkb9w" name="Update Performance Testing Requirements Specification" guid="_NEug4PlGEeqs7dCaAbkb9w"/>
+  <sections xmi:id="_HBE8YPlGEeqs7dCaAbkb9w" name="Gathering performance testing info (SUT, env, business, risks)" guid="_HBE8YPlGEeqs7dCaAbkb9w"/>
+  <sections xmi:id="_KrIMQPlGEeqs7dCaAbkb9w" name="Compiling performance testing info" guid="_KrIMQPlGEeqs7dCaAbkb9w"/>
+  <sections xmi:id="_NEug4PlGEeqs7dCaAbkb9w" name="Updating Performance Testing Requirements Specification" guid="_NEug4PlGEeqs7dCaAbkb9w"/>
 </org.eclipse.epf.uma:TaskDescription>

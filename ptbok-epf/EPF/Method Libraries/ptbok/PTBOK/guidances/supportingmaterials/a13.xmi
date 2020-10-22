@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-m6mds8egaU7OkP-pq2ix5g" name="a13,_KXkfoBQ4EeuH6dvGAELnWQ" guid="-m6mds8egaU7OkP-pq2ix5g" changeDate="2020-10-22T11:48:23.197-0300">
+  <mainDescription>&lt;p>&#xD;
+    The design and development of telecommunications software products require continuous attention to issues of&#xD;
+    performance and capacity, both of which are important requirements for the products that Lucent produces. The Software&#xD;
+    Technology Center (STC) in Bell Labs Advanced Technologies has defined performance-engineering best practices that help&#xD;
+    a project meet the performance and capacity requirements for its product. In this paper we describe these practices,&#xD;
+    which have been employed in Lucent for many years and on numerous projects. We also provide a detailed description of&#xD;
+    the role of the performance engineer, which is essential to these best practices. &amp;copy; 2003 Lucent Technologies Inc.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Authors: Hanmer, Robert S and Letourneau, John P&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Published in 2003&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Bell Labs technical journal&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Link: &lt;a href=&quot;https://doi.org/10.1002/bltj.10076&quot;>https://doi.org/10.1002/bltj.10076&lt;/a>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

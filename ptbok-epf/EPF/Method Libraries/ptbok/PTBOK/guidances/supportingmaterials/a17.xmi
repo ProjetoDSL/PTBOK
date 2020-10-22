@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-WHamdQRPJhjKMyhf0Kw88A" name="a17,_ovOakBQ4EeuH6dvGAELnWQ" guid="-WHamdQRPJhjKMyhf0Kw88A">
+  <mainDescription>&lt;p>&#xD;
+    OGSA-DAI provides an extensible Web service- based framework that allows data resources to be incorporated into grid&#xD;
+    fabrics. The current OGSA- DAI release (OGSA-DAI GT 3.0), published in Sep. 2007, is a complete rewrite of its former&#xD;
+    version. In this paper we describe the performance of some key components. Under the predefined profiling environment,&#xD;
+    approach and tools, we conduct profiling from four perspectives: activity and resource performance, data query process&#xD;
+    performance, database connection and the pressure test. The profiling results would provide guides for the developers&#xD;
+    to make amendments in their future release, and for users to choose appropriate usages.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Authors: Kun, W and Yuejian, X and Sanli, L and Xiaoying, W&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Published in 2008&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Proceedings - International Conference on Information Technology: New Generations, ITNG 2008&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Link: &lt;a href=&quot;https://doi.org/10.1109/ITNG.2008.91&quot;>https://doi.org/10.1109/ITNG.2008.91&lt;/a>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

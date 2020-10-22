@@ -15,7 +15,7 @@
     height=&quot;428&quot; />&#xD;
 &lt;/p>&#xD;
 &lt;br /></mainDescription>
-  <sections xmi:id="_lAMPAPiXEeq-GNGrt9WlHQ" name="Extract Design inputs" guid="_lAMPAPiXEeq-GNGrt9WlHQ">
+  <sections xmi:id="_lAMPAPiXEeq-GNGrt9WlHQ" name="To extract Design inputs" guid="_lAMPAPiXEeq-GNGrt9WlHQ">
     <sectionDescription>&lt;ol>&#xD;
     &lt;li>&#xD;
         Objectives;&#xD;
@@ -25,5 +25,5 @@
     &lt;/li>&#xD;
 &lt;/ol></sectionDescription>
   </sections>
-  <sections xmi:id="_sGh_kPiXEeq-GNGrt9WlHQ" name="Create Performance Testing Plan" guid="_sGh_kPiXEeq-GNGrt9WlHQ"/>
+  <sections xmi:id="_sGh_kPiXEeq-GNGrt9WlHQ" name="To create Performance Testing Plan" guid="_sGh_kPiXEeq-GNGrt9WlHQ"/>
 </org.eclipse.epf.uma:TaskDescription>

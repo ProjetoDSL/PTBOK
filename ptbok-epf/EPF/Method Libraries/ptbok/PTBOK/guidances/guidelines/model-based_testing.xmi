@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-rDyCVqJ2KzGAGU39ZQzWVw" name="model-based_testing,_IB0-EPieEeq-GNGrt9WlHQ" guid="-rDyCVqJ2KzGAGU39ZQzWVw" changeDate="2020-10-22T04:16:40.136-0300">
+  <mainDescription>In this method, a software behavior under test is verified according to model predictions. It has some advantages such as&#xD;
+enabling the application of models for appropriate testing models creation, as well as its use in performance testing.</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-gCu60pp8FweQdtrr_7NVGA" name="a24,_yt4moBQ5EeuH6dvGAELnWQ" guid="-gCu60pp8FweQdtrr_7NVGA">
+  <mainDescription>&lt;p>&#xD;
+    This article analyses two most commonly used distributed models in Java: Web services and RMI (Remote Method&#xD;
+    Invocation). The paper focuses on regular (unsecured) as well as on secured variants, WS-Security and RMI–SSL. The most&#xD;
+    important functional differences are identified and the performance on two operating systems (Windows and Linux) is&#xD;
+    compared. Sources of performance differences related to the architecture and implementation are identified. The&#xD;
+    overheads related to the usage of security and the influences of JCE (Java Cryptography Extension) security providers&#xD;
+    on the performance of secured remote invocations are identified. Finally, the impact of distributed models on design&#xD;
+    and implementation of distributed applications is identified and guidelines for improving distributed application&#xD;
+    performance in design and implementation stage are provided. The paper contributes to the understanding of functional&#xD;
+    and performance related differences between Web services and RMI and their secure variants, WS-Security and RMI–SSL.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Authors: Juric, Matjaz B and Rozman, Ivan and Brumen, Bostjan and Colnaric, Matjaz and Hericko, Marjan&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Published in 2006&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Journal of Systems and Software&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Link: &lt;a href=&quot;https://doi.org/10.1016/j.jss.2005.08.006&quot;>https://doi.org/10.1016/j.jss.2005.08.006&lt;/a>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-93UDRjW09r3xMKrCGrFUyg" name="new_supporting_material,_2zT10BQ3EeuH6dvGAELnWQ" guid="-93UDRjW09r3xMKrCGrFUyg">
+  <mainDescription>&lt;p>&#xD;
+    User-session-based testing of web applications gathers user sessions to create and continually update test suites based&#xD;
+    on real user input in the field. To support this approach during maintenance and beta testing phases, we have built an&#xD;
+    automated framework for testing web-based software that focuses on scalability and evolving the test suite&#xD;
+    automatically as the application's operational profile changes. This paper reports on the automation of the replay and&#xD;
+    oracle components for web applications, which pose issues beyond those in the equivalent testing steps for traditional,&#xD;
+    stand-alone applications. Concurrency, nondeterminism, dependence on persistent state and previous user sessions, a&#xD;
+    complex application infrastructure, and a large number of output formats necessitate developing different replay and&#xD;
+    oracle comparator operators, which have tradeoffs in fault detection effectiveness, precision of analysis, and&#xD;
+    efficiency. We have designed, implemented, and evaluated a set of automated replay techniques and oracle comparators&#xD;
+    for user-session-based testing of web applications. This paper describes the issues, algorithms, heuristics, and an&#xD;
+    experimental case study with user sessions for two web applications. From our results, we conclude that testers&#xD;
+    performing user-session-based testing should consider their expectations for program coverage and fault detection when&#xD;
+    choosing a replay and oracle technique.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Authors:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Published in 2005&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    ACM&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Link: &lt;a&#xD;
+    href=&quot;https://dl.acm.org/doi/abs/10.1145/1101908.1101947&quot;>https://dl.acm.org/doi/abs/10.1145/1101908.1101947&lt;/a>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>
