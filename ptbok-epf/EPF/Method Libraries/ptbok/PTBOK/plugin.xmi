@@ -159,6 +159,7 @@
     <resourceDescriptors xmi:id="__Hkt4BQ-EeuH6dvGAELnWQ" id="--bLvFY5dY5b_OHlWcYZLIw" uri="guidances/supportingmaterials/a33.xmi"/>
     <resourceDescriptors xmi:id="__HspsBQ-EeuH6dvGAELnWQ" id="-05Jacz6yeeZFGAWt3QsKjQ" uri="guidances/supportingmaterials/a34.xmi"/>
     <resourceDescriptors xmi:id="__H8hUBQ-EeuH6dvGAELnWQ" id="-oHgvP7st6ZRmo_AxKKLqYw" uri="guidances/supportingmaterials/a36.xmi"/>
+    <resourceDescriptors xmi:id="_qiyngBmqEeuDZfobjJr-1w" id="-3WmgojoP63c5hdE8tVVIdQ" uri="guidances/guidelines/endurance_testing.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_EJQ_4D3vEem07NBMeZObjA" name="PTBOK" guid="_EJQ_4D3vEem07NBMeZObjA">
     <ownedRules xmi:id="_treisLlJEemt5oQZSu_gkA" name="wpState" guid="_treisLlJEemt5oQZSu_gkA" body="Template"/>
@@ -681,6 +682,7 @@
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_kDx7APigEeq-GNGrt9WlHQ" name="endurance_testing" guid="_kDx7APigEeq-GNGrt9WlHQ" presentationName="Endurance Testing">
             <methodElementProperty xmi:id="_k5dl0PigEeq-GNGrt9WlHQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-3WmgojoP63c5hdE8tVVIdQ" href="uma://-3WmgojoP63c5hdE8tVVIdQ#-3WmgojoP63c5hdE8tVVIdQ"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_xzpH0PihEeq-GNGrt9WlHQ" name="sut_metrics" guid="_xzpH0PihEeq-GNGrt9WlHQ" presentationName="SUT Metrics" briefDescription="- System Resources&#xD;&#xA;          - Memory&#xD;&#xA;          - Processor&#xD;&#xA;          - Disk &#xD;&#xA;          - Network&#xD;&#xA;- Runtime Technology&#xD;&#xA;- Database&#xD;&#xA;- Web Server&#xD;&#xA;- Virtualization Technology">
             <methodElementProperty xmi:id="_yjxkQPihEeq-GNGrt9WlHQ" name="me_edited" value="true"/>

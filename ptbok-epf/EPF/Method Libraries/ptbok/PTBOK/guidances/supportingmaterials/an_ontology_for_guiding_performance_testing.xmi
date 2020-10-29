@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-O1LyEHkHW4k38Of9b7jqKg" name="new_supporting_material,_jNHC0A7HEeugmYidgb9k7g" guid="-O1LyEHkHW4k38Of9b7jqKg" changeDate="2020-10-15T06:21:14.760-0300">
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-O1LyEHkHW4k38Of9b7jqKg" name="new_supporting_material,_jNHC0A7HEeugmYidgb9k7g" guid="-O1LyEHkHW4k38Of9b7jqKg" changeDate="2020-10-29T02:40:58.618-0300">
   <mainDescription>&lt;p>&#xD;
     Software test is a technique to obtain information about software systems quality. Performance test is a type of&#xD;
     software test that aims at evaluating software performance at a given load scenario, but it requires specialized&#xD;
@@ -23,7 +23,6 @@
     2014 IEEE/WIC/ACM International Joint Conferences on Web Intelligence (WI) and Intelligent Agent Technologies (IAT)&#xD;
 &lt;/p>&#xD;
 &lt;p>&#xD;
-    Link: &lt;a&#xD;
-    href=&quot;https://ieeexplore.ieee.org/abstract/document/6927571&quot;>https://ieeexplore.ieee.org/abstract/document/6927571&lt;/a>&#xD;
+    Link: &lt;a href=&quot;https://doi.org/10.1109/WI-IAT.2014.62&quot;>https://doi.org/10.1109/WI-IAT.2014.62&lt;/a>&#xD;
 &lt;/p></mainDescription>
 </org.eclipse.epf.uma:ContentDescription>
