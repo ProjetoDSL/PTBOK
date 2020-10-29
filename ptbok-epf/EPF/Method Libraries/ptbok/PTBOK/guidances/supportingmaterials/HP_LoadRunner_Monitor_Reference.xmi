@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-CdkisvhfovVkLyi6Ou5arg" name="HP_LoadRunner_Monitor_Reference,_EubAwBoVEeusPNrDuLsfKw" guid="-CdkisvhfovVkLyi6Ou5arg" changeDate="2020-10-22T04:23:21.012-0300">
+  <mainDescription>&lt;p>&#xD;
+    This guide describes how to set up the server monitor environment and configure LoadRunner monitors for monitoring data&#xD;
+    generated during a scenario. LoadRunner is HP’s tool for application performance testing. LoadRunner stresses your&#xD;
+    entire application to isolate and identify potential client, network, and server bottlenecks.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Authors: HP Development Company, L.P.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Published in 2008&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Link: &lt;a&#xD;
+    href=&quot;https://softwaresupport.softwaregrp.com/doc/KM433605?fileName=hp_man_LRMREF9.10_01_pdf.pdf&quot;>https://softwaresupport.softwaregrp.com/doc/KM433605?fileName=hp_man_LRMREF9.10_01_pdf.pdf&lt;/a>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>
