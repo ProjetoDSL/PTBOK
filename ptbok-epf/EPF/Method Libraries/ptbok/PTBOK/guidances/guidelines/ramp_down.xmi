@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-QuVYZdwyBa396kNqLove-w" name="ramp_down,__6tzYPilEeq-GNGrt9WlHQ" guid="-QuVYZdwyBa396kNqLove-w" changeDate="2020-11-03T19:36:13.507-0300">
+  <mainDescription>Ramp down during load test means during the end of peak hours, we tend to see a drop in concurrent users, ramp down would&#xD;
+be the speed in drop of users on time series plot. We should use the same strategy to load test our applications for best&#xD;
+results.</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

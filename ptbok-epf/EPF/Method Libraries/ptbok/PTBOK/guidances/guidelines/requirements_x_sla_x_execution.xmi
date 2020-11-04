@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-3zuVx0FOGkTFvW4Iy-dQPQ" name="requirements_x_sla_x_execution,_kpXTUPirEeq-GNGrt9WlHQ" guid="-3zuVx0FOGkTFvW4Iy-dQPQ" changeDate="2020-11-04T00:19:00.867-0300">
+  <mainDescription>This is a comparison made to verify that the metrics and results analyzed in the execution of the tests are in accordance&#xD;
+with the definitions of the SLA, also comparing with the requirements of the software. If the execution is not performed&#xD;
+correctly, the results obtained will not be in accordance with the problem.</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

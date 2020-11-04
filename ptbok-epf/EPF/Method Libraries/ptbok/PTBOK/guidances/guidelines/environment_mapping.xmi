@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-dJsV3mHkT5dO8zutTtSbhA" name="environment_mapping,_6-kf8PiZEeq-GNGrt9WlHQ" guid="-dJsV3mHkT5dO8zutTtSbhA" changeDate="2020-11-03T19:26:56.109-0300">
+  <mainDescription>Environment mapping is the process to analyze what will be needed to carry out the tests, what part of the system will be&#xD;
+performed, what hardware will be used, physical space, etc.</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

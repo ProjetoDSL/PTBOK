@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-f5pjDSnbBA472BvtaE4Svg" name="ramp_up,_9keUwPilEeq-GNGrt9WlHQ" guid="-f5pjDSnbBA472BvtaE4Svg" changeDate="2020-11-03T19:34:10.186-0300">
+  <mainDescription>&lt;p>&#xD;
+    Ramp up speed during load test is speed at which new concurrent users are trying to access the application. Usually in&#xD;
+    real time every application has its own peak hours where concurrent users tend to increase slowly before the start of&#xD;
+    peak time. The speed at which the peak traffic is touched on series of time is known as Ramp up speed of load test. Our&#xD;
+    goal always should be to match the ramp up speed with as close to the user pattern.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

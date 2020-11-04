@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-dQfet0pAWMwxjza8erDCqg" name="requirements_specification_techniques,_THB1EPiXEeq-GNGrt9WlHQ" guid="-dQfet0pAWMwxjza8erDCqg" changeDate="2020-11-04T00:00:49.279-0300">
+  <mainDescription>&lt;p>&#xD;
+    A software requirements specification (SRS) is a detailed description of a software system to be developed with its&#xD;
+    functional and non-functional requirements. The SRS is developed based the agreement between customer and contractors.&#xD;
+    It is possible to document requirements using formal methods such as mathematical specifications, graphical notations&#xD;
+    or modeling languages. However, in most cases more informal or semi-formal languages are used such as natural language&#xD;
+    and flow diagrams.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

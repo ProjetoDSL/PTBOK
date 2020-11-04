@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-bMZ1MhFXblACFCaslaSiKA" name="type_of_ramps,_CE390PimEeq-GNGrt9WlHQ" guid="-bMZ1MhFXblACFCaslaSiKA" changeDate="2020-11-03T19:47:21.682-0300">
+  <mainDescription>To make sure the application behaves well during such high traffic time, we need an extensive real world scenario load&#xD;
+test. Ramp up and ramp down helps us to test server auto scaling, as when server sees requests are on an increasing trend,&#xD;
+it spins up more servers to manage the load.</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

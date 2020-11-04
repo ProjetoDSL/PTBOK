@@ -171,6 +171,15 @@
     <resourceDescriptors xmi:id="_G8siUB5LEeuZmLQ1wYj4-g" id="-RbdUQA5UHSpwiaqlbo9Dow" uri="guidances/guidelines/user_profile_analysis.xmi"/>
     <resourceDescriptors xmi:id="_7Vh1cB5LEeuZmLQ1wYj4-g" id="-WB7pSRzxWZCAHDQ4aHXIPg" uri="guidances/guidelines/statistical_principles.xmi"/>
     <resourceDescriptors xmi:id="_sDpU4B5NEeuZmLQ1wYj4-g" id="-Lqg_Xacyt8yeUzyWmbtWeg" uri="guidances/guidelines/user_profiles_x_key_scenarios_mapping.xmi"/>
+    <resourceDescriptors xmi:id="_6EH_IB4jEeuALuHNwbHXuw" id="-dJsV3mHkT5dO8zutTtSbhA" uri="guidances/guidelines/environment_mapping.xmi"/>
+    <resourceDescriptors xmi:id="_6E2-8B4jEeuALuHNwbHXuw" id="-fkt_oFwWJ1d6ZCTrQpUrBQ" uri="guidances/guidelines/approaches_list.xmi"/>
+    <resourceDescriptors xmi:id="_zivgUB4kEeuALuHNwbHXuw" id="-f5pjDSnbBA472BvtaE4Svg" uri="guidances/guidelines/ramp_up.xmi"/>
+    <resourceDescriptors xmi:id="_AyzBIB4lEeuALuHNwbHXuw" id="-QuVYZdwyBa396kNqLove-w" uri="guidances/guidelines/ramp_down.xmi"/>
+    <resourceDescriptors xmi:id="_stRLYB4mEeuALuHNwbHXuw" id="-bMZ1MhFXblACFCaslaSiKA" uri="guidances/guidelines/type_of_ramps.xmi"/>
+    <resourceDescriptors xmi:id="_TXbhgB5HEeuALuHNwbHXuw" id="-GyFdKabZ6KMnoOVY_U8S4A" uri="guidances/guidelines/requirements_analysis_techniques.xmi"/>
+    <resourceDescriptors xmi:id="_FgNysB5KEeuALuHNwbHXuw" id="-dQfet0pAWMwxjza8erDCqg" uri="guidances/guidelines/requirements_specification_techniques.xmi"/>
+    <resourceDescriptors xmi:id="_AcWv4B5NEeuALuHNwbHXuw" id="-3zuVx0FOGkTFvW4Iy-dQPQ" uri="guidances/guidelines/requirements_x_sla_x_execution.xmi"/>
+    <resourceDescriptors xmi:id="_RC8usB5NEeuALuHNwbHXuw" id="-MwT_zm38Twd2lLBuf0qNQw" uri="guidances/guidelines/soak_testing.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_EJQ_4D3vEem07NBMeZObjA" name="PTBOK" guid="_EJQ_4D3vEem07NBMeZObjA">
     <ownedRules xmi:id="_treisLlJEemt5oQZSu_gkA" name="wpState" guid="_treisLlJEemt5oQZSu_gkA" body="Template"/>
@@ -631,9 +640,11 @@
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_64bN8PiUEeq-GNGrt9WlHQ" name="requirements_analysis_techniques" guid="_64bN8PiUEeq-GNGrt9WlHQ" presentationName="Requirements Analysis Techniques">
             <methodElementProperty xmi:id="_Ru6dgPiVEeq-GNGrt9WlHQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-GyFdKabZ6KMnoOVY_U8S4A" href="uma://-GyFdKabZ6KMnoOVY_U8S4A#-GyFdKabZ6KMnoOVY_U8S4A"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_THB1EPiXEeq-GNGrt9WlHQ" name="requirements_specification_techniques" guid="_THB1EPiXEeq-GNGrt9WlHQ" presentationName="Requirements Specification Techniques">
             <methodElementProperty xmi:id="_VZ6dsPiXEeq-GNGrt9WlHQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-dQfet0pAWMwxjza8erDCqg" href="uma://-dQfet0pAWMwxjza8erDCqg#-dQfet0pAWMwxjza8erDCqg"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_wHTGUPiXEeq-GNGrt9WlHQ" name="design_techniques" guid="_wHTGUPiXEeq-GNGrt9WlHQ" presentationName="Design Techniques">
             <methodElementProperty xmi:id="_xv9GMPiXEeq-GNGrt9WlHQ" name="me_edited" value="true"/>
@@ -653,12 +664,14 @@
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_6-kf8PiZEeq-GNGrt9WlHQ" name="environment_mapping" guid="_6-kf8PiZEeq-GNGrt9WlHQ" presentationName="Environment Mapping">
             <methodElementProperty xmi:id="_7yWtUPiZEeq-GNGrt9WlHQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-dJsV3mHkT5dO8zutTtSbhA" href="uma://-dJsV3mHkT5dO8zutTtSbhA#-dJsV3mHkT5dO8zutTtSbhA"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_qRCWMPiaEeq-GNGrt9WlHQ" name="_tools_list" guid="_qRCWMPiaEeq-GNGrt9WlHQ" presentationName="Tools List">
             <methodElementProperty xmi:id="_wca6YPiaEeq-GNGrt9WlHQ" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_x0PzgPibEeq-GNGrt9WlHQ" name="approaches_list" guid="_x0PzgPibEeq-GNGrt9WlHQ" presentationName="Approaches List" briefDescription="The list of approaches that are going to be used in the test. Defined in the Planning phase.">
+          <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_x0PzgPibEeq-GNGrt9WlHQ" name="approaches_list" guid="_x0PzgPibEeq-GNGrt9WlHQ" presentationName="Approaches List" briefDescription="The list of approaches that are going to be used in the test. Defined in the Planning phase." guidelines="_kDx7APigEeq-GNGrt9WlHQ _cX-F4PigEeq-GNGrt9WlHQ _4995wAlmEeuAzJP-a8r2ww _ibDCoPigEeq-GNGrt9WlHQ _goFQMPigEeq-GNGrt9WlHQ _6mldYAlmEeuAzJP-a8r2ww">
             <methodElementProperty xmi:id="_yrrx0PibEeq-GNGrt9WlHQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-fkt_oFwWJ1d6ZCTrQpUrBQ" href="uma://-fkt_oFwWJ1d6ZCTrQpUrBQ#-fkt_oFwWJ1d6ZCTrQpUrBQ"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_twX48PicEeq-GNGrt9WlHQ" name="random" guid="_twX48PicEeq-GNGrt9WlHQ" presentationName="Random" guidelines="_y3vbYPicEeq-GNGrt9WlHQ">
             <methodElementProperty xmi:id="_xW-MMPicEeq-GNGrt9WlHQ" name="me_edited" value="true"/>
@@ -692,6 +705,7 @@
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_goFQMPigEeq-GNGrt9WlHQ" name="soak_testing" guid="_goFQMPigEeq-GNGrt9WlHQ" presentationName="Soak Testing">
             <methodElementProperty xmi:id="_hR_v4PigEeq-GNGrt9WlHQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-MwT_zm38Twd2lLBuf0qNQw" href="uma://-MwT_zm38Twd2lLBuf0qNQw#-MwT_zm38Twd2lLBuf0qNQw"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_ibDCoPigEeq-GNGrt9WlHQ" name="stress_testing" guid="_ibDCoPigEeq-GNGrt9WlHQ" presentationName="Stress Testing">
             <methodElementProperty xmi:id="_jP3KwPigEeq-GNGrt9WlHQ" name="me_edited" value="true"/>
@@ -713,14 +727,17 @@
             <methodElementProperty xmi:id="_ANk6cPilEeq-GNGrt9WlHQ" name="me_edited" value="true"/>
             <presentation xmi:id="-sblFs1cBFJf2prMKCWTtww" href="uma://-sblFs1cBFJf2prMKCWTtww#-sblFs1cBFJf2prMKCWTtww"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_9keUwPilEeq-GNGrt9WlHQ" name="ramp_up" guid="_9keUwPilEeq-GNGrt9WlHQ" presentationName="Ramp up">
+          <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_9keUwPilEeq-GNGrt9WlHQ" name="ramp_up" guid="_9keUwPilEeq-GNGrt9WlHQ" presentationName="Ramp up" guidelines="__6tzYPilEeq-GNGrt9WlHQ _CE390PimEeq-GNGrt9WlHQ">
             <methodElementProperty xmi:id="_-RucUPilEeq-GNGrt9WlHQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-f5pjDSnbBA472BvtaE4Svg" href="uma://-f5pjDSnbBA472BvtaE4Svg#-f5pjDSnbBA472BvtaE4Svg"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="__6tzYPilEeq-GNGrt9WlHQ" name="ramp_down" guid="__6tzYPilEeq-GNGrt9WlHQ" presentationName="Ramp down">
+          <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="__6tzYPilEeq-GNGrt9WlHQ" name="ramp_down" guid="__6tzYPilEeq-GNGrt9WlHQ" presentationName="Ramp down" guidelines="_9keUwPilEeq-GNGrt9WlHQ _CE390PimEeq-GNGrt9WlHQ">
             <methodElementProperty xmi:id="_AsOv4PimEeq-GNGrt9WlHQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-QuVYZdwyBa396kNqLove-w" href="uma://-QuVYZdwyBa396kNqLove-w#-QuVYZdwyBa396kNqLove-w"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_CE390PimEeq-GNGrt9WlHQ" name="type_of_ramps" guid="_CE390PimEeq-GNGrt9WlHQ" presentationName="Type of Ramps">
+          <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_CE390PimEeq-GNGrt9WlHQ" name="type_of_ramps" guid="_CE390PimEeq-GNGrt9WlHQ" presentationName="Type of Ramps" guidelines="__6tzYPilEeq-GNGrt9WlHQ _9keUwPilEeq-GNGrt9WlHQ">
             <methodElementProperty xmi:id="_DR808PimEeq-GNGrt9WlHQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-bMZ1MhFXblACFCaslaSiKA" href="uma://-bMZ1MhFXblACFCaslaSiKA#-bMZ1MhFXblACFCaslaSiKA"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_LP5i8PimEeq-GNGrt9WlHQ" name="selected_method" guid="_LP5i8PimEeq-GNGrt9WlHQ" presentationName="Selected Method">
             <methodElementProperty xmi:id="_MV13UPimEeq-GNGrt9WlHQ" name="me_edited" value="true"/>
@@ -745,6 +762,7 @@
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_kpXTUPirEeq-GNGrt9WlHQ" name="requirements_x_sla_x_execution" guid="_kpXTUPirEeq-GNGrt9WlHQ" presentationName="Requirements x SLA x Execution">
             <methodElementProperty xmi:id="_m2c18PirEeq-GNGrt9WlHQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-3zuVx0FOGkTFvW4Iy-dQPQ" href="uma://-3zuVx0FOGkTFvW4Iy-dQPQ#-3zuVx0FOGkTFvW4Iy-dQPQ"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_jAueIPlGEeqs7dCaAbkb9w" name="software_requirements_elicitation_techniques" guid="_jAueIPlGEeqs7dCaAbkb9w" presentationName="Software Requirements Elicitation Techniques">
             <methodElementProperty xmi:id="_krQGQPlGEeqs7dCaAbkb9w" name="me_edited" value="true"/>

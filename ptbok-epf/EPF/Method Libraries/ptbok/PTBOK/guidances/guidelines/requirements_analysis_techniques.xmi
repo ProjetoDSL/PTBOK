@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-GyFdKabZ6KMnoOVY_U8S4A" name="requirements_analysis_techniques,_64bN8PiUEeq-GNGrt9WlHQ" guid="-GyFdKabZ6KMnoOVY_U8S4A" changeDate="2020-11-03T23:40:21.598-0300">
+  <mainDescription>&lt;p>&#xD;
+    Requirement analysis helps organizations to determine the actual needs of stakeholders. At the same time, it enables&#xD;
+    the development team to communicate with stakeholders in a language they understand (like charts, models, flow-charts,)&#xD;
+    instead of pages of text, some examples are listed below.&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;div class=&quot;TrT0Xe&quot;>&#xD;
+            Business process modeling notation (BPMN)&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li class=&quot;TrT0Xe&quot;>&#xD;
+        UML (Unified Modeling Language)&#xD;
+    &lt;/li>&#xD;
+    &lt;li class=&quot;TrT0Xe&quot;>&#xD;
+        Flowchart technique.&#xD;
+    &lt;/li>&#xD;
+    &lt;li class=&quot;TrT0Xe&quot;>&#xD;
+        Data flow diagram.&#xD;
+    &lt;/li>&#xD;
+    &lt;li class=&quot;TrT0Xe&quot;>&#xD;
+        Role Activity Diagrams (RAD)&#xD;
+    &lt;/li>&#xD;
+    &lt;li class=&quot;TrT0Xe&quot;>&#xD;
+        Gantt Charts.&#xD;
+    &lt;/li>&#xD;
+    &lt;li class=&quot;TrT0Xe&quot;>&#xD;
+        IDEF (Integrated Definition for Function Modeling)&#xD;
+    &lt;/li>&#xD;
+    &lt;li class=&quot;TrT0Xe&quot;>&#xD;
+        Gap Analysis.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

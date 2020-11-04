@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-MwT_zm38Twd2lLBuf0qNQw" name="soak_testing,_goFQMPigEeq-GNGrt9WlHQ" guid="-MwT_zm38Twd2lLBuf0qNQw" changeDate="2020-11-04T00:23:14.864-0300">
+  <mainDescription>&lt;p>&#xD;
+    Soak Testing is a type of non functional testing that is used to measure performance of a software application under a&#xD;
+    huge volume of load for an extended period of time. The goal of Soak testing is to ensure whether the software&#xD;
+    application sustains high volume of usage and to check what would happen outside its design expectations.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>
