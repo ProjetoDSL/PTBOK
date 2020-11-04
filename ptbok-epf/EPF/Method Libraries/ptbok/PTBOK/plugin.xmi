@@ -162,6 +162,15 @@
     <resourceDescriptors xmi:id="_qiyngBmqEeuDZfobjJr-1w" id="-3WmgojoP63c5hdE8tVVIdQ" uri="guidances/guidelines/endurance_testing.xmi"/>
     <resourceDescriptors xmi:id="_iLGhMBoVEeusPNrDuLsfKw" id="-CdkisvhfovVkLyi6Ou5arg" uri="guidances/supportingmaterials/HP_LoadRunner_Monitor_Reference.xmi"/>
     <resourceDescriptors xmi:id="_DG8XgBoTEeuro6vgHx8CUQ" id="-_NaAJSQpxlDlrSOxOf-q8w" uri="guidances/guidelines/sut_metrics.xmi"/>
+    <resourceDescriptors xmi:id="_el0XQB4gEeuZmLQ1wYj4-g" id="-Sp9gaX_SNoTWeGxqbgyrzg" uri="guidances/guidelines/capture_and_replay.xmi"/>
+    <resourceDescriptors xmi:id="_Efgq0B4iEeuZmLQ1wYj4-g" id="-vXCX_kAYzFahTSAzyzKzNg" uri="guidances/guidelines/database-based.xmi"/>
+    <resourceDescriptors xmi:id="_CRCWMB4kEeuZmLQ1wYj4-g" id="-7xUqdGihdJc6b25XA6XJGg" uri="guidances/guidelines/key_scenarios_analysis.xmi"/>
+    <resourceDescriptors xmi:id="_uPQ0gB4kEeuZmLQ1wYj4-g" id="-FZUO5M0nlX4oCAGR5cVCvA" uri="guidances/guidelines/random.xmi"/>
+    <resourceDescriptors xmi:id="_RV4Y8B4lEeuZmLQ1wYj4-g" id="-w3Z5GNTTWDTiDFbxVSB-5g" uri="guidances/guidelines/report_early_visually_intuitively.xmi"/>
+    <resourceDescriptors xmi:id="_Zn9HYB4mEeuZmLQ1wYj4-g" id="-sblFs1cBFJf2prMKCWTtww" uri="guidances/guidelines/sla_definition.xmi"/>
+    <resourceDescriptors xmi:id="_G8siUB5LEeuZmLQ1wYj4-g" id="-RbdUQA5UHSpwiaqlbo9Dow" uri="guidances/guidelines/user_profile_analysis.xmi"/>
+    <resourceDescriptors xmi:id="_7Vh1cB5LEeuZmLQ1wYj4-g" id="-WB7pSRzxWZCAHDQ4aHXIPg" uri="guidances/guidelines/statistical_principles.xmi"/>
+    <resourceDescriptors xmi:id="_sDpU4B5NEeuZmLQ1wYj4-g" id="-Lqg_Xacyt8yeUzyWmbtWeg" uri="guidances/guidelines/user_profiles_x_key_scenarios_mapping.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_EJQ_4D3vEem07NBMeZObjA" name="PTBOK" guid="_EJQ_4D3vEem07NBMeZObjA">
     <ownedRules xmi:id="_treisLlJEemt5oQZSu_gkA" name="wpState" guid="_treisLlJEemt5oQZSu_gkA" body="Template"/>
@@ -632,12 +641,15 @@
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_sZXmkPiYEeq-GNGrt9WlHQ" name="user_profile_analysis" guid="_sZXmkPiYEeq-GNGrt9WlHQ" presentationName="User Profile Analysis">
             <methodElementProperty xmi:id="_t2iIIPiYEeq-GNGrt9WlHQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-RbdUQA5UHSpwiaqlbo9Dow" href="uma://-RbdUQA5UHSpwiaqlbo9Dow#-RbdUQA5UHSpwiaqlbo9Dow"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_2nBGUPiYEeq-GNGrt9WlHQ" name="key_scenarios_analysis" guid="_2nBGUPiYEeq-GNGrt9WlHQ" presentationName="Key Scenarios Analysis">
             <methodElementProperty xmi:id="_3yKq0PiYEeq-GNGrt9WlHQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-7xUqdGihdJc6b25XA6XJGg" href="uma://-7xUqdGihdJc6b25XA6XJGg#-7xUqdGihdJc6b25XA6XJGg"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_hEKMYPiZEeq-GNGrt9WlHQ" name="user_profiles_x_key_scenarios_mapping" guid="_hEKMYPiZEeq-GNGrt9WlHQ" presentationName="User Profiles x Key Scenarios Mapping">
             <methodElementProperty xmi:id="_jWfbYPiZEeq-GNGrt9WlHQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-Lqg_Xacyt8yeUzyWmbtWeg" href="uma://-Lqg_Xacyt8yeUzyWmbtWeg#-Lqg_Xacyt8yeUzyWmbtWeg"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_6-kf8PiZEeq-GNGrt9WlHQ" name="environment_mapping" guid="_6-kf8PiZEeq-GNGrt9WlHQ" presentationName="Environment Mapping">
             <methodElementProperty xmi:id="_7yWtUPiZEeq-GNGrt9WlHQ" name="me_edited" value="true"/>
@@ -648,11 +660,13 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_x0PzgPibEeq-GNGrt9WlHQ" name="approaches_list" guid="_x0PzgPibEeq-GNGrt9WlHQ" presentationName="Approaches List" briefDescription="The list of approaches that are going to be used in the test. Defined in the Planning phase.">
             <methodElementProperty xmi:id="_yrrx0PibEeq-GNGrt9WlHQ" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_twX48PicEeq-GNGrt9WlHQ" name="random" guid="_twX48PicEeq-GNGrt9WlHQ" presentationName="Random">
+          <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_twX48PicEeq-GNGrt9WlHQ" name="random" guid="_twX48PicEeq-GNGrt9WlHQ" presentationName="Random" guidelines="_y3vbYPicEeq-GNGrt9WlHQ">
             <methodElementProperty xmi:id="_xW-MMPicEeq-GNGrt9WlHQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-FZUO5M0nlX4oCAGR5cVCvA" href="uma://-FZUO5M0nlX4oCAGR5cVCvA#-FZUO5M0nlX4oCAGR5cVCvA"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_y3vbYPicEeq-GNGrt9WlHQ" name="database-based" guid="_y3vbYPicEeq-GNGrt9WlHQ" presentationName="Database-based">
+          <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_y3vbYPicEeq-GNGrt9WlHQ" name="database-based" guid="_y3vbYPicEeq-GNGrt9WlHQ" presentationName="Database-based" guidelines="_twX48PicEeq-GNGrt9WlHQ">
             <methodElementProperty xmi:id="_1H3D4PicEeq-GNGrt9WlHQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-vXCX_kAYzFahTSAzyzKzNg" href="uma://-vXCX_kAYzFahTSAzyzKzNg#-vXCX_kAYzFahTSAzyzKzNg"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_J7ttUPidEeq-GNGrt9WlHQ" name="task_execution_plan" guid="_J7ttUPidEeq-GNGrt9WlHQ" presentationName="Task Execution Plan">
             <methodElementProperty xmi:id="_LBtFAPidEeq-GNGrt9WlHQ" name="me_edited" value="true"/>
@@ -663,6 +677,7 @@
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_FxRQsPieEeq-GNGrt9WlHQ" name="capture_and_replay" guid="_FxRQsPieEeq-GNGrt9WlHQ" presentationName="Capture and Replay">
             <methodElementProperty xmi:id="_Gwq4MPieEeq-GNGrt9WlHQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-Sp9gaX_SNoTWeGxqbgyrzg" href="uma://-Sp9gaX_SNoTWeGxqbgyrzg#-Sp9gaX_SNoTWeGxqbgyrzg"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_IB0-EPieEeq-GNGrt9WlHQ" name="model-based_testing" guid="_IB0-EPieEeq-GNGrt9WlHQ" presentationName="Model-Based Testing">
             <methodElementProperty xmi:id="_I-IOQPieEeq-GNGrt9WlHQ" name="me_edited" value="true"/>
@@ -696,6 +711,7 @@
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="__O650PikEeq-GNGrt9WlHQ" name="sla_definition" guid="__O650PikEeq-GNGrt9WlHQ" presentationName="SLA Definition">
             <methodElementProperty xmi:id="_ANk6cPilEeq-GNGrt9WlHQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-sblFs1cBFJf2prMKCWTtww" href="uma://-sblFs1cBFJf2prMKCWTtww#-sblFs1cBFJf2prMKCWTtww"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_9keUwPilEeq-GNGrt9WlHQ" name="ramp_up" guid="_9keUwPilEeq-GNGrt9WlHQ" presentationName="Ramp up">
             <methodElementProperty xmi:id="_-RucUPilEeq-GNGrt9WlHQ" name="me_edited" value="true"/>
@@ -721,9 +737,11 @@
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="__NyCoPiqEeq-GNGrt9WlHQ" name="statistical_principles" guid="__NyCoPiqEeq-GNGrt9WlHQ" presentationName="Statistical Principles">
             <methodElementProperty xmi:id="_AS6esPirEeq-GNGrt9WlHQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-WB7pSRzxWZCAHDQ4aHXIPg" href="uma://-WB7pSRzxWZCAHDQ4aHXIPg#-WB7pSRzxWZCAHDQ4aHXIPg"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_bwlUwPirEeq-GNGrt9WlHQ" name="report_early_visually_intuitively" guid="_bwlUwPirEeq-GNGrt9WlHQ" presentationName="Report Early, Visually, Intuitively">
             <methodElementProperty xmi:id="_eDcIMPirEeq-GNGrt9WlHQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-w3Z5GNTTWDTiDFbxVSB-5g" href="uma://-w3Z5GNTTWDTiDFbxVSB-5g#-w3Z5GNTTWDTiDFbxVSB-5g"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_kpXTUPirEeq-GNGrt9WlHQ" name="requirements_x_sla_x_execution" guid="_kpXTUPirEeq-GNGrt9WlHQ" presentationName="Requirements x SLA x Execution">
             <methodElementProperty xmi:id="_m2c18PirEeq-GNGrt9WlHQ" name="me_edited" value="true"/>

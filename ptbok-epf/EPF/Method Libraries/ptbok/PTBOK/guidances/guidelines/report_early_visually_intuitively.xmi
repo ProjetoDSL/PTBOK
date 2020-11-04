@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-w3Z5GNTTWDTiDFbxVSB-5g" name="report_early_visually_intuitively,_bwlUwPirEeq-GNGrt9WlHQ" guid="-w3Z5GNTTWDTiDFbxVSB-5g" changeDate="2020-11-03T19:38:08.135-0300">
+  <mainDescription>&lt;p>&#xD;
+    The key to effective reporting is to present information of interest in a manner that is quick, simple, and intuitive&#xD;
+    to the intended audience. Below are some underlying principles to achieving effective reports:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Report early, report often&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Report visually&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Report intuitively&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Use the right statistics&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Consolidate data correctly&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Summarize data effectively&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Customize for the intended audience&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Use concise verbal summaries using strong but factual language&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Make the data available&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Filter out any unnecessary data&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        If reporting intermediate results include the priorities, concerns and blockers for the next several test execution&#xD;
+        cycles&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

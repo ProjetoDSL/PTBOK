@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-7xUqdGihdJc6b25XA6XJGg" name="key_scenarios_analysis,_2nBGUPiYEeq-GNGrt9WlHQ" guid="-7xUqdGihdJc6b25XA6XJGg" changeDate="2020-11-03T19:23:18.660-0300">
+  <mainDescription>Mapping the main usage scenarios of the application is essential for proper test execution. A key scenario has some&#xD;
+peculiarities that characterize it, gathering access characteristics of a user profile with the related functionalities, as&#xD;
+well as the flow in which they occur. In this activity, the main scenarios are extracted and the Performance Testing Plan&#xD;
+is updated with this information.</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

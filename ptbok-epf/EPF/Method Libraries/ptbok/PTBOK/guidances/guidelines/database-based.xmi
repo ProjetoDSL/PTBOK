@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-vXCX_kAYzFahTSAzyzKzNg" name="database-based,_y3vbYPicEeq-GNGrt9WlHQ" guid="-vXCX_kAYzFahTSAzyzKzNg" changeDate="2020-11-03T19:18:21.402-0300">
+  <mainDescription>&lt;p>&#xD;
+    When defining tests, the test data used for execution&amp;nbsp;is retrieved from a database or any other file. Such as a&#xD;
+    .csv or .json.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

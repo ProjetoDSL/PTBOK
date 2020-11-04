@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-sblFs1cBFJf2prMKCWTtww" name="sla_definition,__O650PikEeq-GNGrt9WlHQ" guid="-sblFs1cBFJf2prMKCWTtww" changeDate="2020-11-03T19:45:49.157-0300">
+  <mainDescription>In summary, SLAs are specific goals that we set for the application. These goals are based on the best possible interaction&#xD;
+with users regarding to performance. To carry out this definition of SLAs, it is necessary to analyze the behavior of&#xD;
+certain types of application usage and map out arisen bottlenecks that can impair the application’s functioning. From these&#xD;
+values, it is possible to define SLAs. After performing the test, we must compare these values with the values obtained&#xD;
+during the test execution, indicating if the application meets the planned agreements.</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>
