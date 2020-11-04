@@ -1,2 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-fkt_oFwWJ1d6ZCTrQpUrBQ" name="approaches_list,_x0PzgPibEeq-GNGrt9WlHQ" guid="-fkt_oFwWJ1d6ZCTrQpUrBQ" changeDate="2020-11-03T19:12:06.836-0300"/>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-fkt_oFwWJ1d6ZCTrQpUrBQ" name="approaches_list,_x0PzgPibEeq-GNGrt9WlHQ" guid="-fkt_oFwWJ1d6ZCTrQpUrBQ" changeDate="2020-11-03T19:12:06.836-0300">
+  <mainDescription>The list of approaches that are going to be used in the test. Defined in the Planning phase.</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>
