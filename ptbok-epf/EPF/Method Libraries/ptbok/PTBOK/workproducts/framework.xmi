@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-o7_bSixa-pZACTdwghnRug" name="new_artifact,_ZKLgsPlPEeqYIum-itjD2A" guid="-o7_bSixa-pZACTdwghnRug" changeDate="2020-10-08T02:18:59.292-0300">
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-o7_bSixa-pZACTdwghnRug" name="new_artifact,_ZKLgsPlPEeqYIum-itjD2A" guid="-o7_bSixa-pZACTdwghnRug" changeDate="2020-11-12T14:41:55.325-0300">
   <mainDescription>&lt;p>&#xD;
     The figure below represents the PTBOK framework, which shows an overview of the process. Each phase is grouped with its&#xD;
     respective activities. Furthermore, through a color pattern, we can identify the relationship between activities X&#xD;
@@ -7,7 +7,7 @@
 &lt;/p>&#xD;
 &lt;br />&#xD;
 &lt;p>&#xD;
-    &lt;img style=&quot;HEIGHT: 485px; WIDTH: 1020px&quot; alt=&quot;&quot; src=&quot;./resources/ptbok.png&quot; usemap=&quot;#imageLinks&quot; /> &lt;map&#xD;
+    &lt;img style=&quot;HEIGHT: 540px; WIDTH: 1020px&quot; alt=&quot;&quot; src=&quot;./resources/ptbok.png&quot; usemap=&quot;#imageLinks&quot; /> &lt;map&#xD;
     id=&quot;imageLinks&quot; name=&quot;imageLinks&quot;>&#xD;
         &lt;area href=&quot;./../../PTBOK/tasks/p1.1_elicitate_performance_requirements_E4782A47.html&quot; shape=&quot;rect&quot;&#xD;
         alt=&quot;Elicitate Performance Requirements&quot; coords=&quot;32,38,129,103&quot; guid=&quot;_UcyUsN9JEeqLEKK0pLdylg&quot; />&#xD;
@@ -85,6 +85,26 @@
         guid=&quot;_LBrXEN9HEeqLEKK0pLdylg&quot; />&#xD;
         &lt;area href=&quot;./../../PTBOK/customcategories/post-test_E43C6976.html&quot; shape=&quot;rect&quot; alt=&quot;Post test&quot;&#xD;
         coords=&quot;30,418,110,440&quot; guid=&quot;_N_rZQN9HEeqLEKK0pLdylg&quot; />&#xD;
+        &lt;area title=&quot;Performance Domains&quot; href=&quot;./../../PTBOK/disciplinegroupings/performance_domains_E55C461B.html&quot;&#xD;
+        shape=&quot;rect&quot; alt=&quot;Performance Domains&quot; coords=&quot;122,356,235,373&quot; guid=&quot;_GNmpgN6WEeq0GuRSVkmB_Q&quot; />&#xD;
+        &lt;area title=&quot;Planning&quot; href=&quot;./../../PTBOK/customcategories/planning_84DDED66.html&quot; shape=&quot;rect&quot; alt=&quot;Planning&quot;&#xD;
+        coords=&quot;17,12,81,31&quot; guid=&quot;_t71z4N9HEeqLEKK0pLdylg&quot; />&#xD;
+        &lt;area title=&quot;Design&quot; href=&quot;./../../PTBOK/customcategories/design_929B31E0.html&quot; shape=&quot;rect&quot; alt=&quot;Design&quot;&#xD;
+        coords=&quot;16,217,67,235&quot; guid=&quot;_0i8DsN9HEeqLEKK0pLdylg&quot; />&#xD;
+        &lt;area title=&quot;Configuration&quot; href=&quot;./../../PTBOK/customcategories/configuration_F195A64F.html&quot; shape=&quot;rect&quot;&#xD;
+        alt=&quot;Configuration&quot; coords=&quot;616,217,712,234&quot; guid=&quot;_3xCXYN9HEeqLEKK0pLdylg&quot; />&#xD;
+        &lt;area title=&quot;Execution&quot; href=&quot;./../../PTBOK/customcategories/execution_F5EDEEB4.html&quot; shape=&quot;rect&quot; alt=&quot;Execution&quot;&#xD;
+        coords=&quot;613,13,679,30&quot; guid=&quot;_BBPXcN9IEeqLEKK0pLdylg&quot; />&#xD;
+        &lt;area title=&quot;Monitoring&quot; href=&quot;./../../PTBOK/customcategories/monitoring_D6F81FA8.html&quot; shape=&quot;rect&quot;&#xD;
+        alt=&quot;Monitoring&quot; coords=&quot;874,13,946,30&quot; guid=&quot;_EjR60N9IEeqLEKK0pLdylg&quot; />&#xD;
+        &lt;area title=&quot;Analysing&quot; href=&quot;./../../PTBOK/customcategories/analysis_19893790.html&quot; shape=&quot;rect&quot; alt=&quot;Analysing&quot;&#xD;
+        coords=&quot;535,338,607,354&quot; guid=&quot;_UjRMoN9IEeqLEKK0pLdylg&quot; />&#xD;
+        &lt;area title=&quot;Reporting&quot; href=&quot;./../../PTBOK/customcategories/reporting_251DB270.html&quot; shape=&quot;rect&quot; alt=&quot;Reporting&quot;&#xD;
+        coords=&quot;388,337,461,354&quot; guid=&quot;_YfkDEN9IEeqLEKK0pLdylg&quot; />&#xD;
+        &lt;area title=&quot;Phases&quot; href=&quot;./../../PTBOK/customcategories/phases_DB37BE95.html&quot; shape=&quot;rect&quot; alt=&quot;Phases&quot;&#xD;
+        coords=&quot;22,458,121,516&quot; guid=&quot;_bXRFcN9HEeqLEKK0pLdylg&quot; />&#xD;
+        &lt;area title=&quot;Stages&quot; href=&quot;./../../PTBOK/customcategories/stages_152315A6.html&quot; shape=&quot;rect&quot; alt=&quot;Stages&quot;&#xD;
+        coords=&quot;22,356,64,373&quot; guid=&quot;_3OF30N9GEeqLEKK0pLdylg&quot; />&#xD;
     &lt;/map>&#xD;
 &lt;/p></mainDescription>
 </org.eclipse.epf.uma:ArtifactDescription>
